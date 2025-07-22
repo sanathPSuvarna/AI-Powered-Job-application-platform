@@ -1,0 +1,391 @@
+/* frontend/src/pages/jobseeker/Skills.css */
+.skills-container {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: rgb(201, 194, 194);
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.skills-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #c0d3eb;
+}
+
+.skills-header h2 {
+    color: #303b4f;
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Current Skills Section */
+.current-skills {
+    margin-bottom: 3rem;
+}
+
+.current-skills h3 {
+    color: #414b5c;
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.skills-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.skill-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.skill-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.skill-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.skill-name {
+    color: #2d3748;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.skill-level {
+    color: #718096;
+    font-size: 0.9rem;
+}
+
+.remove-skill {
+    background: #fff5f5;
+    color: #e53e3e;
+    border: 1px solid #feb2b2;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.remove-skill:hover {
+    background: #fed7d7;
+    color: #c53030;
+}
+
+/* Add New Skill Form */
+.add-skill-form {
+    background: #f7fafc;
+    padding: 2rem;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+}
+
+.add-skill-form h3 {
+    color: #4a5568;
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    font-weight: 500;
+}
+
+.form-group select,
+.form-group input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    background-color: white;
+    color: #2d3748;
+    font-size: 1rem;
+    transition: border-color 0.2s ease;
+}
+
+.form-group select:focus,
+.form-group input:focus {
+    outline: none;
+    border-color: #4299e1;
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.1);
+}
+
+.add-skill-button {
+    background-color: #4299e1;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.add-skill-button:hover {
+    background-color: #3182ce;
+    transform: translateY(-1px);
+}
+
+.add-skill-button:disabled {
+    background-color: #cbd5e0;
+    cursor: not-allowed;
+    transform: none;
+}
+
+/* Proficiency Level Badges */
+.proficiency-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.proficiency-beginner {
+    background-color: #e9d8fd;
+    color: #553c9a;
+}
+
+.proficiency-intermediate {
+    background-color: #bfdbfe;
+    color: #1e40af;
+}
+
+.proficiency-advanced {
+    background-color: #bbf7d0;
+    color: #166534;
+}
+
+/* Resume Upload Section */
+.resume-upload-section {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background: #f0f9ff;
+    border-radius: 8px;
+    border: 1px solid #bfdbfe;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.resume-upload-section h3 {
+    color: #4a5568;
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.upload-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.file-input {
+    padding: 1.5rem;
+    border: 2px dashed #93c5fd;
+    border-radius: 8px;
+    background: #e0f2fe;
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+    color: #1e40af;
+}
+
+.file-input:hover {
+    border-color: #3b82f6;
+    background: #dbeafe;
+}
+
+.upload-btn {
+    background: #3182ce;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    max-width: 200px;
+}
+
+.upload-btn:hover {
+    background: #2c5282;
+}
+
+.upload-btn:disabled {
+    background: #a0aec0;
+    cursor: not-allowed;
+}
+
+/* Extracted Skills Section */
+.extracted-skills-section {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #ebf8ff;
+    border: 1px solid #bee3f8;
+    border-radius: 8px;
+}
+
+.extracted-skills-section h4 {
+    color: #2c5282;
+    margin-bottom: 1rem;
+}
+
+.extracted-skills-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.skill-checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    background: white;
+    border-radius: 4px;
+    border: 1px solid #e2e8f0;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.skill-checkbox-label:hover {
+    background: #f7fafc;
+}
+
+.skill-checkbox-label input {
+    margin-right: 0.5rem;
+}
+
+.add-extracted-btn {
+    background: #2b6cb0;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-top: 1rem;
+}
+
+.add-extracted-btn:hover {
+    background: #2c5282;
+}
+
+.add-extracted-btn:disabled {
+    background: #a0aec0;
+    cursor: not-allowed;
+}
+
+.unmatched-skills {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: #fffaf0;
+    border: 1px solid #feebc8;
+    border-radius: 6px;
+}
+
+.unmatched-skills h4 {
+    color: #9c4221;
+    margin-bottom: 0.75rem;
+}
+
+.unmatched-skills ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.unmatched-skills li {
+    background: #fff;
+    border: 1px solid #ed8936;
+    color: #c05621;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .skills-container {
+        margin: 1rem;
+        padding: 1rem;
+    }
+
+    .skills-list {
+        grid-template-columns: 1fr;
+    }
+
+    .skill-item {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .add-skill-form {
+        padding: 1rem;
+    }
+}
+
+/* Empty State */
+.no-skills {
+    text-align: center;
+    padding: 2rem;
+    background: #f7fafc;
+    border-radius: 8px;
+    color: #718096;
+}
+
+/* Loading State */
+.loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+}
+
+/* Error State */
+.error-message {
+    padding: 1rem;
+    background: #fff5f5;
+    color: #c53030;
+    border: 1px solid #feb2b2;
+    border-radius: 6px;
+    margin: 1rem 0;
+}
+
+/* Success Message */
+.success-message {
+    padding: 1rem;
+    background: #f0fff4;
+    color: #276749;
+    border: 1px solid #9ae6b4;
+    border-radius: 6px;
+    margin: 1rem 0;
+}

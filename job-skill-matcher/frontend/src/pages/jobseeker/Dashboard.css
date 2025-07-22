@@ -1,0 +1,78 @@
+/* Add this CSS in a new file: src/pages/jobseeker/Dashboard.css */
+
+.dashboard-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #798897; /* Light background for the entire dashboard */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+}
+
+.dashboard-section {
+    background: #708890; /* White background for sections */
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.jobs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.job-card {
+    background: #e3f2fd; /* Light blue background for job cards */
+    border-radius: 6px;
+    padding: 15px;
+    border: 1px solid #90caf9; /* Blue border */
+}
+
+.applications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.application-card {
+    background: #e8f5e9; /* Light green background for application cards */
+    border-radius: 6px;
+    padding: 15px;
+    border: 1px solid #000000; /* Green border */
+}
+
+button {
+    background: #1976d2; /* Darker blue for buttons */
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background: #1565c0; /* Darker shade on hover */
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.skill-card {
+    background: #fff3e0; /* Light orange background for skill cards */
+    border-radius: 6px;
+    padding: 12px;
+    border: 1px solid #ff9c07; /* Orange border */
+}
