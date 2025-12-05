@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 3 years of experience in software development and technology.
+Strong background in Shell Scripting, Neo4j, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Perl, Kotlin, Scala
+Technologies: Svelte, Flask
+Databases: Neo4j, Cassandra
+Cloud Platforms: 
+Tools: Git, REST API, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+QA Engineer - PayPal (2021 - Present)
+• Developed applications using Shell Scripting and Neo4j
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Computer Science
+University of Illinois
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Oracle Certified, CISSP

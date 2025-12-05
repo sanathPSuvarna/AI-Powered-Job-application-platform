@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Project Manager with 0 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: PHP, Rust
+Technologies: Django
+Databases: PostgreSQL, Elasticsearch
+Cloud Platforms: Puppet
+Tools: Scrum, GraphQL, Confluence, Sketch
+
+WORK EXPERIENCE
+Project Manager - LinkedIn (2024 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Django
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2020
+
+CERTIFICATIONS

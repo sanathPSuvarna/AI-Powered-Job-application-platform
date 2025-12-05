@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, GraphQL, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, JavaScript
+Technologies: Laravel, Next.js, Gatsby
+Databases: CouchDB, Elasticsearch
+Cloud Platforms: Jenkins
+Tools: GraphQL, Microsoft Teams, Postman
+
+WORK EXPERIENCE
+Tech Lead - eBay (2017 - Present)
+• Developed applications using CompTIA Security+ and GraphQL
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+NYU
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 4 years of experience in software development and technology.
+Strong background in CompTIA Security+, Adobe Creative Suite, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, Kotlin
+Technologies: Babel
+Databases: Redis
+Cloud Platforms: CircleCI, Vagrant
+Tools: Adobe Creative Suite, Confluence, GitLab, Figma
+
+WORK EXPERIENCE
+Network Engineer - Google (2020 - Present)
+• Developed applications using CompTIA Security+ and Adobe Creative Suite
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UCLA
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Oracle Certified, Azure Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 3 years of experience in software development and technology.
+Strong background in Creativity, Adobe Creative Suite, Swift.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, VBA, JavaScript, C++
+Technologies: React, Vue.js
+Databases: CouchDB
+Cloud Platforms: OpenShift
+Tools: Adobe Creative Suite, InVision
+
+WORK EXPERIENCE
+DevOps Engineer - Google (2021 - Present)
+• Developed applications using Creativity and Adobe Creative Suite
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2017
+
+CERTIFICATIONS
+Scrum Master

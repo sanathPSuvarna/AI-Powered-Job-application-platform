@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 10 years of experience in software development and technology.
+Strong background in MariaDB, Objective-C, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Java, C++, Groovy, MATLAB
+Technologies: Gatsby, Spring Boot
+Databases: MariaDB, Amazon RDS, MySQL
+Cloud Platforms: CircleCI, Terraform, Vagrant
+Tools: SOAP, Swagger, Sketch, Scrum, GitHub
+
+WORK EXPERIENCE
+UI/UX Designer - IBM (2014 - Present)
+• Developed applications using MariaDB and Objective-C
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Engineering in Data Science
+Columbia University
+Graduated: 2010
+
+CERTIFICATIONS
+Scrum Master, Google Cloud Certified, CISSP

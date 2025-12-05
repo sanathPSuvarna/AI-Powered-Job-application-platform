@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 2 years of experience in software development and technology.
+Strong background in Project Management, Webpack, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, F#, VBA, Scala
+Technologies: Webpack, Next.js, React
+Databases: CouchDB
+Cloud Platforms: 
+Tools: Scrum, Microsoft Teams
+
+WORK EXPERIENCE
+Data Analyst - IBM (2022 - Present)
+• Developed applications using Project Management and Webpack
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Information Technology
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

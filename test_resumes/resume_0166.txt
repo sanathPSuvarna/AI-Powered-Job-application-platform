@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 4 years of experience in software development and technology.
+Strong background in Project Management, Shell Scripting, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, Ruby, C#
+Technologies: LESS, CSS
+Databases: SQL Server, Redis
+Cloud Platforms: Google Cloud Platform
+Tools: Zoom, Scrum, Microservices
+
+WORK EXPERIENCE
+Tech Lead - Square (2020 - Present)
+• Developed applications using Project Management and Shell Scripting
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+MIT
+Graduated: 2016
+
+CERTIFICATIONS
+Microsoft Certified

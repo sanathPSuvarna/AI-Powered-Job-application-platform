@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 6 years of experience in software development and technology.
+Strong background in Time Management, Creativity, HTML.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, PHP, C++
+Technologies: HTML, CSS
+Databases: Google Cloud SQL
+Cloud Platforms: OpenShift
+Tools: Swagger, Git
+
+WORK EXPERIENCE
+Engineering Manager - PayPal (2018 - Present)
+• Developed applications using Time Management and Creativity
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2014
+
+CERTIFICATIONS
+Microsoft Certified

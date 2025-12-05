@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 2 years of experience in software development and technology.
+Strong background in CompTIA Security+, Objective-C, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Perl, Groovy
+Technologies: jQuery, Node.js, Babel
+Databases: SQL Server, Cassandra
+Cloud Platforms: Terraform, Google Cloud Platform
+Tools: Confluence, Bitbucket, REST API
+
+WORK EXPERIENCE
+Tech Lead - LinkedIn (2022 - Present)
+• Developed applications using CompTIA Security+ and Objective-C
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+

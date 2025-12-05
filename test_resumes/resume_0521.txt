@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 3 years of experience in software development and technology.
+Strong background in Laravel, InVision, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Clojure, Scala
+Technologies: Laravel, jQuery, Gatsby
+Databases: MySQL, Elasticsearch
+Cloud Platforms: Kubernetes, OpenShift
+Tools: InVision, SOAP, Microsoft Teams
+
+WORK EXPERIENCE
+System Administrator - Uber (2021 - Present)
+• Developed applications using Laravel and InVision
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+Azure Certified, CISSP, Microsoft Certified

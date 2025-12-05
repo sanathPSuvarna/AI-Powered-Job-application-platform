@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 0 years of experience in software development and technology.
+Strong background in MariaDB, Heroku, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python, Groovy, PHP
+Technologies: Webpack, HTML
+Databases: MariaDB
+Cloud Platforms: Heroku, GitLab CI/CD
+Tools: Scrum, Zoom
+
+WORK EXPERIENCE
+Tech Lead - Spotify (2024 - Present)
+• Developed applications using MariaDB and Heroku
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Engineering in Data Science
+University of Washington
+Graduated: 2020
+
+CERTIFICATIONS
+Microsoft Certified

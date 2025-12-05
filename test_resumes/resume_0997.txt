@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 0 years of experience in software development and technology.
+Strong background in Plotly, Customer Service, Apache Spark.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, Dart
+Technologies: Node.js, Next.js, CSS
+Databases: Firebase, Amazon RDS
+Cloud Platforms: Jenkins
+Tools: Kanban, GraphQL
+
+WORK EXPERIENCE
+DevOps Engineer - Facebook (2024 - Present)
+• Developed applications using Plotly and Customer Service
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Washington
+Graduated: 2020
+
+CERTIFICATIONS
+AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 11 years of experience in software development and technology.
+Strong background in Time Management, Adobe Creative Suite, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Dart, Kotlin, Ruby
+Technologies: jQuery, Webpack, Flask
+Databases: MySQL, MongoDB
+Cloud Platforms: AWS
+Tools: Adobe Creative Suite, InVision, Swagger, GitLab, Figma
+
+WORK EXPERIENCE
+Machine Learning Engineer - NVIDIA (2013 - Present)
+• Developed applications using Time Management and Adobe Creative Suite
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2009
+
+CERTIFICATIONS
+Scrum Master

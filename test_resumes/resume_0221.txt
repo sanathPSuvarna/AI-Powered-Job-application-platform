@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 4 years of experience in software development and technology.
+Strong background in Google Cloud Certified, Adobe Creative Suite, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Groovy
+Technologies: Spring Boot, Bootstrap
+Databases: SQL Server, Cassandra
+Cloud Platforms: 
+Tools: Adobe Creative Suite, GraphQL, REST API
+
+WORK EXPERIENCE
+Data Scientist - Salesforce (2020 - Present)
+• Developed applications using Google Cloud Certified and Adobe Creative Suite
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Columbia University
+Graduated: 2016
+
+CERTIFICATIONS
+Google Cloud Certified, AWS Certified, Scrum Master

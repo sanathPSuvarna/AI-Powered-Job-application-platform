@@ -1,0 +1,6 @@
+COMMON FALSE POSITIVES
+======================================================================
+
+web development                          - FP    4 times (0.8%)
+data science                             - FP    2 times (0.4%)
+kubernetes                               - FP    1 times (0.2%)

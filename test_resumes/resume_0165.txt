@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 14 years of experience in software development and technology.
+Strong background in Cisco Certified, PowerShell, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Swift, R
+Technologies: Gatsby, React, Nuxt.js
+Databases: Neo4j, DynamoDB, MongoDB
+Cloud Platforms: Vagrant, Puppet
+Tools: Swagger, GraphQL, DevOps
+
+WORK EXPERIENCE
+Software Engineer - IBM (2010 - Present)
+• Developed applications using Cisco Certified and PowerShell
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+Graduated: 2006
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with 14 years of experience in software development and technology.
+Strong background in Shell Scripting, Cisco Certified, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, VBA, C#, Python, Kotlin
+Technologies: Gatsby, React, Django
+Databases: MongoDB, SQLite
+Cloud Platforms: AWS, Puppet
+Tools: InVision, SOAP, Confluence, Sketch, GitHub
+
+WORK EXPERIENCE
+Full Stack Developer - LinkedIn (2010 - Present)
+• Developed applications using Shell Scripting and Cisco Certified
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Illinois
+Graduated: 2006
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, Azure Certified

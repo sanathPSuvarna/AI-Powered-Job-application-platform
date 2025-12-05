@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 7 years of experience in software development and technology.
+Strong background in DynamoDB, Firebase, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, Go
+Technologies: CSS, Webpack, Express.js
+Databases: DynamoDB, Firebase
+Cloud Platforms: Jenkins, GitHub Actions
+Tools: Scrum, Microsoft Teams
+
+WORK EXPERIENCE
+Solutions Architect - VMware (2017 - Present)
+• Developed applications using DynamoDB and Firebase
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+Graduated: 2013
+
+CERTIFICATIONS
+Scrum Master, Azure Certified, AWS Certified

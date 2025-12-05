@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 15 years of experience in software development and technology.
+Strong background in Time Management, Objective-C, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, R
+Technologies: Svelte, Bootstrap, Next.js
+Databases: MongoDB, Redis
+Cloud Platforms: Chef, Terraform, Puppet
+Tools: InVision, Swagger, Sketch, Agile
+
+WORK EXPERIENCE
+Machine Learning Engineer - VMware (2009 - Present)
+• Developed applications using Time Management and Objective-C
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2005
+
+CERTIFICATIONS
+PMP, Salesforce Certified

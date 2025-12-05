@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 6 years of experience in software development and technology.
+Strong background in Critical Thinking, R, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: R, Rust, PHP, Java
+Technologies: SASS, Gatsby
+Databases: DynamoDB
+Cloud Platforms: Kubernetes, Puppet
+Tools: GitLab, SOAP, Sketch
+
+WORK EXPERIENCE
+Technical Writer - Cisco (2018 - Present)
+• Developed applications using Critical Thinking and R
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified

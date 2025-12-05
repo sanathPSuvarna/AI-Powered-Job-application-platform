@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 9 years of experience in software development and technology.
+Strong background in CompTIA Security+, jQuery, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Swift, R, Rust
+Technologies: jQuery, Babel, CSS, Webpack
+Databases: DynamoDB, InfluxDB
+Cloud Platforms: Ansible, CircleCI, Terraform
+Tools: Git, Swagger, Scrum, Slack, GitHub
+
+WORK EXPERIENCE
+Senior Software Engineer - PayPal (2015 - Present)
+• Developed applications using CompTIA Security+ and jQuery
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Science in Machine Learning
+NYU
+Graduated: 2011
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master, Oracle Certified

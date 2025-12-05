@@ -13,6 +13,8 @@ const employerProfileRoutes = require('./routes/employerProfileRoutes');
 const applicationRoutes = require('./routes/applicationRoutes');
 const researchPaperRoutes = require('./routes/researchPaperRoutes');
 const resumeSkillRoutes = require('./routes/resumeSkillRoutes');
+const careerPathRoutes = require('./routes/careerPathRoutes');
+const interviewRoutes = require('./routes/interviewRoutes');
 
 app.use(cors({
     origin: "http://localhost:3000",
@@ -43,6 +45,8 @@ app.use('/api/employer-profile', employerProfileRoutes);
 app.use('/api/applications', applicationRoutes);
 app.use('/api/research-papers', researchPaperRoutes);
 app.use('/api/resume-skills', resumeSkillRoutes);
+app.use('/api/career-path', careerPathRoutes);
+app.use('/api/interviews', interviewRoutes);
 app.get('/api/test', (req, res) => {
     res.json({ message: 'Welcome to Job Skill Matcher API' });
 });

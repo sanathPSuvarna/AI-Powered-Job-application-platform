@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, Ruby, PHP
+Technologies: Webpack, Angular, Bootstrap
+Databases: Neo4j
+Cloud Platforms: 
+Tools: Microsoft Teams, Postman
+
+WORK EXPERIENCE
+Technical Writer - Tesla (2020 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Computer Science
+Yale University
+Graduated: 2016
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified, Scrum Master

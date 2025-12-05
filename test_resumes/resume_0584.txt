@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 2 years of experience in software development and technology.
+Strong background in Nuxt.js, Scrum, Figma.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Dart
+Technologies: Nuxt.js, Babel, CSS
+Databases: SQL Server, CouchDB
+Cloud Platforms: Jenkins
+Tools: Scrum, Figma, Microservices
+
+WORK EXPERIENCE
+Database Administrator - LinkedIn (2022 - Present)
+• Developed applications using Nuxt.js and Scrum
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+Georgia Tech
+Graduated: 2018
+
+CERTIFICATIONS
+CISSP

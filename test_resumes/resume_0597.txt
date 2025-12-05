@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 15 years of experience in software development and technology.
+Strong background in MariaDB, Cisco Certified, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Haskell, Ruby
+Technologies: Laravel, Node.js, Bootstrap
+Databases: MariaDB, DynamoDB, MongoDB
+Cloud Platforms: Ansible, AWS, DigitalOcean
+Tools: GraphQL, Scrum, Kanban
+
+WORK EXPERIENCE
+Tech Lead - LinkedIn (2009 - Present)
+• Developed applications using MariaDB and Cisco Certified
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Computer Science
+University of Washington
+Graduated: 2005
+
+CERTIFICATIONS
+Cisco Certified, PMP, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 14 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Neo4j, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Groovy, Rust
+Technologies: jQuery, Gatsby
+Databases: Google Cloud SQL, Neo4j, Cassandra
+Cloud Platforms: DigitalOcean
+Tools: Microservices, Confluence, Kanban
+
+WORK EXPERIENCE
+Software Architect - Dell (2010 - Present)
+• Developed applications using Google Cloud SQL and Neo4j
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Engineering in Data Science
+UT Austin
+Graduated: 2006
+
+CERTIFICATIONS
+PMP, Oracle Certified

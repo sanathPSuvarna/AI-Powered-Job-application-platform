@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, R, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: R, Ruby, Java
+Technologies: Svelte, Angular
+Databases: SQLite
+Cloud Platforms: 
+Tools: SOAP, JIRA
+
+WORK EXPERIENCE
+Full Stack Developer - Slack (2019 - Present)
+• Developed applications using CompTIA Security+ and R
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Science in Computer Science
+Harvard University
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified, Cisco Certified

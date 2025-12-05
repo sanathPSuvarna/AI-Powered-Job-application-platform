@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 11 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, F#
+Technologies: SASS, Next.js
+Databases: Neo4j, MySQL
+Cloud Platforms: Terraform, Puppet
+Tools: InVision, Zoom, Swagger, REST API
+
+WORK EXPERIENCE
+Database Administrator - NVIDIA (2013 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Business Administration
+University of Washington
+Graduated: 2009
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Scrum Master

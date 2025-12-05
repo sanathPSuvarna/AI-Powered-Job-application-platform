@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 4 years of experience in software development and technology.
+Strong background in GitLab CI/CD, PyTorch, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript, Java
+Technologies: SASS, Spring Boot
+Databases: SQLite, Elasticsearch
+Cloud Platforms: GitLab CI/CD, Docker
+Tools: Microsoft Teams, InVision, REST API
+
+WORK EXPERIENCE
+Software Architect - Oracle (2020 - Present)
+• Developed applications using GitLab CI/CD and PyTorch
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Columbia University
+Graduated: 2016
+
+CERTIFICATIONS
+Azure Certified

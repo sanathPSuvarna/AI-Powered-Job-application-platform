@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 6 years of experience in software development and technology.
+Strong background in Shell Scripting, Ansible, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python, Rust, Scala
+Technologies: Spring Boot
+Databases: SQLite
+Cloud Platforms: Ansible, Chef
+Tools: GitLab, Microservices
+
+WORK EXPERIENCE
+DevOps Engineer - Square (2018 - Present)
+• Developed applications using Shell Scripting and Ansible
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Science in Machine Learning
+Purdue University
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified, Salesforce Certified

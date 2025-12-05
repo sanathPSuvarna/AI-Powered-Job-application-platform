@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Google Cloud SQL, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, Groovy
+Technologies: HTML, Spring Boot, Bootstrap
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: InVision, JIRA, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Engineering Manager - Intel (2021 - Present)
+• Developed applications using CompTIA Security+ and Google Cloud SQL
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Science in Machine Learning
+MIT
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Microsoft Certified

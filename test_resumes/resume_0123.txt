@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 6 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, Chef.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, C#, Dart
+Technologies: Laravel, Express.js, Flask
+Databases: MariaDB, MySQL
+Cloud Platforms: Chef, AWS
+Tools: GitLab, Git
+
+WORK EXPERIENCE
+Business Analyst - Tesla (2018 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Georgia Tech
+Graduated: 2014
+
+CERTIFICATIONS
+Oracle Certified, CISSP, AWS Certified

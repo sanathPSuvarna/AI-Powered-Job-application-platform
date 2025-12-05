@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 1 years of experience in software development and technology.
+Strong background in Shell Scripting, SASS, Leadership.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Go, VBA, Scala
+Technologies: SASS
+Databases: SQLite
+Cloud Platforms: 
+Tools: GitHub, JIRA
+
+WORK EXPERIENCE
+Data Scientist - Apple (2023 - Present)
+• Developed applications using Shell Scripting and SASS
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Computer Science
+USC
+Graduated: 2019
+
+CERTIFICATIONS
+Scrum Master

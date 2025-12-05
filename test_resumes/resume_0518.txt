@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 3 years of experience in software development and technology.
+Strong background in Django, CompTIA Security+, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Groovy, Swift, Haskell
+Technologies: Django, Next.js
+Databases: Google Cloud SQL, SQLite
+Cloud Platforms: 
+Tools: GitLab, Adobe Creative Suite, Postman, Git
+
+WORK EXPERIENCE
+Senior Software Engineer - NVIDIA (2021 - Present)
+• Developed applications using Django and CompTIA Security+
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Machine Learning
+NYU
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 1 years of experience in software development and technology.
+Strong background in R, Team Collaboration, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: R, TypeScript
+Technologies: Angular
+Databases: InfluxDB, Amazon RDS
+Cloud Platforms: 
+Tools: Zoom, Agile, SOAP, Sketch
+
+WORK EXPERIENCE
+Database Administrator - PayPal (2023 - Present)
+• Developed applications using R and Team Collaboration
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Business Administration
+University of Washington
+Graduated: 2019
+
+CERTIFICATIONS

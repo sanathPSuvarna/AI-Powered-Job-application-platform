@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 6 years of experience in software development and technology.
+Strong background in jQuery, DynamoDB, Postman.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Go, Haskell, Ruby
+Technologies: jQuery, Angular, LESS
+Databases: DynamoDB, Firebase
+Cloud Platforms: Docker, Puppet
+Tools: Postman, Bitbucket, GitLab, Slack
+
+WORK EXPERIENCE
+UI/UX Designer - Dell (2018 - Present)
+• Developed applications using jQuery and DynamoDB
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Harvard University
+Graduated: 2014
+
+CERTIFICATIONS
+Scrum Master

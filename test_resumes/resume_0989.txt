@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 5 years of experience in software development and technology.
+Strong background in Plotly, Project Management, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Groovy, C#, Java
+Technologies: SASS, Node.js, CSS
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: 
+Tools: InVision, Figma
+
+WORK EXPERIENCE
+Data Scientist - Cisco (2019 - Present)
+• Developed applications using Plotly and Project Management
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+Harvard University
+Graduated: 2015
+
+CERTIFICATIONS
+Salesforce Certified, CISSP, PMP

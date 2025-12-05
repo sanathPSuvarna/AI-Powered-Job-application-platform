@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 15 years of experience in software development and technology.
+Strong background in SQL Server, DynamoDB, Firebase.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, C++, Rust, PHP, MATLAB
+Technologies: Spring Boot, React, Django
+Databases: SQL Server, DynamoDB, Firebase
+Cloud Platforms: Azure, Heroku, Google Cloud Platform
+Tools: Zoom, REST API, DevOps, Figma
+
+WORK EXPERIENCE
+DevOps Engineer - IBM (2009 - Present)
+• Developed applications using SQL Server and DynamoDB
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+Columbia University
+Graduated: 2005
+
+CERTIFICATIONS
+Scrum Master

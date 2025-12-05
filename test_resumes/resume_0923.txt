@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 4 years of experience in software development and technology.
+Strong background in Heroku, Project Management, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, MATLAB, Java
+Technologies: React
+Databases: PostgreSQL, Neo4j
+Cloud Platforms: Heroku, AWS
+Tools: Slack, InVision, GitHub, Sketch
+
+WORK EXPERIENCE
+Frontend Developer - NVIDIA (2020 - Present)
+• Developed applications using Heroku and Project Management
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2016
+
+CERTIFICATIONS
+CISSP

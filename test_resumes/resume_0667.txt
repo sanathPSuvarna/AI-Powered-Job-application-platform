@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 1 years of experience in software development and technology.
+Strong background in Creativity, Scrum, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, PHP
+Technologies: Next.js
+Databases: MongoDB
+Cloud Platforms: OpenShift
+Tools: Scrum, Adobe Creative Suite, Confluence
+
+WORK EXPERIENCE
+QA Engineer - Apple (2023 - Present)
+• Developed applications using Creativity and Scrum
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+CMU
+Graduated: 2019
+
+CERTIFICATIONS
+CISSP, Scrum Master

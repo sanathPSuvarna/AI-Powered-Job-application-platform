@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 1 years of experience in software development and technology.
+Strong background in R, SASS, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: R, Groovy, Rust
+Technologies: SASS, Gatsby
+Databases: MongoDB
+Cloud Platforms: Ansible, DigitalOcean
+Tools: Postman, SOAP
+
+WORK EXPERIENCE
+UI/UX Designer - Zoom (2023 - Present)
+• Developed applications using R and SASS
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+MIT
+Graduated: 2019
+
+CERTIFICATIONS
+AWS Certified

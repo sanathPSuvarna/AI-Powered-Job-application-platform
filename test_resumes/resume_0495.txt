@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Solutions Architect with 15 years of experience in software development and technology.
+Strong background in SASS, Laravel, SOAP.
+
+TECHNICAL SKILLS
+Programming Languages: Java, F#, Swift
+Technologies: SASS, Laravel, Angular
+Databases: MySQL, CouchDB, MongoDB
+Cloud Platforms: Vagrant, Azure
+Tools: SOAP, GraphQL, Microservices
+
+WORK EXPERIENCE
+Solutions Architect - eBay (2009 - Present)
+• Developed applications using SASS and Laravel
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Science in Machine Learning
+Columbia University
+Graduated: 2005
+
+CERTIFICATIONS
+PMP, Salesforce Certified, CISSP

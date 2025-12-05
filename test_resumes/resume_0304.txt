@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 6 years of experience in software development and technology.
+Strong background in Oracle Certified, Shell Scripting, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Perl
+Technologies: SASS, React
+Databases: MongoDB, Oracle
+Cloud Platforms: DigitalOcean
+Tools: Kanban, Agile, GraphQL
+
+WORK EXPERIENCE
+Business Analyst - Spotify (2018 - Present)
+• Developed applications using Oracle Certified and Shell Scripting
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2014
+
+CERTIFICATIONS
+Oracle Certified, Azure Certified, CISSP

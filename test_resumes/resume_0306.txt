@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with 12 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python, F#, C++
+Technologies: SASS, React, LESS
+Databases: PostgreSQL, SQL Server
+Cloud Platforms: Azure, Heroku
+Tools: JIRA, Agile, GitHub
+
+WORK EXPERIENCE
+Full Stack Developer - Square (2012 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+CMU
+Graduated: 2008
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Google Cloud Certified

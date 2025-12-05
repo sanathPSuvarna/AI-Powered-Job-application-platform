@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Perl, TypeScript, JavaScript
+Technologies: Laravel, Bootstrap
+Databases: Neo4j
+Cloud Platforms: Vagrant
+Tools: Adobe Creative Suite, Microsoft Teams, JIRA
+
+WORK EXPERIENCE
+Data Analyst - Amazon (2021 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Michigan
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

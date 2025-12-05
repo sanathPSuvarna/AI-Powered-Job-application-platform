@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 5 years of experience in software development and technology.
+Strong background in Time Management, Objective-C, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Haskell, Rust
+Technologies: Express.js
+Databases: Oracle
+Cloud Platforms: GitHub Actions, Kubernetes
+Tools: JIRA, Microservices, Microsoft Teams
+
+WORK EXPERIENCE
+Product Manager - Slack (2019 - Present)
+• Developed applications using Time Management and Objective-C
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2015
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, Azure Certified

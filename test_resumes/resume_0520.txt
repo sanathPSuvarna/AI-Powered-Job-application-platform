@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 6 years of experience in software development and technology.
+Strong background in Objective-C, Cisco Certified, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Groovy, Scala
+Technologies: Nuxt.js
+Databases: CouchDB
+Cloud Platforms: Docker, Kubernetes
+Tools: Zoom, Slack, Agile
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Cisco (2018 - Present)
+• Developed applications using Objective-C and Cisco Certified
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified, AWS Certified

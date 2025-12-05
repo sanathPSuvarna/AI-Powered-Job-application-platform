@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, R, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: R, Python
+Technologies: Webpack
+Databases: Elasticsearch
+Cloud Platforms: CircleCI
+Tools: Bitbucket, GitHub
+
+WORK EXPERIENCE
+Business Analyst - Square (2018 - Present)
+• Developed applications using CompTIA Security+ and R
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UCLA
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

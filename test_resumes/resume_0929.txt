@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 3 years of experience in software development and technology.
+Strong background in Shell Scripting, Communication, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin, PowerShell
+Technologies: Gatsby
+Databases: MongoDB, Neo4j
+Cloud Platforms: 
+Tools: Zoom, SOAP, GraphQL, JIRA
+
+WORK EXPERIENCE
+System Administrator - Zoom (2021 - Present)
+• Developed applications using Shell Scripting and Communication
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2017
+
+CERTIFICATIONS
+Azure Certified, CISSP, PMP

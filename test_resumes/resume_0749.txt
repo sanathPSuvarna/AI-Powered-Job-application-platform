@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in R, Perl, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: R, Perl, Objective-C, Scala
+Technologies: Bootstrap, Gatsby
+Databases: Oracle
+Cloud Platforms: 
+Tools: Git, Bitbucket, Confluence
+
+WORK EXPERIENCE
+Backend Developer - Dell (2021 - Present)
+• Developed applications using R and Perl
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified, Microsoft Certified, PMP

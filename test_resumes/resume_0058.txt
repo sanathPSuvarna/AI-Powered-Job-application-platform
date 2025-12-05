@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 0 years of experience in software development and technology.
+Strong background in Critical Thinking, Communication, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Python, Scala
+Technologies: jQuery
+Databases: Oracle, Firebase
+Cloud Platforms: 
+Tools: Microservices, Sketch
+
+WORK EXPERIENCE
+Solutions Architect - Tesla (2024 - Present)
+• Developed applications using Critical Thinking and Communication
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Georgia Tech
+Graduated: 2020
+
+CERTIFICATIONS

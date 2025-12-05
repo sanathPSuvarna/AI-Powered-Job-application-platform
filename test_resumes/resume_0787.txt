@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 4 years of experience in software development and technology.
+Strong background in Pandas, SQL Server, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Dart, Go, JavaScript
+Technologies: Nuxt.js, Next.js
+Databases: SQL Server
+Cloud Platforms: Heroku
+Tools: Microservices, REST API, Slack, Microsoft Teams
+
+WORK EXPERIENCE
+Engineering Manager - Adobe (2020 - Present)
+• Developed applications using Pandas and SQL Server
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2016
+
+CERTIFICATIONS
+PMP, Salesforce Certified, Microsoft Certified

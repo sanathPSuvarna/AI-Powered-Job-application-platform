@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 4 years of experience in software development and technology.
+Strong background in Critical Thinking, Power BI, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Dart
+Technologies: HTML
+Databases: Firebase
+Cloud Platforms: Puppet
+Tools: Zoom, GraphQL, InVision, JIRA
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Spotify (2020 - Present)
+• Developed applications using Critical Thinking and Power BI
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UCLA
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified, Azure Certified

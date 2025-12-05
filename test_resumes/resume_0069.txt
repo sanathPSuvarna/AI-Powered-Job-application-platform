@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Public Speaking, F#.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Go
+Technologies: Next.js
+Databases: MySQL
+Cloud Platforms: GitLab CI/CD, CircleCI
+Tools: Kanban, Postman
+
+WORK EXPERIENCE
+QA Engineer - Intel (2017 - Present)
+• Developed applications using GitLab CI/CD and Public Speaking
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, PMP, Salesforce Certified

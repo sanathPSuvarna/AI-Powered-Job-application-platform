@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Project Management, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Shell Scripting, Dart
+Technologies: Gatsby, Bootstrap, CSS
+Databases: Elasticsearch, Firebase
+Cloud Platforms: 
+Tools: Agile, Bitbucket, Postman, GraphQL
+
+WORK EXPERIENCE
+Machine Learning Engineer - LinkedIn (2020 - Present)
+• Developed applications using Oracle Certified and Project Management
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Information Technology
+Columbia University
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified

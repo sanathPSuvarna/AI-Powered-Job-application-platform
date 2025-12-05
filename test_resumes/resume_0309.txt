@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 3 years of experience in software development and technology.
+Strong background in Oracle Certified, Time Management, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: MATLAB, Scala
+Technologies: Laravel
+Databases: SQLite
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Slack, Agile, Git
+
+WORK EXPERIENCE
+Project Manager - PayPal (2021 - Present)
+• Developed applications using Oracle Certified and Time Management
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+Oracle Certified, Google Cloud Certified, Azure Certified

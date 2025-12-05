@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 1 years of experience in software development and technology.
+Strong background in R, Shell Scripting, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: R, Shell Scripting
+Technologies: HTML, Spring Boot
+Databases: MongoDB
+Cloud Platforms: CircleCI
+Tools: Zoom, GitLab, Git, Sketch
+
+WORK EXPERIENCE
+DevOps Engineer - Salesforce (2023 - Present)
+• Developed applications using R and Shell Scripting
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2019
+
+CERTIFICATIONS

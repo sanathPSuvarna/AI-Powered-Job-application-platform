@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 12 years of experience in software development and technology.
+Strong background in Oracle, Neo4j, Git.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Python, Kotlin
+Technologies: HTML, Spring Boot
+Databases: Oracle, Neo4j, Elasticsearch
+Cloud Platforms: AWS, Terraform, Google Cloud Platform
+Tools: Git, REST API, Scrum, DevOps
+
+WORK EXPERIENCE
+Data Analyst - PayPal (2012 - Present)
+• Developed applications using Oracle and Neo4j
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2008
+
+CERTIFICATIONS
+PMP, Salesforce Certified, CISSP

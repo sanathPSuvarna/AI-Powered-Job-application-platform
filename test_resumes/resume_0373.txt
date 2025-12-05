@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 2 years of experience in software development and technology.
+Strong background in Clojure, Project Management, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Perl, F#, Java
+Technologies: CSS
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Slack, Postman
+
+WORK EXPERIENCE
+DevOps Engineer - NVIDIA (2022 - Present)
+• Developed applications using Clojure and Project Management
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+CMU
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 2 years of experience in software development and technology.
+Strong background in MariaDB, Heroku, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: MATLAB, Scala
+Technologies: Webpack, CSS
+Databases: MariaDB, InfluxDB
+Cloud Platforms: Heroku, DigitalOcean
+Tools: GitLab, Adobe Creative Suite, Microsoft Teams, Figma
+
+WORK EXPERIENCE
+Product Manager - Tesla (2022 - Present)
+• Developed applications using MariaDB and Heroku
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2018
+
+CERTIFICATIONS

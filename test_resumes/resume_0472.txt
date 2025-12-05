@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 5 years of experience in software development and technology.
+Strong background in Django, Oracle Certified, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, MATLAB
+Technologies: Django, React
+Databases: Google Cloud SQL
+Cloud Platforms: Jenkins, Google Cloud Platform
+Tools: Agile, InVision
+
+WORK EXPERIENCE
+Database Administrator - Airbnb (2019 - Present)
+• Developed applications using Django and Oracle Certified
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+Stanford University
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified

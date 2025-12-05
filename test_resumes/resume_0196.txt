@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 0 years of experience in software development and technology.
+Strong background in Django, Clojure, GitLab CI/CD.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Kotlin, Groovy
+Technologies: Django, Vue.js
+Databases: Elasticsearch, MySQL
+Cloud Platforms: GitLab CI/CD, Azure
+Tools: GitLab, Slack, InVision, Kanban
+
+WORK EXPERIENCE
+Business Analyst - eBay (2024 - Present)
+• Developed applications using Django and Clojure
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Science in Machine Learning
+Harvard University
+Graduated: 2020
+
+CERTIFICATIONS

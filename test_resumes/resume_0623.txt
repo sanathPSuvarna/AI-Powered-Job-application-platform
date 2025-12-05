@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 0 years of experience in software development and technology.
+Strong background in MariaDB, TypeScript, Scikit-learn.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Haskell, MATLAB, Java
+Technologies: Bootstrap, Nuxt.js, Django
+Databases: MariaDB, Redis
+Cloud Platforms: Chef, Jenkins
+Tools: Microservices, Agile, DevOps
+
+WORK EXPERIENCE
+Senior Software Engineer - Cisco (2024 - Present)
+• Developed applications using MariaDB and TypeScript
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Django
+
+EDUCATION
+Master of Business Administration
+Princeton University
+Graduated: 2020
+
+CERTIFICATIONS
+Salesforce Certified, Microsoft Certified

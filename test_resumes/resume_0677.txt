@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 11 years of experience in software development and technology.
+Strong background in CompTIA Security+, Creativity, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Groovy, JavaScript
+Technologies: Spring Boot, CSS
+Databases: SQLite, Redis
+Cloud Platforms: Terraform, CircleCI
+Tools: GitLab, GraphQL, Kanban
+
+WORK EXPERIENCE
+Software Engineer - NVIDIA (2013 - Present)
+• Developed applications using CompTIA Security+ and Creativity
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Illinois
+Graduated: 2009
+
+CERTIFICATIONS
+CompTIA Security+

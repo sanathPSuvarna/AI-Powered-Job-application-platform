@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 6 years of experience in software development and technology.
+Strong background in jQuery, VBA, Chef.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, F#, Kotlin, Scala
+Technologies: jQuery
+Databases: SQLite
+Cloud Platforms: Chef
+Tools: Confluence, Bitbucket, GitLab
+
+WORK EXPERIENCE
+Tech Lead - Microsoft (2018 - Present)
+• Developed applications using jQuery and VBA
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, PMP

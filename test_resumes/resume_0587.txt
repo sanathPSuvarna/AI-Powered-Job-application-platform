@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 6 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Java
+Technologies: Django, SASS
+Databases: Oracle, CouchDB
+Cloud Platforms: GitHub Actions
+Tools: Slack, Kanban
+
+WORK EXPERIENCE
+Software Architect - LinkedIn (2018 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified, Salesforce Certified

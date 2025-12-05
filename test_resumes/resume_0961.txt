@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 5 years of experience in software development and technology.
+Strong background in Objective-C, SQL Server, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, Rust
+Technologies: Svelte, Spring Boot, LESS
+Databases: SQL Server, Cassandra
+Cloud Platforms: Jenkins, DigitalOcean
+Tools: Postman, Git, Sketch
+
+WORK EXPERIENCE
+Data Scientist - Yahoo (2019 - Present)
+• Developed applications using Objective-C and SQL Server
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Michigan
+Graduated: 2015
+
+CERTIFICATIONS
+Salesforce Certified, Azure Certified, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 6 years of experience in software development and technology.
+Strong background in Oracle Certified, CompTIA Security+, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Dart
+Technologies: Express.js, Bootstrap, Flask
+Databases: Google Cloud SQL, SQLite
+Cloud Platforms: Ansible, OpenShift
+Tools: Kanban, Bitbucket, SOAP
+
+WORK EXPERIENCE
+Frontend Developer - Intel (2018 - Present)
+• Developed applications using Oracle Certified and CompTIA Security+
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2014
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+

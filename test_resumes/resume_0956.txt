@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Team Collaboration, Communication, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Go
+Technologies: Node.js, Express.js, React
+Databases: PostgreSQL
+Cloud Platforms: Vagrant
+Tools: GitHub, Git
+
+WORK EXPERIENCE
+Senior Software Engineer - Dell (2023 - Present)
+• Developed applications using Team Collaboration and Communication
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Illinois
+Graduated: 2019
+
+CERTIFICATIONS
+Azure Certified, Scrum Master

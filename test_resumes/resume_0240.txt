@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 3 years of experience in software development and technology.
+Strong background in SASS, Scikit-learn, Swagger.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Ruby, Rust
+Technologies: SASS, React, Express.js
+Databases: Cassandra, MongoDB
+Cloud Platforms: Vagrant
+Tools: Swagger, Slack
+
+WORK EXPERIENCE
+Software Engineer - Yahoo (2021 - Present)
+• Developed applications using SASS and Scikit-learn
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Machine Learning
+Georgia Tech
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP, AWS Certified

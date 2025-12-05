@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 3 years of experience in software development and technology.
+Strong background in Team Collaboration, Creativity, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, C#, Scala
+Technologies: jQuery, Babel, Express.js
+Databases: PostgreSQL
+Cloud Platforms: 
+Tools: Swagger, Microsoft Teams, Postman, JIRA
+
+WORK EXPERIENCE
+Technical Writer - Airbnb (2021 - Present)
+• Developed applications using Team Collaboration and Creativity
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+Stanford University
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP

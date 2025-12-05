@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 6 years of experience in software development and technology.
+Strong background in Objective-C, TypeScript, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, Groovy
+Technologies: jQuery, Gatsby
+Databases: Neo4j, Firebase
+Cloud Platforms: 
+Tools: SOAP, JIRA, Confluence, GitLab
+
+WORK EXPERIENCE
+Database Administrator - Slack (2018 - Present)
+• Developed applications using Objective-C and TypeScript
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Machine Learning
+UCLA
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified, AWS Certified

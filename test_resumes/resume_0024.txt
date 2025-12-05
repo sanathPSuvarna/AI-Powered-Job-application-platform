@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 0 years of experience in software development and technology.
+Strong background in Django, Team Collaboration, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: PHP, C++
+Technologies: Django
+Databases: SQLite, Redis
+Cloud Platforms: 
+Tools: Zoom, Adobe Creative Suite, GitHub, Microservices
+
+WORK EXPERIENCE
+Machine Learning Engineer - Amazon (2024 - Present)
+• Developed applications using Django and Team Collaboration
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2020
+
+CERTIFICATIONS

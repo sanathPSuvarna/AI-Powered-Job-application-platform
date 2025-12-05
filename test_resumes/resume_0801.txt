@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 13 years of experience in software development and technology.
+Strong background in Objective-C, Neo4j, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Dart, C++, Clojure
+Technologies: Angular, React, LESS
+Databases: Neo4j, CouchDB
+Cloud Platforms: Docker, Heroku, OpenShift
+Tools: Bitbucket, GitLab, DevOps
+
+WORK EXPERIENCE
+System Administrator - Tesla (2011 - Present)
+• Developed applications using Objective-C and Neo4j
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+CMU
+Graduated: 2007
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, AWS Certified

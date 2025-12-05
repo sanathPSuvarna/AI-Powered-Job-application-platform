@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, Critical Thinking, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Ruby
+Technologies: Node.js, Bootstrap
+Databases: Oracle, Neo4j
+Cloud Platforms: 
+Tools: Agile, SOAP, GraphQL, REST API
+
+WORK EXPERIENCE
+Project Manager - Tesla (2017 - Present)
+• Developed applications using Oracle Certified and Critical Thinking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Business Administration
+NYU
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified

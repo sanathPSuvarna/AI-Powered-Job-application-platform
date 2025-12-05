@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 1 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, Java
+Technologies: Spring Boot
+Databases: Neo4j
+Cloud Platforms: DigitalOcean
+Tools: Zoom, Slack
+
+WORK EXPERIENCE
+Frontend Developer - eBay (2023 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2019
+
+CERTIFICATIONS
+CompTIA Security+

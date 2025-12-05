@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Solutions Architect with 14 years of experience in software development and technology.
+Strong background in MariaDB, Laravel, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Clojure, Ruby, Rust, Scala
+Technologies: Laravel, jQuery, Vue.js
+Databases: MariaDB, Firebase, CouchDB
+Cloud Platforms: Vagrant, Kubernetes, DigitalOcean
+Tools: JIRA, Zoom, Swagger, GraphQL
+
+WORK EXPERIENCE
+Solutions Architect - NVIDIA (2010 - Present)
+• Developed applications using MariaDB and Laravel
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Computer Science
+Purdue University
+Graduated: 2006
+
+CERTIFICATIONS
+Salesforce Certified, Oracle Certified

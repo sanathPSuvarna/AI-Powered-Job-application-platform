@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 5 years of experience in software development and technology.
+Strong background in Clojure, Chef, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Go, TypeScript
+Technologies: SASS, LESS, Express.js
+Databases: Cassandra
+Cloud Platforms: Chef
+Tools: GitLab, Agile
+
+WORK EXPERIENCE
+Data Scientist - Cisco (2019 - Present)
+• Developed applications using Clojure and Chef
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified, PMP

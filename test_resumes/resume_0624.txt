@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10 years of experience in software development and technology.
+Strong background in PostgreSQL, Pandas, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, PHP, Haskell
+Technologies: Vue.js, HTML
+Databases: PostgreSQL, Firebase, InfluxDB
+Cloud Platforms: Chef, GitLab CI/CD, Vagrant
+Tools: SOAP, Confluence, Bitbucket, Agile, Figma
+
+WORK EXPERIENCE
+DevOps Engineer - HP (2014 - Present)
+• Developed applications using PostgreSQL and Pandas
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Georgia Tech
+Graduated: 2010
+
+CERTIFICATIONS
+Azure Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 3 years of experience in software development and technology.
+Strong background in PostgreSQL, Pandas, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Go, Haskell, Groovy
+Technologies: Laravel
+Databases: PostgreSQL, InfluxDB
+Cloud Platforms: 
+Tools: Postman, SOAP, Swagger, Slack
+
+WORK EXPERIENCE
+Technical Writer - Uber (2021 - Present)
+• Developed applications using PostgreSQL and Pandas
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Information Technology
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, Salesforce Certified

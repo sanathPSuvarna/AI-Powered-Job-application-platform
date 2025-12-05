@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 6 years of experience in software development and technology.
+Strong background in Shell Scripting, Laravel, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, Dart
+Technologies: Laravel, Bootstrap, React
+Databases: InfluxDB
+Cloud Platforms: Terraform
+Tools: Postman, SOAP, Git, GraphQL
+
+WORK EXPERIENCE
+Product Manager - Slack (2018 - Present)
+• Developed applications using Shell Scripting and Laravel
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+PMP

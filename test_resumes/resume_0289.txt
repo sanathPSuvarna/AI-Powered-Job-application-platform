@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Engineering Manager with 0 years of experience in software development and technology.
+Strong background in Ansible, Scrum, Microsoft Certified.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, JavaScript
+Technologies: Node.js
+Databases: Firebase
+Cloud Platforms: Ansible, CircleCI
+Tools: Scrum, Swagger, Bitbucket, Sketch
+
+WORK EXPERIENCE
+Engineering Manager - Spotify (2024 - Present)
+• Developed applications using Ansible and Scrum
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2020
+
+CERTIFICATIONS
+Microsoft Certified

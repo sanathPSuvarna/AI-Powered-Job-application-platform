@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 7 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Public Speaking, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, Ruby, Scala
+Technologies: Webpack, LESS, Node.js
+Databases: Firebase
+Cloud Platforms: GitLab CI/CD
+Tools: Microsoft Teams, Microservices
+
+WORK EXPERIENCE
+Business Analyst - Microsoft (2017 - Present)
+• Developed applications using GitLab CI/CD and Public Speaking
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified

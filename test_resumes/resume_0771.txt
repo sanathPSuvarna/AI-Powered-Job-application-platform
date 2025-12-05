@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 4 years of experience in software development and technology.
+Strong background in MariaDB, Google Cloud SQL, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: PHP, C++
+Technologies: Gatsby, Bootstrap
+Databases: MariaDB, Google Cloud SQL
+Cloud Platforms: 
+Tools: Microsoft Teams, SOAP, REST API
+
+WORK EXPERIENCE
+System Administrator - Adobe (2020 - Present)
+• Developed applications using MariaDB and Google Cloud SQL
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Business Administration
+UC Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+PMP, Salesforce Certified

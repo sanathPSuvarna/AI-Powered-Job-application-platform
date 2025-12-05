@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Cybersecurity Analyst with 10 years of experience in software development and technology.
+Strong background in Shell Scripting, PostgreSQL, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, JavaScript, C++, Ruby
+Technologies: jQuery, Nuxt.js
+Databases: PostgreSQL, SQL Server, Neo4j
+Cloud Platforms: CircleCI, GitHub Actions, Azure
+Tools: Microservices, Bitbucket, Scrum, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Cybersecurity Analyst - NVIDIA (2014 - Present)
+• Developed applications using Shell Scripting and PostgreSQL
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+Yale University
+Graduated: 2010
+
+CERTIFICATIONS
+AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 15 years of experience in software development and technology.
+Strong background in Laravel, Oracle, VBA.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, Haskell, R, Ruby
+Technologies: Laravel, Gatsby, HTML, Flask
+Databases: Oracle, CouchDB
+Cloud Platforms: Docker, CircleCI
+Tools: Git, JIRA, Zoom, Figma
+
+WORK EXPERIENCE
+Database Administrator - Salesforce (2009 - Present)
+• Developed applications using Laravel and Oracle
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2005
+
+CERTIFICATIONS
+Oracle Certified, Azure Certified, AWS Certified

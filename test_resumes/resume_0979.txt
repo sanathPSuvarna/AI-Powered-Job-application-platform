@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 6 years of experience in software development and technology.
+Strong background in Project Management, Time Management, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Go, Ruby, C#
+Technologies: Spring Boot, CSS
+Databases: DynamoDB
+Cloud Platforms: DigitalOcean
+Tools: GitLab, Git, GraphQL
+
+WORK EXPERIENCE
+Project Manager - Intel (2018 - Present)
+• Developed applications using Project Management and Time Management
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+USC
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified, Scrum Master

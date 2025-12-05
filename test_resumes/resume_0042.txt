@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 9 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, Heroku.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, PowerShell, Scala
+Technologies: Babel, React
+Databases: MariaDB, Redis, MySQL
+Cloud Platforms: Heroku
+Tools: GitLab, InVision, Git
+
+WORK EXPERIENCE
+UI/UX Designer - Facebook (2015 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2011
+
+CERTIFICATIONS
+CompTIA Security+

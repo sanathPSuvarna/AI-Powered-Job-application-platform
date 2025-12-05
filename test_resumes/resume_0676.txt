@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 9 years of experience in software development and technology.
+Strong background in Pandas, Cisco Certified, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Swift, Clojure, R, PHP
+Technologies: Vue.js, Svelte, Nuxt.js, LESS
+Databases: DynamoDB, MySQL, Cassandra
+Cloud Platforms: Terraform, Heroku
+Tools: SOAP, Microservices, Sketch, GitHub
+
+WORK EXPERIENCE
+UI/UX Designer - Amazon (2015 - Present)
+• Developed applications using Pandas and Cisco Certified
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Science in Computer Science
+Harvard University
+Graduated: 2011
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, CISSP

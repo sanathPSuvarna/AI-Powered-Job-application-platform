@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 2 years of experience in software development and technology.
+Strong background in Django, Time Management, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Python, Go
+Technologies: Django, Vue.js
+Databases: Neo4j
+Cloud Platforms: 
+Tools: Figma, Adobe Creative Suite, Agile, Confluence
+
+WORK EXPERIENCE
+Product Manager - Spotify (2022 - Present)
+• Developed applications using Django and Time Management
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2018
+
+CERTIFICATIONS

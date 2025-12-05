@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 7 years of experience in software development and technology.
+Strong background in Customer Service, AWS Certified, Go.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Haskell
+Technologies: Vue.js, Next.js, Flask
+Databases: Elasticsearch, Redis
+Cloud Platforms: 
+Tools: Postman, Git
+
+WORK EXPERIENCE
+Project Manager - eBay (2017 - Present)
+• Developed applications using Customer Service and AWS Certified
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Science in Computer Science
+Yale University
+Graduated: 2013
+
+CERTIFICATIONS
+AWS Certified, CISSP

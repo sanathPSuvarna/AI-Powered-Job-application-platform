@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, PHP
+Technologies: Svelte
+Databases: Oracle, Neo4j
+Cloud Platforms: Docker
+Tools: JIRA, Microservices, Bitbucket, Kanban
+
+WORK EXPERIENCE
+Project Manager - Cisco (2019 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Science in Machine Learning
+Princeton University
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Scrum Master

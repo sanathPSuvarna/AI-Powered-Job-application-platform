@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Technical Writer with 2 years of experience in software development and technology.
+Strong background in Critical Thinking, Shell Scripting, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin
+Technologies: Webpack, Flask
+Databases: Amazon RDS, Redis
+Cloud Platforms: 
+Tools: Scrum, InVision, SOAP, Git
+
+WORK EXPERIENCE
+Technical Writer - Amazon (2022 - Present)
+• Developed applications using Critical Thinking and Shell Scripting
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Business Administration
+University of Illinois
+Graduated: 2018
+
+CERTIFICATIONS

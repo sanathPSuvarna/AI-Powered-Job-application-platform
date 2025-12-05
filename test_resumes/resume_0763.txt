@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Plotly, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: Go, PowerShell
+Technologies: Nuxt.js, SASS
+Databases: DynamoDB
+Cloud Platforms: Chef
+Tools: GraphQL, Git, REST API
+
+WORK EXPERIENCE
+Solutions Architect - Cisco (2023 - Present)
+• Developed applications using Nuxt.js and Plotly
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Engineering in Data Science
+UT Austin
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

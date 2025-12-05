@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 14 years of experience in software development and technology.
+Strong background in TypeScript, Amazon RDS, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Haskell, C++
+Technologies: Angular, HTML, LESS
+Databases: Amazon RDS, CouchDB
+Cloud Platforms: Azure
+Tools: REST API, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Database Administrator - Dropbox (2010 - Present)
+• Developed applications using TypeScript and Amazon RDS
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2006
+
+CERTIFICATIONS
+Scrum Master, CISSP

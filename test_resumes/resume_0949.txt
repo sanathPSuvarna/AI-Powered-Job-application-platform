@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 1 years of experience in software development and technology.
+Strong background in Django, R, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: R, Haskell
+Technologies: Django, Next.js
+Databases: MySQL
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Postman, Microservices, GraphQL
+
+WORK EXPERIENCE
+Product Manager - Twitter (2023 - Present)
+• Developed applications using Django and R
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2019
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 6 years of experience in software development and technology.
+Strong background in Shell Scripting, Adaptability, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, JavaScript
+Technologies: Bootstrap, Webpack
+Databases: Amazon RDS, InfluxDB
+Cloud Platforms: DigitalOcean, Google Cloud Platform
+Tools: JIRA, GraphQL, Agile, Kanban
+
+WORK EXPERIENCE
+Software Architect - HP (2018 - Present)
+• Developed applications using Shell Scripting and Adaptability
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UC Berkeley
+Graduated: 2014
+
+CERTIFICATIONS
+PMP, Azure Certified

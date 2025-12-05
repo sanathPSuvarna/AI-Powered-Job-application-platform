@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 5 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, F#, Swift, TypeScript
+Technologies: Vue.js
+Databases: Redis
+Cloud Platforms: Google Cloud Platform
+Tools: Adobe Creative Suite, Microsoft Teams
+
+WORK EXPERIENCE
+Solutions Architect - NVIDIA (2019 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Washington
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified

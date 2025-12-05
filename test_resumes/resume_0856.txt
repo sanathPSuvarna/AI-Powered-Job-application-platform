@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 7 years of experience in software development and technology.
+Strong background in Clojure, LESS, Excel.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Swift, C#, Scala
+Technologies: LESS
+Databases: SQLite, Redis
+Cloud Platforms: Chef
+Tools: REST API, GitHub, Sketch
+
+WORK EXPERIENCE
+DevOps Engineer - Apple (2017 - Present)
+• Developed applications using Clojure and LESS
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Michigan
+Graduated: 2013
+
+CERTIFICATIONS
+Microsoft Certified

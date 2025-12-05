@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 8 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Go, C++, Kotlin
+Technologies: jQuery, Svelte, Bootstrap
+Databases: PostgreSQL, Oracle, MongoDB
+Cloud Platforms: Jenkins, DigitalOcean
+Tools: GraphQL, Bitbucket, REST API, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Data Scientist - Dell (2016 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2012
+
+CERTIFICATIONS
+Google Cloud Certified, AWS Certified

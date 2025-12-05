@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 4 years of experience in software development and technology.
+Strong background in Critical Thinking, Public Speaking, HTML.
+
+TECHNICAL SKILLS
+Programming Languages: Python, PowerShell, TypeScript, Scala
+Technologies: HTML, React
+Databases: Google Cloud SQL, SQL Server
+Cloud Platforms: 
+Tools: Slack, GitHub, Git, DevOps
+
+WORK EXPERIENCE
+DevOps Engineer - Intel (2020 - Present)
+• Developed applications using Critical Thinking and Public Speaking
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2016
+
+CERTIFICATIONS
+CISSP

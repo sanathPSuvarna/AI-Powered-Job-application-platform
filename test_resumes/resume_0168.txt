@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 11 years of experience in software development and technology.
+Strong background in SQL Server, Cisco Certified, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Swift, Kotlin
+Technologies: Laravel, Node.js, React, Flask
+Databases: SQL Server, Cassandra, SQLite
+Cloud Platforms: Puppet
+Tools: Swagger, GraphQL, Bitbucket, GitLab
+
+WORK EXPERIENCE
+System Administrator - Intel (2013 - Present)
+• Developed applications using SQL Server and Cisco Certified
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Business Administration
+UCLA
+Graduated: 2009
+
+CERTIFICATIONS
+Cisco Certified, Oracle Certified, CISSP

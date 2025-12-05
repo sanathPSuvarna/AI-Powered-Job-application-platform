@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 1 years of experience in software development and technology.
+Strong background in Creativity, Google Cloud SQL, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, Rust
+Technologies: Node.js, Spring Boot, Express.js
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: Kanban, InVision, GraphQL
+
+WORK EXPERIENCE
+Tech Lead - Netflix (2023 - Present)
+• Developed applications using Creativity and Google Cloud SQL
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Computer Science
+UT Austin
+Graduated: 2019
+
+CERTIFICATIONS

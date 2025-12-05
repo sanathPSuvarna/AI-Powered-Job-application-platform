@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 7 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, PowerShell, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Clojure, R
+Technologies: Babel, Flask
+Databases: Oracle, SQLite
+Cloud Platforms: Vagrant
+Tools: Adobe Creative Suite, Postman
+
+WORK EXPERIENCE
+Full Stack Developer - Zoom (2017 - Present)
+• Developed applications using Adobe Creative Suite and PowerShell
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP, Microsoft Certified, AWS Certified

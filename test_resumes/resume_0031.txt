@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 5 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, PHP
+Technologies: Django, HTML
+Databases: Neo4j, Firebase
+Cloud Platforms: Terraform
+Tools: InVision, Figma
+
+WORK EXPERIENCE
+Frontend Developer - VMware (2019 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Django
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2015
+
+CERTIFICATIONS
+CISSP, AWS Certified, Azure Certified

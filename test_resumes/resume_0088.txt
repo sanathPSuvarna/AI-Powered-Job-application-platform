@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Project Management, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: F#, PowerShell, JavaScript, Haskell
+Technologies: SASS
+Databases: Firebase, MySQL
+Cloud Platforms: 
+Tools: Zoom, Kanban, GraphQL
+
+WORK EXPERIENCE
+Software Engineer - Facebook (2020 - Present)
+• Developed applications using Oracle Certified and Project Management
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Science in Computer Science
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, Google Cloud Certified

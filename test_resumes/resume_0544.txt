@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 9 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, Dart, Java, PHP
+Technologies: jQuery, LESS
+Databases: DynamoDB, InfluxDB
+Cloud Platforms: CircleCI, Kubernetes, Heroku
+Tools: SOAP, GraphQL, Sketch, Kanban, Figma
+
+WORK EXPERIENCE
+UI/UX Designer - Shopify (2015 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Business Administration
+USC
+Graduated: 2011
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master, Oracle Certified

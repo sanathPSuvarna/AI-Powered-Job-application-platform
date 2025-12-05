@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Adobe Creative Suite, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, C#, Python
+Technologies: Gatsby, Vue.js, Webpack
+Databases: Firebase, MongoDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, SOAP, GitHub
+
+WORK EXPERIENCE
+Network Engineer - eBay (2017 - Present)
+• Developed applications using CompTIA Security+ and Adobe Creative Suite
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

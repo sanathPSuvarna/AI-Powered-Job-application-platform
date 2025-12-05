@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 10 years of experience in software development and technology.
+Strong background in MariaDB, Google Cloud SQL, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, Java, Groovy
+Technologies: jQuery, Node.js, Express.js
+Databases: MariaDB, Google Cloud SQL, Firebase
+Cloud Platforms: Jenkins, Docker
+Tools: SOAP, Confluence, Agile
+
+WORK EXPERIENCE
+Business Analyst - Microsoft (2014 - Present)
+• Developed applications using MariaDB and Google Cloud SQL
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Engineering in Data Science
+Yale University
+Graduated: 2010
+
+CERTIFICATIONS
+PMP, CISSP, AWS Certified

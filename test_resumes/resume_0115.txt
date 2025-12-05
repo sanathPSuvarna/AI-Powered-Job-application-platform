@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Zoom, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PHP
+Technologies: HTML, jQuery
+Databases: Neo4j
+Cloud Platforms: Chef
+Tools: Zoom, Slack, Postman
+
+WORK EXPERIENCE
+Software Architect - VMware (2017 - Present)
+• Developed applications using CompTIA Security+ and Zoom
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+USC
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+

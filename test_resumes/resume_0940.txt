@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 6 years of experience in software development and technology.
+Strong background in Critical Thinking, Shell Scripting, LESS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Dart
+Technologies: LESS, React
+Databases: SQL Server, Redis
+Cloud Platforms: 
+Tools: Sketch, Postman, GraphQL
+
+WORK EXPERIENCE
+Product Manager - HP (2018 - Present)
+• Developed applications using Critical Thinking and Shell Scripting
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, VBA, Haskell, Groovy
+Technologies: Vue.js, Webpack, Flask
+Databases: Oracle, CouchDB
+Cloud Platforms: Terraform
+Tools: Bitbucket, GitHub, Figma, DevOps
+
+WORK EXPERIENCE
+System Administrator - NVIDIA (2020 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified

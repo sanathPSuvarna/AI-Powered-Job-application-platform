@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Creativity, CSS.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, TypeScript
+Technologies: CSS, React
+Databases: MySQL
+Cloud Platforms: Terraform, Jenkins
+Tools: GraphQL, Confluence
+
+WORK EXPERIENCE
+Engineering Manager - Yahoo (2018 - Present)
+• Developed applications using CompTIA Security+ and Creativity
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, CISSP

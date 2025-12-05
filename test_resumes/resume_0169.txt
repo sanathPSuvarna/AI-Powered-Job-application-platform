@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 0 years of experience in software development and technology.
+Strong background in Webpack, Objective-C, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Groovy, C#
+Technologies: Webpack, jQuery
+Databases: DynamoDB, Amazon RDS
+Cloud Platforms: Puppet, Azure
+Tools: REST API, JIRA
+
+WORK EXPERIENCE
+Database Administrator - Facebook (2024 - Present)
+• Developed applications using Webpack and Objective-C
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Columbia University
+Graduated: 2020
+
+CERTIFICATIONS

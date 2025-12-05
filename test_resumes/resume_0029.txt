@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 0 years of experience in software development and technology.
+Strong background in Django, Public Speaking, GitLab.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Swift, Ruby, Rust
+Technologies: Django, Bootstrap
+Databases: Neo4j, CouchDB
+Cloud Platforms: OpenShift
+Tools: GitLab, DevOps
+
+WORK EXPERIENCE
+Backend Developer - Yahoo (2024 - Present)
+• Developed applications using Django and Public Speaking
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Business Administration
+NYU
+Graduated: 2020
+
+CERTIFICATIONS
+Azure Certified

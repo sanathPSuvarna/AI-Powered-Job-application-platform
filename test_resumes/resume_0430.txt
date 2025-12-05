@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 15 years of experience in software development and technology.
+Strong background in SASS, PowerShell, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Go, Java, Clojure, Kotlin
+Technologies: SASS, Gatsby, Babel
+Databases: Oracle, Neo4j
+Cloud Platforms: Chef, AWS, Google Cloud Platform
+Tools: Zoom, Scrum, Slack, Figma
+
+WORK EXPERIENCE
+Network Engineer - Netflix (2009 - Present)
+• Developed applications using SASS and PowerShell
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+MIT
+Graduated: 2005
+
+CERTIFICATIONS
+CISSP, Microsoft Certified, AWS Certified

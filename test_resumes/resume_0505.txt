@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 1 years of experience in software development and technology.
+Strong background in Shell Scripting, Figma, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Go, Scala
+Technologies: Angular, CSS, Flask
+Databases: PostgreSQL
+Cloud Platforms: 
+Tools: Figma, GitLab, InVision, DevOps
+
+WORK EXPERIENCE
+Data Analyst - eBay (2023 - Present)
+• Developed applications using Shell Scripting and Figma
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Business Administration
+Princeton University
+Graduated: 2019
+
+CERTIFICATIONS

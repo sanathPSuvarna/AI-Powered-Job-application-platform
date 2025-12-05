@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 0 years of experience in software development and technology.
+Strong background in Heroku, SASS, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Haskell
+Technologies: SASS, jQuery
+Databases: Oracle, CouchDB
+Cloud Platforms: Heroku, Ansible
+Tools: Kanban, Agile
+
+WORK EXPERIENCE
+Data Scientist - Dell (2024 - Present)
+• Developed applications using Heroku and SASS
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+University of Washington
+Graduated: 2020
+
+CERTIFICATIONS

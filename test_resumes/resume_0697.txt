@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 2 years of experience in software development and technology.
+Strong background in Nuxt.js, Time Management, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Groovy, TypeScript
+Technologies: Nuxt.js, SASS
+Databases: Firebase
+Cloud Platforms: Azure
+Tools: Confluence, Figma
+
+WORK EXPERIENCE
+Product Manager - Netflix (2022 - Present)
+• Developed applications using Nuxt.js and Time Management
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Information Technology
+Columbia University
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, Kotlin, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Groovy, PHP, JavaScript
+Technologies: Babel, Flask, Vue.js
+Databases: InfluxDB
+Cloud Platforms: AWS
+Tools: JIRA, SOAP
+
+WORK EXPERIENCE
+DevOps Engineer - Google (2019 - Present)
+• Developed applications using CompTIA Security+ and Kotlin
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+MIT
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Microsoft Certified

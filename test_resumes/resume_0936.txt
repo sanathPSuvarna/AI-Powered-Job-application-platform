@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 0 years of experience in software development and technology.
+Strong background in PyTorch, SASS, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Swift, VBA
+Technologies: SASS
+Databases: SQL Server
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Data Scientist - Airbnb (2024 - Present)
+• Developed applications using PyTorch and SASS
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Information Technology
+UT Austin
+Graduated: 2020
+
+CERTIFICATIONS

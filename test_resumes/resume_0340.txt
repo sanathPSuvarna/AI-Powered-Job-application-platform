@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 11 years of experience in software development and technology.
+Strong background in SASS, Adobe Creative Suite, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Java, Rust
+Technologies: SASS, Nuxt.js
+Databases: DynamoDB, Firebase, SQLite
+Cloud Platforms: Vagrant
+Tools: Adobe Creative Suite, Microservices, Confluence, Scrum
+
+WORK EXPERIENCE
+Network Engineer - Square (2013 - Present)
+• Developed applications using SASS and Adobe Creative Suite
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2009
+
+CERTIFICATIONS
+Azure Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 9 years of experience in software development and technology.
+Strong background in Shell Scripting, PowerShell, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, TypeScript, Clojure, Rust
+Technologies: Babel, CSS
+Databases: Oracle, SQLite
+Cloud Platforms: Chef
+Tools: SOAP, Zoom, Sketch, Scrum
+
+WORK EXPERIENCE
+UI/UX Designer - HP (2015 - Present)
+• Developed applications using Shell Scripting and PowerShell
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Michigan
+Graduated: 2011
+
+CERTIFICATIONS
+Azure Certified, Microsoft Certified, AWS Certified

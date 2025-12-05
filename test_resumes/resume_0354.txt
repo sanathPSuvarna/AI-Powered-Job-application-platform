@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 2 years of experience in software development and technology.
+Strong background in SASS, Perl, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PowerShell, TypeScript, Haskell
+Technologies: SASS, Gatsby
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: Kubernetes
+Tools: Figma, Microsoft Teams, Microservices
+
+WORK EXPERIENCE
+Machine Learning Engineer - LinkedIn (2022 - Present)
+• Developed applications using SASS and Perl
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2018
+
+CERTIFICATIONS
+Cisco Certified, PMP

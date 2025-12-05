@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 4 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Rust, JavaScript
+Technologies: Laravel
+Databases: PostgreSQL, Elasticsearch
+Cloud Platforms: 
+Tools: GitLab, Bitbucket, Postman
+
+WORK EXPERIENCE
+Full Stack Developer - Uber (2020 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Computer Science
+Georgia Tech
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified

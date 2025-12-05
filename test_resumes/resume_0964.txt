@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 2 years of experience in software development and technology.
+Strong background in R, Communication, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: R, PowerShell
+Technologies: Next.js
+Databases: PostgreSQL, DynamoDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Microsoft Teams, SOAP, Sketch
+
+WORK EXPERIENCE
+Product Manager - Square (2022 - Present)
+• Developed applications using R and Communication
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UT Austin
+Graduated: 2018
+
+CERTIFICATIONS
+AWS Certified

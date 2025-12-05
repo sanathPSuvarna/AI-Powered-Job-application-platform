@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Product Manager with 12 years of experience in software development and technology.
+Strong background in SASS, Oracle, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: C#, JavaScript, MATLAB, Scala
+Technologies: SASS, Node.js, Nuxt.js, LESS
+Databases: Oracle, Cassandra, Elasticsearch
+Cloud Platforms: Jenkins, Google Cloud Platform
+Tools: InVision, Git, Swagger, GraphQL, Agile
+
+WORK EXPERIENCE
+Product Manager - HP (2012 - Present)
+• Developed applications using SASS and Oracle
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2008
+
+CERTIFICATIONS
+PMP, Microsoft Certified

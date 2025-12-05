@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 2 years of experience in software development and technology.
+Strong background in Creativity, Google Cloud SQL, F#.
+
+TECHNICAL SKILLS
+Programming Languages: F#, JavaScript
+Technologies: Svelte, Gatsby
+Databases: Google Cloud SQL
+Cloud Platforms: GitHub Actions, Jenkins
+Tools: Slack, JIRA
+
+WORK EXPERIENCE
+Senior Software Engineer - Twitter (2022 - Present)
+• Developed applications using Creativity and Google Cloud SQL
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

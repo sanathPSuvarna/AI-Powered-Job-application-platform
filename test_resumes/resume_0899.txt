@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 7 years of experience in software development and technology.
+Strong background in MariaDB, Time Management, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Python, PHP
+Technologies: Babel
+Databases: MariaDB, PostgreSQL
+Cloud Platforms: Docker, Google Cloud Platform
+Tools: GraphQL, Sketch
+
+WORK EXPERIENCE
+Network Engineer - Spotify (2017 - Present)
+• Developed applications using MariaDB and Time Management
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP, Salesforce Certified

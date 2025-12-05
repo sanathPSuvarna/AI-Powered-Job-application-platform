@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 10 years of experience in software development and technology.
+Strong background in Objective-C, MySQL, Dart.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Dart, Haskell, Ruby, MATLAB
+Technologies: Node.js, React, LESS
+Databases: MySQL, Elasticsearch
+Cloud Platforms: Terraform, Puppet, Azure
+Tools: GraphQL, Scrum, Slack, Agile, Figma
+
+WORK EXPERIENCE
+Backend Developer - Microsoft (2014 - Present)
+• Developed applications using Objective-C and MySQL
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Computer Science
+USC
+Graduated: 2010
+
+CERTIFICATIONS
+AWS Certified

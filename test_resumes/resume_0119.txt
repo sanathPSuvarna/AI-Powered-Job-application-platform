@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 5 years of experience in software development and technology.
+Strong background in Pandas, Neo4j, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Swift, Scala
+Technologies: Svelte
+Databases: Neo4j, MongoDB
+Cloud Platforms: Kubernetes, OpenShift
+Tools: GraphQL, Scrum, Figma, DevOps
+
+WORK EXPERIENCE
+Network Engineer - Amazon (2019 - Present)
+• Developed applications using Pandas and Neo4j
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2015
+
+CERTIFICATIONS
+CISSP

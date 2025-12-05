@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 6 years of experience in software development and technology.
+Strong background in Critical Thinking, Public Speaking, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Rust
+Technologies: React
+Databases: PostgreSQL
+Cloud Platforms: Terraform, OpenShift
+Tools: GraphQL, Adobe Creative Suite, Swagger, Confluence
+
+WORK EXPERIENCE
+Project Manager - Google (2018 - Present)
+• Developed applications using Critical Thinking and Public Speaking
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified

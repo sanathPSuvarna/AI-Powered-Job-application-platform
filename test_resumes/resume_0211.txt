@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 6 years of experience in software development and technology.
+Strong background in Time Management, LESS, Swift.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, TypeScript, Dart
+Technologies: LESS, Babel, Vue.js
+Databases: SQLite, Redis
+Cloud Platforms: 
+Tools: Microservices, SOAP, DevOps, JIRA
+
+WORK EXPERIENCE
+Frontend Developer - Intel (2018 - Present)
+• Developed applications using Time Management and LESS
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified

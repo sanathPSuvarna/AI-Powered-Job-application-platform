@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 2 years of experience in software development and technology.
+Strong background in Cisco Certified, VBA, Dart.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart, R
+Technologies: Svelte, React, Django
+Databases: Cassandra
+Cloud Platforms: Docker, Terraform
+Tools: Sketch, Kanban, Figma
+
+WORK EXPERIENCE
+Frontend Developer - Dell (2022 - Present)
+• Developed applications using Cisco Certified and VBA
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+USC
+Graduated: 2018
+
+CERTIFICATIONS
+Cisco Certified, CISSP

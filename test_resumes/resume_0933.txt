@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Public Speaking, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, PHP
+Technologies: SASS
+Databases: SQL Server, Redis
+Cloud Platforms: 
+Tools: SOAP, Postman, Git
+
+WORK EXPERIENCE
+Network Engineer - Airbnb (2017 - Present)
+• Developed applications using CompTIA Security+ and Public Speaking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Business Administration
+NYU
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, CISSP, Scrum Master

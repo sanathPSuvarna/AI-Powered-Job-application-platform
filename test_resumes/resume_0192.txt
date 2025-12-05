@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Solutions Architect with 12 years of experience in software development and technology.
+Strong background in MariaDB, DynamoDB, Chef.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Python, Swift, C++, MATLAB
+Technologies: Angular, Svelte, React
+Databases: MariaDB, DynamoDB
+Cloud Platforms: Chef, Jenkins, Azure
+Tools: Git, SOAP, Scrum, DevOps
+
+WORK EXPERIENCE
+Solutions Architect - PayPal (2012 - Present)
+• Developed applications using MariaDB and DynamoDB
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2008
+
+CERTIFICATIONS
+CISSP

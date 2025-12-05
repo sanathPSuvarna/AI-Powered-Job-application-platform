@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 10 years of experience in software development and technology.
+Strong background in SASS, Pandas, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, F#, R, Kotlin, Groovy
+Technologies: SASS, Express.js
+Databases: Firebase, Cassandra, MongoDB
+Cloud Platforms: Docker
+Tools: Swagger, Microsoft Teams, Agile, GitHub
+
+WORK EXPERIENCE
+Senior Software Engineer - Amazon (2014 - Present)
+• Developed applications using SASS and Pandas
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+Princeton University
+Graduated: 2010
+
+CERTIFICATIONS
+Google Cloud Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 3 years of experience in software development and technology.
+Strong background in R, SASS, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: R, Python, JavaScript
+Technologies: SASS
+Databases: Google Cloud SQL, Redis
+Cloud Platforms: Vagrant, Azure
+Tools: SOAP, Postman, REST API
+
+WORK EXPERIENCE
+Data Scientist - Adobe (2021 - Present)
+• Developed applications using R and SASS
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master

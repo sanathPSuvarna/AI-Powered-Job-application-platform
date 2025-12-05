@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 14 years of experience in software development and technology.
+Strong background in MariaDB, TypeScript, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Java, JavaScript, C++
+Technologies: Webpack, Express.js
+Databases: MariaDB, Oracle
+Cloud Platforms: Chef, GitLab CI/CD, Heroku
+Tools: Microservices, Bitbucket, Microsoft Teams
+
+WORK EXPERIENCE
+Frontend Developer - VMware (2010 - Present)
+• Developed applications using MariaDB and TypeScript
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2006
+
+CERTIFICATIONS
+Salesforce Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in Django, Public Speaking, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, PHP, Dart
+Technologies: Django, CSS
+Databases: SQLite
+Cloud Platforms: Chef
+Tools: Zoom, GitLab, Swagger, JIRA
+
+WORK EXPERIENCE
+QA Engineer - LinkedIn (2017 - Present)
+• Developed applications using Django and Public Speaking
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Business Administration
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+Microsoft Certified, Google Cloud Certified, PMP

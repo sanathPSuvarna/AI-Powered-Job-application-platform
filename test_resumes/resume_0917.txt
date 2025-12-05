@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 0 years of experience in software development and technology.
+Strong background in Clojure, HTML, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Go, JavaScript, Haskell
+Technologies: HTML, Spring Boot, Next.js
+Databases: DynamoDB
+Cloud Platforms: 
+Tools: Kanban, Git, Postman
+
+WORK EXPERIENCE
+DevOps Engineer - Intel (2024 - Present)
+• Developed applications using Clojure and HTML
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Computer Science
+University of Michigan
+Graduated: 2020
+
+CERTIFICATIONS
+Microsoft Certified

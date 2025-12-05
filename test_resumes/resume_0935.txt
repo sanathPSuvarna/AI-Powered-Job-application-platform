@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Cybersecurity Analyst with 14 years of experience in software development and technology.
+Strong background in Shell Scripting, TypeScript, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, Python, R
+Technologies: Webpack, LESS, Express.js
+Databases: Neo4j, Firebase
+Cloud Platforms: Docker
+Tools: Scrum, GitHub, Figma
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Apple (2010 - Present)
+• Developed applications using Shell Scripting and TypeScript
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Columbia University
+Graduated: 2006
+
+CERTIFICATIONS
+Salesforce Certified

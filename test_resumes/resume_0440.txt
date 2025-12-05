@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 1 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, R.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, R, Kotlin, JavaScript
+Technologies: Bootstrap
+Databases: Redis
+Cloud Platforms: 
+Tools: Figma, SOAP
+
+WORK EXPERIENCE
+System Administrator - Zoom (2023 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Business Administration
+Princeton University
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified, Scrum Master

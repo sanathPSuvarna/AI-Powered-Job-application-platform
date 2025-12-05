@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Public Speaking, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Rust
+Technologies: LESS, jQuery
+Databases: DynamoDB, MySQL
+Cloud Platforms: 
+Tools: Bitbucket, SOAP, Postman
+
+WORK EXPERIENCE
+Tech Lead - VMware (2017 - Present)
+• Developed applications using CompTIA Security+ and Public Speaking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

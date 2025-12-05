@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 7 years of experience in software development and technology.
+Strong background in Clojure, Critical Thinking, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Dart
+Technologies: Next.js, Bootstrap, React
+Databases: Oracle, Elasticsearch
+Cloud Platforms: Ansible
+Tools: GitLab, InVision
+
+WORK EXPERIENCE
+Backend Developer - Netflix (2017 - Present)
+• Developed applications using Clojure and Critical Thinking
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified

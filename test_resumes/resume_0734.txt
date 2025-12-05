@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 8 years of experience in software development and technology.
+Strong background in PostgreSQL, TypeScript, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Haskell, Swift, Clojure
+Technologies: Angular, Vue.js, Bootstrap
+Databases: PostgreSQL, Neo4j, CouchDB
+Cloud Platforms: Chef, DigitalOcean
+Tools: Swagger, Confluence, Bitbucket, Slack
+
+WORK EXPERIENCE
+UI/UX Designer - HP (2016 - Present)
+• Developed applications using PostgreSQL and TypeScript
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2012
+
+CERTIFICATIONS
+PMP, AWS Certified

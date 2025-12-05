@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 1 years of experience in software development and technology.
+Strong background in Critical Thinking, Team Collaboration, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Go, Ruby
+Technologies: Spring Boot, Express.js
+Databases: Redis
+Cloud Platforms: Ansible, Terraform
+Tools: Figma, Git, Kanban, Microservices
+
+WORK EXPERIENCE
+QA Engineer - Yahoo (2023 - Present)
+• Developed applications using Critical Thinking and Team Collaboration
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+USC
+Graduated: 2019
+
+CERTIFICATIONS

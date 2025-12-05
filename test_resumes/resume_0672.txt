@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 3 years of experience in software development and technology.
+Strong background in Shell Scripting, Adobe Creative Suite, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, F#
+Technologies: HTML, Babel
+Databases: Elasticsearch, Redis
+Cloud Platforms: Ansible, GitHub Actions
+Tools: Adobe Creative Suite, Postman, Git, Bitbucket
+
+WORK EXPERIENCE
+System Administrator - Cisco (2021 - Present)
+• Developed applications using Shell Scripting and Adobe Creative Suite
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Computer Science
+UT Austin
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified

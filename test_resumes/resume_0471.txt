@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C#, MATLAB
+Technologies: Bootstrap
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: 
+Tools: GitLab, InVision, SOAP
+
+WORK EXPERIENCE
+Data Analyst - Adobe (2018 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Computer Science
+Purdue University
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+

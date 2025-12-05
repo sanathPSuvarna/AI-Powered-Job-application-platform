@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 2 years of experience in software development and technology.
+Strong background in MariaDB, Critical Thinking, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: Python, VBA, PHP, Scala
+Technologies: SASS, Laravel, Express.js
+Databases: MariaDB, Elasticsearch
+Cloud Platforms: 
+Tools: Agile, Git
+
+WORK EXPERIENCE
+Business Analyst - HP (2022 - Present)
+• Developed applications using MariaDB and Critical Thinking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+CMU
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+, Oracle Certified

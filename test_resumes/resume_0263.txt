@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 0 years of experience in software development and technology.
+Strong background in Project Management, Shell Scripting, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin
+Technologies: LESS, CSS, Flask
+Databases: DynamoDB, Amazon RDS
+Cloud Platforms: GitHub Actions, Chef
+Tools: GraphQL, Microservices, DevOps
+
+WORK EXPERIENCE
+Network Engineer - Dell (2024 - Present)
+• Developed applications using Project Management and Shell Scripting
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+Purdue University
+Graduated: 2020
+
+CERTIFICATIONS
+AWS Certified

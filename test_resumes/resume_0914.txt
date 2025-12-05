@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 7 years of experience in software development and technology.
+Strong background in Critical Thinking, PyTorch, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Go, Ruby, PHP
+Technologies: SASS, HTML, Babel
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: Figma, Sketch
+
+WORK EXPERIENCE
+Product Manager - Salesforce (2017 - Present)
+• Developed applications using Critical Thinking and PyTorch
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Michigan
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP, Scrum Master, Salesforce Certified

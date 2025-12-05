@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 6 years of experience in software development and technology.
+Strong background in Clojure, Chef, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Python, C++, Haskell
+Technologies: Express.js, Next.js
+Databases: MongoDB
+Cloud Platforms: Chef, OpenShift
+Tools: Kanban, Slack, REST API
+
+WORK EXPERIENCE
+Full Stack Developer - Spotify (2018 - Present)
+• Developed applications using Clojure and Chef
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified

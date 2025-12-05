@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Solutions Architect with 9 years of experience in software development and technology.
+Strong background in Cisco Certified, PowerShell, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Python, Haskell, Rust
+Technologies: Angular, Babel
+Databases: CouchDB, Redis
+Cloud Platforms: GitLab CI/CD, Puppet, DigitalOcean
+Tools: Swagger, GraphQL, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Solutions Architect - Tesla (2015 - Present)
+• Developed applications using Cisco Certified and PowerShell
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Engineering in Data Science
+Columbia University
+Graduated: 2011
+
+CERTIFICATIONS
+Cisco Certified, PMP, Azure Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Technical Writer with 1 years of experience in software development and technology.
+Strong background in TypeScript, Strategic Planning, Postman.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Swift, R, Groovy
+Technologies: Bootstrap, React
+Databases: Redis
+Cloud Platforms: AWS, OpenShift
+Tools: Postman, GraphQL, REST API, Kanban
+
+WORK EXPERIENCE
+Technical Writer - Tesla (2023 - Present)
+• Developed applications using TypeScript and Strategic Planning
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Computer Science
+Georgia Tech
+Graduated: 2019
+
+CERTIFICATIONS

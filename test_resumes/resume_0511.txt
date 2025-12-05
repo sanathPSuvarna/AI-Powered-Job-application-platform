@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, Critical Thinking, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Rust, C#
+Technologies: Bootstrap, Flask
+Databases: Amazon RDS
+Cloud Platforms: 
+Tools: Slack, Microsoft Teams, Bitbucket, GitHub
+
+WORK EXPERIENCE
+Senior Software Engineer - Square (2017 - Present)
+• Developed applications using Oracle Certified and Critical Thinking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Engineering in Data Science
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+, Azure Certified

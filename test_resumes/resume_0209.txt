@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 14 years of experience in software development and technology.
+Strong background in MariaDB, Shell Scripting, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C#, R, PHP
+Technologies: Laravel, HTML, Bootstrap, Next.js
+Databases: MariaDB, CouchDB
+Cloud Platforms: Chef
+Tools: Confluence, REST API, Agile
+
+WORK EXPERIENCE
+Data Scientist - Amazon (2010 - Present)
+• Developed applications using MariaDB and Shell Scripting
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2006
+
+CERTIFICATIONS
+PMP, Oracle Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Time Management, Zoom, GitHub.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, Haskell
+Technologies: Spring Boot
+Databases: MySQL
+Cloud Platforms: 
+Tools: Zoom, GitHub, Sketch, JIRA
+
+WORK EXPERIENCE
+Senior Software Engineer - Adobe (2023 - Present)
+• Developed applications using Time Management and Zoom
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Science in Computer Science
+NYU
+Graduated: 2019
+
+CERTIFICATIONS

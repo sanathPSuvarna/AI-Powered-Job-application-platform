@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in SQL Server, TypeScript, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Haskell, Ruby
+Technologies: Bootstrap, Flask
+Databases: SQL Server, CouchDB
+Cloud Platforms: 
+Tools: Confluence, REST API, Sketch, Agile
+
+WORK EXPERIENCE
+Backend Developer - Uber (2021 - Present)
+• Developed applications using SQL Server and TypeScript
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Machine Learning
+Stanford University
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, CISSP

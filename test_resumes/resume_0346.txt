@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 0 years of experience in software development and technology.
+Strong background in Power BI, Creativity, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, PHP, C#
+Technologies: Svelte, Angular
+Databases: Cassandra
+Cloud Platforms: Terraform
+Tools: GraphQL, Kanban, Git
+
+WORK EXPERIENCE
+Software Engineer - Facebook (2024 - Present)
+• Developed applications using Power BI and Creativity
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2020
+
+CERTIFICATIONS

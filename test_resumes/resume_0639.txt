@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with 9 years of experience in software development and technology.
+Strong background in SASS, InVision, Gatsby.
+
+TECHNICAL SKILLS
+Programming Languages: C#, JavaScript, R
+Technologies: SASS, Gatsby, Babel, Bootstrap
+Databases: MongoDB, SQLite
+Cloud Platforms: Terraform
+Tools: InVision, Zoom, Microservices, Bitbucket, Microsoft Teams
+
+WORK EXPERIENCE
+Full Stack Developer - Airbnb (2015 - Present)
+• Developed applications using SASS and InVision
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2011
+
+CERTIFICATIONS
+Microsoft Certified

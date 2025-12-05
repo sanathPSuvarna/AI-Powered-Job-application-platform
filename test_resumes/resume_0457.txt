@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 2 years of experience in software development and technology.
+Strong background in Heroku, Project Management, Oracle Certified.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Swift
+Technologies: Babel, React, Flask
+Databases: Oracle, Elasticsearch
+Cloud Platforms: Heroku, AWS
+Tools: Adobe Creative Suite, JIRA, GitHub
+
+WORK EXPERIENCE
+Full Stack Developer - Cisco (2022 - Present)
+• Developed applications using Heroku and Project Management
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS
+Oracle Certified

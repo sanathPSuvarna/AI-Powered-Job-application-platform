@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 3 years of experience in software development and technology.
+Strong background in Clojure, Power BI, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Go
+Technologies: CSS
+Databases: MongoDB, Elasticsearch
+Cloud Platforms: Ansible
+Tools: JIRA, Postman, GraphQL
+
+WORK EXPERIENCE
+DevOps Engineer - IBM (2021 - Present)
+• Developed applications using Clojure and Power BI
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Harvard University
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified

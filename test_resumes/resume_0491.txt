@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 2 years of experience in software development and technology.
+Strong background in MariaDB, Critical Thinking, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Groovy, PHP, Dart
+Technologies: SASS, Express.js, Bootstrap
+Databases: MariaDB, Elasticsearch
+Cloud Platforms: Terraform, GitHub Actions
+Tools: Adobe Creative Suite, SOAP, Bitbucket, REST API
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Tesla (2022 - Present)
+• Developed applications using MariaDB and Critical Thinking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

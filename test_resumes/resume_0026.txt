@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 3 years of experience in software development and technology.
+Strong background in Clojure, Kotlin, F#.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Kotlin, F#, TypeScript
+Technologies: Express.js, Gatsby
+Databases: Amazon RDS, Elasticsearch
+Cloud Platforms: 
+Tools: GitLab, Confluence, REST API
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Dropbox (2021 - Present)
+• Developed applications using Clojure and Kotlin
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Salesforce Certified

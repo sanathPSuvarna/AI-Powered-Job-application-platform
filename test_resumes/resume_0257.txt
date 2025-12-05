@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Power BI, Public Speaking, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Groovy
+Technologies: React
+Databases: MongoDB, Elasticsearch
+Cloud Platforms: 
+Tools: Bitbucket, GitHub
+
+WORK EXPERIENCE
+Full Stack Developer - Amazon (2024 - Present)
+• Developed applications using Power BI and Public Speaking
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2020
+
+CERTIFICATIONS
+Microsoft Certified, Azure Certified

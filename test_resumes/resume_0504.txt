@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with 12 years of experience in software development and technology.
+Strong background in Cisco Certified, PowerShell, Scikit-learn.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Python, C++
+Technologies: Angular, Bootstrap, Next.js
+Databases: MySQL, InfluxDB, SQLite
+Cloud Platforms: Terraform, GitHub Actions, OpenShift
+Tools: SOAP, Git, Figma
+
+WORK EXPERIENCE
+Full Stack Developer - Yahoo (2012 - Present)
+• Developed applications using Cisco Certified and PowerShell
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2008
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, Oracle Certified

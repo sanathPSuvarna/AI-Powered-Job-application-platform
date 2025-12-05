@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 2 years of experience in software development and technology.
+Strong background in R, SASS, GraphQL.
+
+TECHNICAL SKILLS
+Programming Languages: R, Ruby, Haskell
+Technologies: SASS, Laravel, React
+Databases: Elasticsearch
+Cloud Platforms: Google Cloud Platform
+Tools: GraphQL, Confluence, Figma
+
+WORK EXPERIENCE
+Backend Developer - Amazon (2022 - Present)
+• Developed applications using R and SASS
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2018
+
+CERTIFICATIONS

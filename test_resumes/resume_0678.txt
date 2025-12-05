@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 10 years of experience in software development and technology.
+Strong background in CompTIA Security+, Neo4j, SOAP.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Ruby, Rust
+Technologies: Angular, HTML, CSS, LESS
+Databases: Neo4j, MySQL, Cassandra
+Cloud Platforms: AWS, CircleCI, DigitalOcean
+Tools: SOAP, JIRA, GraphQL, Agile, Kanban
+
+WORK EXPERIENCE
+Network Engineer - Square (2014 - Present)
+• Developed applications using CompTIA Security+ and Neo4j
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Business Administration
+Georgia Tech
+Graduated: 2010
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

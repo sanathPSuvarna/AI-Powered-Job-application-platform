@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 5 years of experience in software development and technology.
+Strong background in R, Public Speaking, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: R, VBA
+Technologies: Next.js
+Databases: InfluxDB, MongoDB
+Cloud Platforms: 
+Tools: GraphQL, DevOps
+
+WORK EXPERIENCE
+Data Scientist - Google (2019 - Present)
+• Developed applications using R and Public Speaking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified

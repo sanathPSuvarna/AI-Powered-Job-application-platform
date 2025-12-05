@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 4 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, R.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, R, Swift, PHP
+Technologies: HTML, Babel, Express.js
+Databases: MariaDB
+Cloud Platforms: 
+Tools: Swagger, Bitbucket, GraphQL, Microservices
+
+WORK EXPERIENCE
+Full Stack Developer - Intel (2020 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified

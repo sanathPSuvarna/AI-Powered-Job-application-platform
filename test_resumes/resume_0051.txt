@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 0 years of experience in software development and technology.
+Strong background in Azure, Critical Thinking, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Dart
+Technologies: Svelte, Babel
+Databases: Neo4j
+Cloud Platforms: Azure, Ansible
+Tools: Zoom, GitLab
+
+WORK EXPERIENCE
+Data Scientist - Twitter (2024 - Present)
+• Developed applications using Azure and Critical Thinking
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Business Administration
+NYU
+Graduated: 2020
+
+CERTIFICATIONS
+Microsoft Certified

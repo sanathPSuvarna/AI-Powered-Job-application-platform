@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 4 years of experience in software development and technology.
+Strong background in Time Management, SASS, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift
+Technologies: SASS, Gatsby
+Databases: Amazon RDS, MySQL
+Cloud Platforms: Docker
+Tools: Postman, GraphQL, REST API, DevOps
+
+WORK EXPERIENCE
+Software Engineer - Intel (2020 - Present)
+• Developed applications using Time Management and SASS
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2016
+
+CERTIFICATIONS
+Scrum Master

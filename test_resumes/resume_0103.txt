@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Communication, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, Groovy, Java
+Technologies: Nuxt.js
+Databases: MongoDB
+Cloud Platforms: DigitalOcean
+Tools: Zoom, Slack, Agile, Kanban
+
+WORK EXPERIENCE
+Full Stack Developer - Apple (2019 - Present)
+• Developed applications using Nuxt.js and Communication
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+University of Washington
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified, CISSP

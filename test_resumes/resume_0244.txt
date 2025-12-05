@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, JavaScript, C++
+Technologies: jQuery, Flask
+Databases: DynamoDB, Redis
+Cloud Platforms: 
+Tools: Zoom, InVision, Postman
+
+WORK EXPERIENCE
+Tech Lead - Oracle (2021 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Columbia University
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Microsoft Certified, AWS Certified

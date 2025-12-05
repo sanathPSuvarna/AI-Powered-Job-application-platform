@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 6 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, F#, C#, MATLAB
+Technologies: HTML, Babel
+Databases: MariaDB, Amazon RDS
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Swagger, Microsoft Teams, JIRA
+
+WORK EXPERIENCE
+Product Manager - Microsoft (2018 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+Princeton University
+Graduated: 2014
+
+CERTIFICATIONS
+AWS Certified, Scrum Master, Google Cloud Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 6 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Scala, Dart
+Technologies: Next.js, Bootstrap
+Databases: MongoDB, SQLite
+Cloud Platforms: AWS
+Tools: Scrum, REST API, Agile
+
+WORK EXPERIENCE
+Software Architect - PayPal (2018 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2014
+
+CERTIFICATIONS
+Oracle Certified

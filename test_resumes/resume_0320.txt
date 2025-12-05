@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 9 years of experience in software development and technology.
+Strong background in Shell Scripting, SQL Server, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, F#, Ruby, MATLAB
+Technologies: Gatsby, Vue.js, React, Express.js
+Databases: SQL Server, Cassandra, MongoDB
+Cloud Platforms: Puppet
+Tools: Git, Swagger, Confluence, GitHub
+
+WORK EXPERIENCE
+DevOps Engineer - Dell (2015 - Present)
+• Developed applications using Shell Scripting and SQL Server
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2011
+
+CERTIFICATIONS
+PMP

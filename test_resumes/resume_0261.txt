@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 0 years of experience in software development and technology.
+Strong background in Nuxt.js, Creativity, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Ruby, C++
+Technologies: Nuxt.js, Laravel
+Databases: Cassandra
+Cloud Platforms: 
+Tools: Scrum, Swagger, REST API, Kanban
+
+WORK EXPERIENCE
+Senior Software Engineer - Twitter (2024 - Present)
+• Developed applications using Nuxt.js and Creativity
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Computer Science
+University of Michigan
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified

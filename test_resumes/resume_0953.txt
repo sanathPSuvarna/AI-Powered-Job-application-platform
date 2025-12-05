@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Neo4j, Postman.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Dart, Perl, Python
+Technologies: Babel, Spring Boot, Webpack
+Databases: Neo4j
+Cloud Platforms: Docker, Puppet
+Tools: Postman, REST API, Scrum
+
+WORK EXPERIENCE
+System Administrator - Uber (2017 - Present)
+• Developed applications using CompTIA Security+ and Neo4j
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Information Technology
+CMU
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

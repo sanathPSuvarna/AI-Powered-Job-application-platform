@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 0 years of experience in software development and technology.
+Strong background in Time Management, Kotlin, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, TypeScript
+Technologies: Node.js
+Databases: Firebase
+Cloud Platforms: 
+Tools: Microsoft Teams, Microservices
+
+WORK EXPERIENCE
+QA Engineer - Apple (2024 - Present)
+• Developed applications using Time Management and Kotlin
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2020
+
+CERTIFICATIONS
+Scrum Master

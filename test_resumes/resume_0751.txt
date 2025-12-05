@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 7 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, VBA, Dart
+Technologies: LESS
+Databases: MariaDB, Oracle
+Cloud Platforms: Chef
+Tools: Sketch, InVision, Microservices
+
+WORK EXPERIENCE
+Senior Software Engineer - Microsoft (2017 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified

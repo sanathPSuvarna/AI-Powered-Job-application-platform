@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, VBA, C#, Go
+Technologies: Gatsby, Vue.js, Flask
+Databases: Oracle, Cassandra
+Cloud Platforms: CircleCI
+Tools: InVision, Postman, Kanban
+
+WORK EXPERIENCE
+Full Stack Developer - eBay (2021 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

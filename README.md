@@ -1,1 +1,0 @@
-# AI-Powered-Job-application-platform

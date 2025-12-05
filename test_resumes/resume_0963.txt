@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 9 years of experience in software development and technology.
+Strong background in PostgreSQL, Neo4j, Git.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, C++, Clojure
+Technologies: Webpack, Nuxt.js
+Databases: PostgreSQL, Neo4j
+Cloud Platforms: Docker, Azure
+Tools: Git, Scrum, Kanban
+
+WORK EXPERIENCE
+Software Engineer - Twitter (2015 - Present)
+• Developed applications using PostgreSQL and Neo4j
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2011
+
+CERTIFICATIONS
+Salesforce Certified, AWS Certified

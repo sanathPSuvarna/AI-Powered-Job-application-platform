@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 4 years of experience in software development and technology.
+Strong background in Clojure, Communication, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Perl, Kotlin, F#
+Technologies: SASS
+Databases: Amazon RDS
+Cloud Platforms: Azure
+Tools: Zoom, Git, Microservices
+
+WORK EXPERIENCE
+QA Engineer - NVIDIA (2020 - Present)
+• Developed applications using Clojure and Communication
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UC Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified

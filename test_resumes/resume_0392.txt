@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 14 years of experience in software development and technology.
+Strong background in MariaDB, Laravel, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Groovy, MATLAB
+Technologies: Laravel, Vue.js, Svelte, LESS
+Databases: MariaDB, MySQL, Redis
+Cloud Platforms: Jenkins
+Tools: Zoom, Swagger, Microservices, Microsoft Teams
+
+WORK EXPERIENCE
+Backend Developer - Salesforce (2010 - Present)
+• Developed applications using MariaDB and Laravel
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University
+Graduated: 2006
+
+CERTIFICATIONS
+Scrum Master, Oracle Certified, Microsoft Certified

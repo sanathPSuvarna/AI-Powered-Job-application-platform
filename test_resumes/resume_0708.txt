@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, GitLab CI/CD, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, C#, Scala
+Technologies: Angular
+Databases: MongoDB, Oracle
+Cloud Platforms: GitLab CI/CD, Docker
+Tools: Microsoft Teams, Postman, Sketch
+
+WORK EXPERIENCE
+Database Administrator - Airbnb (2021 - Present)
+• Developed applications using CompTIA Security+ and GitLab CI/CD
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

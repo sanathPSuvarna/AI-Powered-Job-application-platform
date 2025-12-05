@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 11 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, Kanban, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Java, Clojure, PHP, MATLAB
+Technologies: Laravel, Vue.js, Babel
+Databases: Oracle, MySQL, MongoDB
+Cloud Platforms: GitLab CI/CD, Azure
+Tools: Adobe Creative Suite, Kanban, SOAP, Confluence, REST API
+
+WORK EXPERIENCE
+Senior Software Engineer - Dropbox (2013 - Present)
+• Developed applications using Adobe Creative Suite and Kanban
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Computer Science
+Georgia Tech
+Graduated: 2009
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified

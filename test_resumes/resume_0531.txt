@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in Clojure, Critical Thinking, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Python, Go
+Technologies: Webpack, CSS
+Databases: Firebase
+Cloud Platforms: Docker
+Tools: Zoom, Microservices, Figma, REST API
+
+WORK EXPERIENCE
+QA Engineer - Dell (2017 - Present)
+• Developed applications using Clojure and Critical Thinking
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2013
+
+CERTIFICATIONS
+Azure Certified

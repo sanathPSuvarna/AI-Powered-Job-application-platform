@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Engineering Manager with 15 years of experience in software development and technology.
+Strong background in TypeScript, Neo4j, MySQL.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, C#, Perl, Haskell, Groovy
+Technologies: Node.js, Babel, Spring Boot, Nuxt.js
+Databases: Neo4j, MySQL
+Cloud Platforms: Docker, Terraform
+Tools: JIRA, Zoom, Microservices
+
+WORK EXPERIENCE
+Engineering Manager - PayPal (2009 - Present)
+• Developed applications using TypeScript and Neo4j
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Michigan
+Graduated: 2005
+
+CERTIFICATIONS
+PMP, Salesforce Certified, Microsoft Certified

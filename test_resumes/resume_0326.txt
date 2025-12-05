@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 14 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, C#, Dart, Python
+Technologies: Nuxt.js, Express.js
+Databases: MariaDB, Cassandra, Elasticsearch
+Cloud Platforms: Chef
+Tools: Adobe Creative Suite, InVision, Sketch
+
+WORK EXPERIENCE
+Project Manager - Twitter (2010 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Computer Science
+MIT
+Graduated: 2006
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

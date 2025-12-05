@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 4 years of experience in software development and technology.
+Strong background in CompTIA Security+, Communication, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, JavaScript
+Technologies: jQuery, Spring Boot, Vue.js
+Databases: Firebase
+Cloud Platforms: GitHub Actions
+Tools: Zoom, GraphQL, Sketch, JIRA
+
+WORK EXPERIENCE
+Cybersecurity Analyst - IBM (2020 - Present)
+• Developed applications using CompTIA Security+ and Communication
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Engineering in Data Science
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Microsoft Certified, PMP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 13 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, Perl, Kotlin, Scala
+Technologies: Angular, Vue.js, React, CSS
+Databases: Google Cloud SQL, SQL Server, Cassandra
+Cloud Platforms: Vagrant
+Tools: SOAP, Sketch, Scrum, Slack
+
+WORK EXPERIENCE
+Data Analyst - HP (2011 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2007
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 0 years of experience in software development and technology.
+Strong background in Communication, SASS, LESS.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, Rust
+Technologies: SASS, LESS, Babel
+Databases: MongoDB, SQLite
+Cloud Platforms: Google Cloud Platform
+Tools: GitLab, SOAP
+
+WORK EXPERIENCE
+Network Engineer - Salesforce (2024 - Present)
+• Developed applications using Communication and SASS
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2020
+
+CERTIFICATIONS
+CISSP

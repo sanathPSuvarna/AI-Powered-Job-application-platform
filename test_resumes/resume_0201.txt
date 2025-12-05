@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Perl, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, TypeScript, C++
+Technologies: Babel, Spring Boot, Express.js
+Databases: InfluxDB, MongoDB
+Cloud Platforms: 
+Tools: Agile, Git
+
+WORK EXPERIENCE
+Business Analyst - NVIDIA (2021 - Present)
+• Developed applications using CompTIA Security+ and Perl
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Machine Learning
+UCLA
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

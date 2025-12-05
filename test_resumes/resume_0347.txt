@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 8 years of experience in software development and technology.
+Strong background in Time Management, Adobe Creative Suite, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Swift, MATLAB, Scala
+Technologies: Gatsby, HTML, Svelte, Bootstrap
+Databases: Cassandra, CouchDB, MongoDB
+Cloud Platforms: Ansible, Terraform, GitHub Actions
+Tools: Adobe Creative Suite, Git, Zoom, DevOps
+
+WORK EXPERIENCE
+Data Analyst - Netflix (2016 - Present)
+• Developed applications using Time Management and Adobe Creative Suite
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Machine Learning
+UCLA
+Graduated: 2012
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified

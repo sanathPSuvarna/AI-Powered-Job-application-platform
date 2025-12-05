@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 1 years of experience in software development and technology.
+Strong background in Oracle Certified, Plotly, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Swift, JavaScript
+Technologies: Next.js, Flask
+Databases: InfluxDB, Cassandra
+Cloud Platforms: 
+Tools: Zoom, Scrum, SOAP
+
+WORK EXPERIENCE
+System Administrator - Twitter (2023 - Present)
+• Developed applications using Oracle Certified and Plotly
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Engineering in Data Science
+Princeton University
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified, Scrum Master

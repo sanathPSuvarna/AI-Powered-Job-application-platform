@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 2 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, PowerShell, Groovy
+Technologies: Node.js, Flask
+Databases: MariaDB, MongoDB
+Cloud Platforms: AWS, Kubernetes
+Tools: Microsoft Teams, Bitbucket, DevOps
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Dropbox (2022 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+MIT
+Graduated: 2018
+
+CERTIFICATIONS

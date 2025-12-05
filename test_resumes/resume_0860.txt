@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8 years of experience in software development and technology.
+Strong background in PostgreSQL, Postman, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Python, F#, Kotlin
+Technologies: Bootstrap, Nuxt.js
+Databases: PostgreSQL, SQLite
+Cloud Platforms: GitHub Actions
+Tools: Postman, GraphQL, Bitbucket, Scrum
+
+WORK EXPERIENCE
+QA Engineer - Square (2016 - Present)
+• Developed applications using PostgreSQL and Postman
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2012
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified

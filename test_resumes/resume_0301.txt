@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Engineering Manager with 1 years of experience in software development and technology.
+Strong background in Time Management, Scrum, Svelte.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Haskell
+Technologies: Svelte, Vue.js
+Databases: DynamoDB
+Cloud Platforms: 
+Tools: Scrum, GitHub, Kanban, Confluence
+
+WORK EXPERIENCE
+Engineering Manager - VMware (2023 - Present)
+• Developed applications using Time Management and Scrum
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Michigan
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified, Azure Certified

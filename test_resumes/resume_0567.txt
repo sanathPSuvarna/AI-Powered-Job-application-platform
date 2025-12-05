@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 1 years of experience in software development and technology.
+Strong background in Clojure, Public Speaking, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Kotlin, JavaScript
+Technologies: SASS, Express.js
+Databases: InfluxDB, Neo4j
+Cloud Platforms: 
+Tools: Figma, Microservices, JIRA
+
+WORK EXPERIENCE
+Backend Developer - Amazon (2023 - Present)
+• Developed applications using Clojure and Public Speaking
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+MIT
+Graduated: 2019
+
+CERTIFICATIONS

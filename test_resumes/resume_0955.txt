@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 3 years of experience in software development and technology.
+Strong background in Critical Thinking, Project Management, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#
+Technologies: CSS, Node.js, React
+Databases: InfluxDB, SQLite
+Cloud Platforms: Kubernetes
+Tools: Figma, Sketch
+
+WORK EXPERIENCE
+System Administrator - Twitter (2021 - Present)
+• Developed applications using Critical Thinking and Project Management
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified, CISSP, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 11 years of experience in software development and technology.
+Strong background in MariaDB, Shell Scripting, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, PowerShell, Java, Scala
+Technologies: jQuery, Svelte, Django, LESS
+Databases: MariaDB, Oracle, Amazon RDS
+Cloud Platforms: Jenkins, Puppet, OpenShift
+Tools: InVision, SOAP, Figma, DevOps
+
+WORK EXPERIENCE
+Database Administrator - Square (2013 - Present)
+• Developed applications using MariaDB and Shell Scripting
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+Yale University
+Graduated: 2009
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master

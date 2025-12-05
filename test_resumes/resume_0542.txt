@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 12 years of experience in software development and technology.
+Strong background in Objective-C, Amazon RDS, Firebase.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, C#, C++, Clojure
+Technologies: Angular, Svelte
+Databases: Amazon RDS, Firebase, MongoDB
+Cloud Platforms: GitLab CI/CD
+Tools: Git, Swagger, GraphQL, Microservices
+
+WORK EXPERIENCE
+Software Architect - Microsoft (2012 - Present)
+• Developed applications using Objective-C and Amazon RDS
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+Graduated: 2008
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified, CISSP

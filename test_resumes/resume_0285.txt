@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 4 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, R.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, R
+Technologies: Spring Boot, Bootstrap
+Databases: MongoDB
+Cloud Platforms: GitHub Actions
+Tools: Zoom, Figma, GraphQL, Confluence
+
+WORK EXPERIENCE
+Senior Software Engineer - Facebook (2020 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+

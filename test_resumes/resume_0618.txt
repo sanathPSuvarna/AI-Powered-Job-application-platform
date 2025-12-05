@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 13 years of experience in software development and technology.
+Strong background in MariaDB, Oracle, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, MATLAB, F#, JavaScript
+Technologies: jQuery, Webpack, Django, LESS
+Databases: MariaDB, Oracle, MongoDB
+Cloud Platforms: Heroku, DigitalOcean
+Tools: Swagger, REST API, GitLab, Agile, DevOps
+
+WORK EXPERIENCE
+Backend Developer - Cisco (2011 - Present)
+• Developed applications using MariaDB and Oracle
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2007
+
+CERTIFICATIONS
+AWS Certified

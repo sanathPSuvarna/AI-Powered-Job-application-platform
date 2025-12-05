@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 3 years of experience in software development and technology.
+Strong background in Objective-C, SQL Server, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, VBA
+Technologies: jQuery, HTML, Django
+Databases: SQL Server, Neo4j
+Cloud Platforms: GitLab CI/CD, OpenShift
+Tools: InVision, Swagger, Confluence, Agile
+
+WORK EXPERIENCE
+Data Analyst - Tesla (2021 - Present)
+• Developed applications using Objective-C and SQL Server
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2017
+
+CERTIFICATIONS
+PMP

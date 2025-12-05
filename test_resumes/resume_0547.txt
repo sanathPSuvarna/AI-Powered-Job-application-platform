@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, SASS, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, Scala
+Technologies: SASS
+Databases: Google Cloud SQL, Firebase
+Cloud Platforms: Vagrant, DigitalOcean
+Tools: Sketch, Slack, Figma, DevOps
+
+WORK EXPERIENCE
+Data Scientist - Amazon (2018 - Present)
+• Developed applications using CompTIA Security+ and SASS
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+

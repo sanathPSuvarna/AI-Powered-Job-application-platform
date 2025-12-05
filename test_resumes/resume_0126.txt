@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Product Manager with 10 years of experience in software development and technology.
+Strong background in CompTIA Security+, PostgreSQL, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Swift, Kotlin
+Technologies: CSS, Webpack, Django
+Databases: PostgreSQL, Neo4j
+Cloud Platforms: Ansible, AWS, Google Cloud Platform
+Tools: Zoom, Swagger, GitLab
+
+WORK EXPERIENCE
+Product Manager - Spotify (2014 - Present)
+• Developed applications using CompTIA Security+ and PostgreSQL
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2010
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified, CISSP

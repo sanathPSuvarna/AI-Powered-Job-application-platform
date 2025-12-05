@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, Project Management, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, VBA, Rust
+Technologies: LESS, CSS, Vue.js
+Databases: MySQL
+Cloud Platforms: Puppet
+Tools: Scrum, GitHub, Sketch
+
+WORK EXPERIENCE
+Project Manager - Twitter (2017 - Present)
+• Developed applications using Oracle Certified and Project Management
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified, Scrum Master

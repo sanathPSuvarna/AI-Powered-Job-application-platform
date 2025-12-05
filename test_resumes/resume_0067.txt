@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 1 years of experience in software development and technology.
+Strong background in Heroku, CompTIA Security+, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, JavaScript
+Technologies: LESS, Next.js, CSS
+Databases: CouchDB
+Cloud Platforms: Heroku, Google Cloud Platform
+Tools: Zoom, Kanban
+
+WORK EXPERIENCE
+Data Scientist - Shopify (2023 - Present)
+• Developed applications using Heroku and CompTIA Security+
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Computer Science
+UT Austin
+Graduated: 2019
+
+CERTIFICATIONS
+CompTIA Security+, PMP

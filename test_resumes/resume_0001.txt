@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Communication, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Rust, PHP
+Technologies: Gatsby, CSS
+Databases: Cassandra
+Cloud Platforms: 
+Tools: Kanban, Figma
+
+WORK EXPERIENCE
+Project Manager - PayPal (2021 - Present)
+• Developed applications using CompTIA Security+ and Communication
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+

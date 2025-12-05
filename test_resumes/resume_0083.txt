@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 2 years of experience in software development and technology.
+Strong background in Team Collaboration, Public Speaking, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, PowerShell, C#
+Technologies: Laravel, Node.js, React
+Databases: MongoDB
+Cloud Platforms: 
+Tools: Zoom, Adobe Creative Suite, Sketch
+
+WORK EXPERIENCE
+Software Architect - NVIDIA (2022 - Present)
+• Developed applications using Team Collaboration and Public Speaking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2018
+
+CERTIFICATIONS

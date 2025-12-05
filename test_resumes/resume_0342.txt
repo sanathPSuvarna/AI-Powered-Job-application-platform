@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 13 years of experience in software development and technology.
+Strong background in SASS, Laravel, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, JavaScript, Scala
+Technologies: SASS, Laravel, HTML, Express.js
+Databases: MySQL, Redis
+Cloud Platforms: Azure, OpenShift
+Tools: InVision, REST API, GitLab
+
+WORK EXPERIENCE
+System Administrator - Dell (2011 - Present)
+• Developed applications using SASS and Laravel
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2007
+
+CERTIFICATIONS
+Azure Certified, AWS Certified

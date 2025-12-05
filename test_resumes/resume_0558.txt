@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Critical Thinking, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PowerShell
+Technologies: Nuxt.js, Bootstrap
+Databases: MySQL
+Cloud Platforms: CircleCI
+Tools: GitLab, Slack, Postman, Microservices
+
+WORK EXPERIENCE
+DevOps Engineer - Amazon (2019 - Present)
+• Developed applications using Nuxt.js and Critical Thinking
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Columbia University
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified

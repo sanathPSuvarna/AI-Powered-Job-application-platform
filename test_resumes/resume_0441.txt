@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Solutions Architect with 12 years of experience in software development and technology.
+Strong background in Oracle, jQuery, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, R, Kotlin, Ruby
+Technologies: jQuery, Node.js, Babel, Next.js
+Databases: Oracle, InfluxDB
+Cloud Platforms: GitHub Actions, Puppet
+Tools: Zoom, Bitbucket, REST API, Microsoft Teams, GitHub
+
+WORK EXPERIENCE
+Solutions Architect - Microsoft (2012 - Present)
+• Developed applications using Oracle and jQuery
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2008
+
+CERTIFICATIONS
+Scrum Master, PMP, AWS Certified

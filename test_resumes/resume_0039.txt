@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 4 years of experience in software development and technology.
+Strong background in Django, CompTIA Security+, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, Groovy
+Technologies: Django, Spring Boot, Vue.js
+Databases: InfluxDB
+Cloud Platforms: Ansible, GitHub Actions
+Tools: Slack, GitHub, DevOps
+
+WORK EXPERIENCE
+Full Stack Developer - Airbnb (2020 - Present)
+• Developed applications using Django and CompTIA Security+
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified, Salesforce Certified

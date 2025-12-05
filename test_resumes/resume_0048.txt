@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 4 years of experience in software development and technology.
+Strong background in MariaDB, Critical Thinking, Oracle Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, Java
+Technologies: SASS, HTML, Flask
+Databases: MariaDB
+Cloud Platforms: Jenkins
+Tools: Kanban, GraphQL, DevOps
+
+WORK EXPERIENCE
+Solutions Architect - Dropbox (2020 - Present)
+• Developed applications using MariaDB and Critical Thinking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, Google Cloud Certified, AWS Certified

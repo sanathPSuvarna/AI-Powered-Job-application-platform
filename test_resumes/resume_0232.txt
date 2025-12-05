@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 14 years of experience in software development and technology.
+Strong background in Shell Scripting, InVision, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Groovy, Rust
+Technologies: Vue.js, Babel, Bootstrap
+Databases: Amazon RDS, Elasticsearch, Redis
+Cloud Platforms: Jenkins, Heroku, OpenShift
+Tools: InVision, REST API, Agile
+
+WORK EXPERIENCE
+Software Engineer - Microsoft (2010 - Present)
+• Developed applications using Shell Scripting and InVision
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Illinois
+Graduated: 2006
+
+CERTIFICATIONS
+Oracle Certified

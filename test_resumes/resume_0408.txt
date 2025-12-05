@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 9 years of experience in software development and technology.
+Strong background in Shell Scripting, PostgreSQL, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, VBA, JavaScript
+Technologies: Vue.js, Nuxt.js, LESS
+Databases: PostgreSQL, Neo4j, DynamoDB
+Cloud Platforms: GitLab CI/CD
+Tools: JIRA, Swagger, Bitbucket, Sketch, GitLab
+
+WORK EXPERIENCE
+Tech Lead - Yahoo (2015 - Present)
+• Developed applications using Shell Scripting and PostgreSQL
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2011
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 0 years of experience in software development and technology.
+Strong background in Objective-C, TypeScript, Gatsby.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, Java, Clojure
+Technologies: Gatsby
+Databases: SQLite
+Cloud Platforms: Kubernetes, Azure
+Tools: Microservices, Bitbucket, Slack, Figma
+
+WORK EXPERIENCE
+Tech Lead - Google (2024 - Present)
+• Developed applications using Objective-C and TypeScript
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Computer Science
+Columbia University
+Graduated: 2020
+
+CERTIFICATIONS
+CISSP, AWS Certified

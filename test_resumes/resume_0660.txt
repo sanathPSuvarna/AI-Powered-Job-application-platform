@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, MariaDB, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript
+Technologies: Nuxt.js, SASS
+Databases: MariaDB, Elasticsearch
+Cloud Platforms: Terraform
+Tools: Zoom, Slack, InVision, GitHub
+
+WORK EXPERIENCE
+Software Engineer - Salesforce (2019 - Present)
+• Developed applications using Nuxt.js and MariaDB
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2015
+
+CERTIFICATIONS
+Scrum Master

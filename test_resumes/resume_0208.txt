@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in Nuxt.js, Perl, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, TypeScript, MATLAB, Haskell
+Technologies: Nuxt.js, Express.js, Gatsby
+Databases: Google Cloud SQL, PostgreSQL
+Cloud Platforms: AWS, CircleCI
+Tools: Scrum, Agile
+
+WORK EXPERIENCE
+Backend Developer - IBM (2021 - Present)
+• Developed applications using Nuxt.js and Perl
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Washington
+Graduated: 2017
+
+CERTIFICATIONS
+Azure Certified, Scrum Master

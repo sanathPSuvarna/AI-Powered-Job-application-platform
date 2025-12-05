@@ -77,7 +77,7 @@ const Layout = ({ children, userType }) => {
       <List>
         {menuItems.map((item) => (
           <ListItem
-            button
+            component="button"
             key={item.text}
             onClick={() => navigate(item.path)}
             selected={location.pathname === item.path}
@@ -97,7 +97,7 @@ const Layout = ({ children, userType }) => {
             <ListItemText primary={item.text} />
           </ListItem>
         ))}
-        <ListItem button onClick={handleLogout}>
+        <ListItem component="button" onClick={handleLogout}>
           <ListItemIcon>
             <LogoutIcon />
           </ListItemIcon>

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 8 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python, Go, MATLAB
+Technologies: SASS, Laravel, Bootstrap, Nuxt.js
+Databases: PostgreSQL, Amazon RDS, MySQL
+Cloud Platforms: Docker, Puppet, DigitalOcean
+Tools: Microservices, Agile, GitHub
+
+WORK EXPERIENCE
+Network Engineer - Dell (2016 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Illinois
+Graduated: 2012
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master

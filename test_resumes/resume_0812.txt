@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 2 years of experience in software development and technology.
+Strong background in InfluxDB, Pandas, Excel.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, PHP
+Technologies: Bootstrap, React
+Databases: InfluxDB
+Cloud Platforms: OpenShift, Docker
+Tools: Bitbucket, Postman
+
+WORK EXPERIENCE
+System Administrator - Shopify (2022 - Present)
+• Developed applications using InfluxDB and Pandas
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2018
+
+CERTIFICATIONS

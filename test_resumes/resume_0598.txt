@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 10 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Pandas, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, C#, Rust, Scala
+Technologies: Node.js, LESS
+Databases: Google Cloud SQL, Cassandra, InfluxDB
+Cloud Platforms: Vagrant, OpenShift
+Tools: InVision, JIRA, Microservices, Sketch
+
+WORK EXPERIENCE
+System Administrator - Dell (2014 - Present)
+• Developed applications using Google Cloud SQL and Pandas
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2010
+
+CERTIFICATIONS
+Google Cloud Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 10 years of experience in software development and technology.
+Strong background in CompTIA Security+, Adobe Creative Suite, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, C#, Scala, Python
+Technologies: jQuery, Svelte, Flask
+Databases: SQL Server, Oracle, Elasticsearch
+Cloud Platforms: Docker, Terraform, Azure
+Tools: Adobe Creative Suite, Postman, JIRA, Slack, Microsoft Teams
+
+WORK EXPERIENCE
+Database Administrator - PayPal (2014 - Present)
+• Developed applications using CompTIA Security+ and Adobe Creative Suite
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Science in Machine Learning
+Georgia Tech
+Graduated: 2010
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

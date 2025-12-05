@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 0 years of experience in software development and technology.
+Strong background in Critical Thinking, R, Power BI.
+
+TECHNICAL SKILLS
+Programming Languages: R, Kotlin, Objective-C, Dart
+Technologies: Bootstrap
+Databases: MongoDB
+Cloud Platforms: DigitalOcean
+Tools: Sketch, Bitbucket
+
+WORK EXPERIENCE
+Software Architect - Airbnb (2024 - Present)
+• Developed applications using Critical Thinking and R
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UC Berkeley
+Graduated: 2020
+
+CERTIFICATIONS

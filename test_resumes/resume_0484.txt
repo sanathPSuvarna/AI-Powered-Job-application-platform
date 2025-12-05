@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 4 years of experience in software development and technology.
+Strong background in MariaDB, Objective-C, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Kotlin, Groovy, Rust
+Technologies: Laravel, Babel, Express.js
+Databases: MariaDB, Redis
+Cloud Platforms: 
+Tools: GraphQL, Slack, DevOps
+
+WORK EXPERIENCE
+Engineering Manager - Square (2020 - Present)
+• Developed applications using MariaDB and Objective-C
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UT Austin
+Graduated: 2016
+
+CERTIFICATIONS
+Microsoft Certified, AWS Certified

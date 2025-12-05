@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 5 years of experience in software development and technology.
+Strong background in Pandas, Adobe Creative Suite, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: C#, C++, Rust, PHP
+Technologies: jQuery, HTML, Spring Boot
+Databases: MySQL, InfluxDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, InVision
+
+WORK EXPERIENCE
+Engineering Manager - Shopify (2019 - Present)
+• Developed applications using Pandas and Adobe Creative Suite
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2015
+
+CERTIFICATIONS
+Salesforce Certified, Oracle Certified

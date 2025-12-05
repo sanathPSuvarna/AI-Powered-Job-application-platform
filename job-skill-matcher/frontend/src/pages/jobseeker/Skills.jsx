@@ -18,6 +18,25 @@ const Skills = () => {
     const [showExtractedSkills, setShowExtractedSkills] = useState(false);
     const [uploadError, setUploadError] = useState('');
     const [uploadSuccess, setUploadSuccess] = useState('');
+    const [isAddingToDatabase, setIsAddingToDatabase] = useState(false);
+
+    // Function to fetch available skills from the database
+    const fetchAvailableSkills = async () => {
+        try {
+            const availableSkillsResponse = await fetch('http://localhost:5000/api/skill', {
+                headers: {
+                    'Authorization': `Bearer ${localStorage.getItem('token')}`
+                }
+            });
+
+            if (availableSkillsResponse.ok) {
+                const availableSkillsData = await availableSkillsResponse.json();
+                setAvailableSkills(availableSkillsData);
+            }
+        } catch (error) {
+            console.error('Error fetching available skills:', error);
+        }
+    };
 
     // Fetch user's skills and available skills on component mount
     useEffect(() => {
@@ -35,17 +54,7 @@ const Skills = () => {
                 }
 
                 // Fetch all available skills from the database
-                
-                const availableSkillsResponse = await fetch('http://localhost:5000/api/skill', {
-                    headers: {
-                        'Authorization': `Bearer ${localStorage.getItem('token')}`
-                    }
-                });
-
-                if (availableSkillsResponse.ok) {
-                    const availableSkillsData = await availableSkillsResponse.json();
-                    setAvailableSkills(availableSkillsData);
-                }
+                await fetchAvailableSkills();
             } catch (error) {
                 console.error('Error fetching skills:', error);
             }
@@ -159,9 +168,12 @@ const Skills = () => {
                     // Pre-select all matched skills
                     setSelectedMatchedSkills(data.matchedSkills.map(skill => skill.skill_id));
                     
-                    setUploadSuccess(`Found ${data.matchedSkills.length} skills in your resume that match our database.`);
+                    // Enhanced success message with Large-Scale Model info
+                    const modelInfo = data.modelInfo ? ` (${data.modelInfo.name} detected ${data.modelInfo.totalSkillsDetected} total skills)` : '';
+                    setUploadSuccess(`Found ${data.matchedSkills.length} skills in your resume that match our database${modelInfo}.`);
                 } else {
-                    setUploadSuccess('Resume analyzed successfully, but no matching skills were found in our database.');
+                    const modelInfo = data.modelInfo ? ` The ${data.modelInfo.name} detected ${data.modelInfo.totalSkillsDetected} skills total.` : '';
+                    setUploadSuccess(`Resume analyzed successfully, but no matching skills were found in our database.${modelInfo}`);
                     if (data.unmatchedSkills.length > 0) {
                         setShowExtractedSkills(true);
                     }
@@ -245,7 +257,75 @@ const Skills = () => {
                 return [...prevSelected, skillId];
             }
         });
-    };    return (
+    };
+
+    // Handle adding high-confidence unmatched skills to the database
+    const handleAddSkillsToDatabase = async () => {
+        try {
+            setIsAddingToDatabase(true);
+            setUploadError('');
+            setUploadSuccess('');
+
+            // Get high-confidence unmatched skills
+            const highConfidenceSkills = extractedSkills.unmatchedSkills
+                .filter(skillItem => {
+                    const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                    return confidence >= 0.7;
+                })
+                .map(skillItem => ({
+                    skill: typeof skillItem === 'string' ? skillItem : skillItem.skill,
+                    category: typeof skillItem === 'object' ? skillItem.category : 'other',
+                    confidence: typeof skillItem === 'object' ? skillItem.confidence : 1.0
+                }));
+
+            if (highConfidenceSkills.length === 0) {
+                setUploadError('No high-confidence skills available to add to database.');
+                return;
+            }
+
+            console.log(`Adding ${highConfidenceSkills.length} skills to database:`, highConfidenceSkills);
+
+            const response = await fetch('http://localhost:5000/api/resume-skills/add-to-database', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${localStorage.getItem('token')}`
+                },
+                body: JSON.stringify({ skills: highConfidenceSkills })
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                console.log('Database addition result:', result);
+                
+                const { summary } = result;
+                setUploadSuccess(
+                    `Successfully added ${summary.added} skills to our database! ` +
+                    `${summary.skipped > 0 ? `(${summary.skipped} were skipped as they already exist)` : ''} ` +
+                    `Thank you for helping improve our platform for all users!`
+                );
+
+                // Optionally refresh the available skills or update the UI
+                // You might want to remove the added skills from unmatched skills display
+                if (summary.added > 0) {
+                    // Refresh available skills for future use
+                    fetchAvailableSkills();
+                }
+                
+            } else {
+                const errorData = await response.json();
+                setUploadError(`Error adding skills to database: ${errorData.message}`);
+            }
+
+        } catch (error) {
+            console.error('Error adding skills to database:', error);
+            setUploadError('Error adding skills to database. Please try again.');
+        } finally {
+            setIsAddingToDatabase(false);
+        }
+    };
+
+    return (
         <div className="skills-container">
             <h2>My Skills</h2>
 
@@ -301,17 +381,43 @@ const Skills = () => {
                         
                         {extractedSkills.matchedSkills.length > 0 ? (
                             <>
-                                <p>Select skills to add to your profile:</p>
+                                <p>
+                                    Select skills to add to your profile:
+                                    {extractedSkills.modelInfo && (
+                                        <span className="model-info-badge">
+                                            {extractedSkills.modelInfo.name} detected {extractedSkills.modelInfo.totalSkillsDetected} skills
+                                        </span>
+                                    )}
+                                </p>
                                 <ul className="extracted-skills-list">
-                                    {extractedSkills.matchedSkills.map(skill => (
-                                        <li key={skill.skill_id}>
+                                    {extractedSkills.matchedSkills
+                                        .filter(skill => {
+                                            // Filter by confidence - prioritize higher confidence matches
+                                            const confidence = skill.confidence || 1.0;
+                                            return confidence >= 0.5; // Minimum 50% confidence for matched skills
+                                        })
+                                        .sort((a, b) => (b.confidence || 1.0) - (a.confidence || 1.0)) // Sort by confidence desc
+                                        .map(skill => (
+                                        <li key={skill.skill_id} className={skill.confidence >= 0.8 ? 'high-confidence' : ''}>
                                             <label className="skill-checkbox-label">
                                                 <input 
                                                     type="checkbox"
                                                     checked={selectedMatchedSkills.includes(skill.skill_id)}
                                                     onChange={() => handleSkillCheckboxChange(skill.skill_id)}
                                                 />
-                                                {skill.skill_name}
+                                                <span className="skill-name">{skill.skill_name}</span>
+                                                {skill.category && skill.category !== 'other' && (
+                                                    <span className="skill-category">{skill.category}</span>
+                                                )}
+                                                {skill.confidence && skill.confidence < 1.0 && (
+                                                    <span className="skill-confidence">{Math.round(skill.confidence * 100)}%</span>
+                                                )}
+                                                {skill.match_type && skill.match_type === 'fuzzy' && (
+                                                    <span className="skill-confidence">fuzzy match</span>
+                                                )}
+                                                {skill.confidence >= 0.9 && (
+                                                    <span className="high-confidence-badge">HIGH</span>
+                                                )}
                                             </label>
                                         </li>
                                     ))}
@@ -347,10 +453,121 @@ const Skills = () => {
                                 <h4>Other Skills Found (Not in Database)</h4>
                                 <p>These skills were detected but are not in our database:</p>
                                 <ul>
-                                    {extractedSkills.unmatchedSkills.map((skill, index) => (
-                                        <li key={index}>{skill}</li>
-                                    ))}
+                                    {extractedSkills.unmatchedSkills
+                                        .filter(skillItem => {
+                                            // Filter by confidence - only show skills with decent confidence
+                                            const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                            return confidence >= 0.6; // Minimum 60% confidence
+                                        })
+                                        .map((skillItem, index) => {
+                                        // Handle both string and object formats from Large-Scale Skills Model
+                                        const skillName = typeof skillItem === 'string' ? skillItem : skillItem.skill;
+                                        const category = typeof skillItem === 'object' ? skillItem.category : 'other';
+                                        const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                        const suggestedAdd = typeof skillItem === 'object' ? skillItem.suggested_add : false;
+                                        
+                                        return (
+                                            <li key={index} className={suggestedAdd ? 'suggested-skill' : ''}>
+                                                <span className="skill-name">{skillName}</span>
+                                                {category && category !== 'other' && (
+                                                    <span className="skill-category"> ({category})</span>
+                                                )}
+                                                {confidence && confidence < 1.0 && (
+                                                    <span className="skill-confidence"> - {Math.round(confidence * 100)}% confidence</span>
+                                                )}
+                                                {suggestedAdd && (
+                                                    <span className="suggested-badge">RECOMMENDED</span>
+                                                )}
+                                            </li>
+                                        );
+                                    })}
                                 </ul>
+                                {extractedSkills.unmatchedSkills.filter(skillItem => {
+                                    const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                    return confidence < 0.6;
+                                }).length > 0 && (
+                                    <p className="filtered-note">
+                                        {extractedSkills.unmatchedSkills.filter(skillItem => {
+                                            const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                            return confidence < 0.6;
+                                        }).length} additional low-confidence detections were filtered out to reduce false positives.
+                                    </p>
+                                )}
+
+                                {/* Add to Database Section */}
+                                {extractedSkills.unmatchedSkills.filter(skillItem => {
+                                    const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                    return confidence >= 0.7; // Only high-confidence skills for database addition
+                                }).length > 0 && (
+                                    <div className="add-to-database-section">
+                                        <h5>Help Improve Our Database</h5>
+                                        <p>These high-confidence skills aren't in our database yet. Help other job seekers by adding them:</p>
+                                        <div className="database-skills">
+                                            {extractedSkills.unmatchedSkills
+                                                .filter(skillItem => {
+                                                    const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                                    return confidence >= 0.7;
+                                                })
+                                                .map((skillItem, index) => {
+                                                    const skillName = typeof skillItem === 'string' ? skillItem : skillItem.skill;
+                                                    const category = typeof skillItem === 'object' ? skillItem.category : 'other';
+                                                    const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                                    
+                                                    return (
+                                                        <div key={index} className="database-skill-item">
+                                                            <span className="skill-name">{skillName}</span>
+                                                            <span className="skill-category">({category})</span>
+                                                            <span className="skill-confidence">{Math.round(confidence * 100)}%</span>
+                                                        </div>
+                                                    );
+                                                })
+                                            }
+                                        </div>
+                                        <button 
+                                            className="add-to-database-btn"
+                                            onClick={handleAddSkillsToDatabase}
+                                            disabled={isAddingToDatabase}
+                                        >
+                                            {isAddingToDatabase ? 'Adding...' : 'Add These Skills to Database'}
+                                        </button>
+                                    </div>
+                                )}
+                            </div>
+                        )}
+
+                        {/* Skills by Category Display */}
+                        {extractedSkills.skillsByCategory && Object.keys(extractedSkills.skillsByCategory).length > 0 && (
+                            <div className="skills-by-category">
+                                <h4>Skills Organized by Category</h4>
+                                <p>Here's how the Large-Scale Skills Model categorized your skills:</p>
+                                <div className="category-grid">
+                                    {Object.entries(extractedSkills.skillsByCategory).map(([category, skills]) => (
+                                        <div key={category} className="category-section">
+                                            <h5 className="category-title">{category.replace(/_/g, ' ').toUpperCase()}</h5>
+                                            <div className="category-skills">
+                                                {skills.slice(0, 5).map((skillItem, index) => {
+                                                    const skillName = typeof skillItem === 'object' ? skillItem.skill : skillItem;
+                                                    const matched = typeof skillItem === 'object' ? skillItem.matched : true;
+                                                    const confidence = typeof skillItem === 'object' ? skillItem.confidence : 1.0;
+                                                    
+                                                    return (
+                                                        <span 
+                                                            key={index} 
+                                                            className={`category-skill ${matched ? 'matched' : 'unmatched'}`}
+                                                            title={`${confidence ? Math.round(confidence * 100) + '% confidence' : ''} - ${matched ? 'Found in database' : 'Not in database'}`}
+                                                        >
+                                                            {skillName}
+                                                            {matched && <span className="match-indicator">✓</span>}
+                                                        </span>
+                                                    );
+                                                })}
+                                                {skills.length > 5 && (
+                                                    <span className="more-skills">+{skills.length - 5} more</span>
+                                                )}
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
                             </div>
                         )}
                     </div>

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 2 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, Go, MATLAB
+Technologies: Babel, Django
+Databases: PostgreSQL, Neo4j
+Cloud Platforms: GitLab CI/CD, Heroku
+Tools: Slack, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Data Analyst - Microsoft (2022 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Machine Learning
+Georgia Tech
+Graduated: 2018
+
+CERTIFICATIONS
+PMP, Oracle Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in Team Collaboration, Public Speaking, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift, C#
+Technologies: Svelte, Next.js
+Databases: SQLite, Neo4j
+Cloud Platforms: 
+Tools: Scrum, Adobe Creative Suite, Swagger
+
+WORK EXPERIENCE
+Backend Developer - Cisco (2021 - Present)
+• Developed applications using Team Collaboration and Public Speaking
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UCLA
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified, Azure Certified, Google Cloud Certified

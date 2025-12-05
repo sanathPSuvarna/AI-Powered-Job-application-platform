@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 0 years of experience in software development and technology.
+Strong background in Creativity, Scrum, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, VBA, C++
+Technologies: Angular, Vue.js
+Databases: SQL Server
+Cloud Platforms: GitHub Actions, Chef
+Tools: Scrum, Agile, REST API
+
+WORK EXPERIENCE
+Network Engineer - IBM (2024 - Present)
+• Developed applications using Creativity and Scrum
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Engineering in Data Science
+Yale University
+Graduated: 2020
+
+CERTIFICATIONS

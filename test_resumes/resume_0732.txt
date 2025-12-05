@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Plotly, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, F#, Python
+Technologies: Laravel
+Databases: PostgreSQL, Oracle
+Cloud Platforms: AWS, Puppet
+Tools: Swagger, GraphQL
+
+WORK EXPERIENCE
+Software Architect - Uber (2020 - Present)
+• Developed applications using Oracle Certified and Plotly
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, Azure Certified, Scrum Master

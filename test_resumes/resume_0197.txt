@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 5 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Swift, Dart
+Technologies: Express.js, Angular
+Databases: MariaDB, InfluxDB
+Cloud Platforms: 
+Tools: Zoom, GraphQL, InVision
+
+WORK EXPERIENCE
+System Administrator - Apple (2019 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master

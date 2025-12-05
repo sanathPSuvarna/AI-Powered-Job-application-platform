@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 12 years of experience in software development and technology.
+Strong background in CompTIA Security+, SASS, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Perl, JavaScript, Kotlin, MATLAB
+Technologies: SASS, Bootstrap, Next.js
+Databases: DynamoDB, MySQL
+Cloud Platforms: CircleCI, Kubernetes, Google Cloud Platform
+Tools: Confluence, Microservices, REST API, Microsoft Teams
+
+WORK EXPERIENCE
+UI/UX Designer - Microsoft (2012 - Present)
+• Developed applications using CompTIA Security+ and SASS
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Information Technology
+Columbia University
+Graduated: 2008
+
+CERTIFICATIONS
+CompTIA Security+, Microsoft Certified, AWS Certified

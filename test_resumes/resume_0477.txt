@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 12 years of experience in software development and technology.
+Strong background in SQL Server, Next.js, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Python, JavaScript, Groovy, MATLAB
+Technologies: Next.js, HTML, Bootstrap, CSS
+Databases: SQL Server, Redis
+Cloud Platforms: Google Cloud Platform
+Tools: GraphQL, GitHub, Figma
+
+WORK EXPERIENCE
+Machine Learning Engineer - Google (2012 - Present)
+• Developed applications using SQL Server and Next.js
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+CMU
+Graduated: 2008
+
+CERTIFICATIONS
+Cisco Certified

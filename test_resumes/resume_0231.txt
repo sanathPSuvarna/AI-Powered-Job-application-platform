@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 2 years of experience in software development and technology.
+Strong background in Shell Scripting, PyTorch, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, PHP, MATLAB
+Technologies: Express.js
+Databases: Firebase
+Cloud Platforms: 
+Tools: Swagger, InVision, GraphQL
+
+WORK EXPERIENCE
+Network Engineer - Shopify (2022 - Present)
+• Developed applications using Shell Scripting and PyTorch
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Michigan
+Graduated: 2018
+
+CERTIFICATIONS
+Azure Certified

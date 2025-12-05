@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 2 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Swift, Clojure, R
+Technologies: Express.js
+Databases: SQL Server, CouchDB
+Cloud Platforms: Docker, GitLab CI/CD
+Tools: Bitbucket, REST API, Sketch, Kanban
+
+WORK EXPERIENCE
+Machine Learning Engineer - Twitter (2022 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified

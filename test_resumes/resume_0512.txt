@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 6 years of experience in software development and technology.
+Strong background in Team Collaboration, Public Speaking, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, JavaScript
+Technologies: Angular, LESS, Spring Boot
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: GitLab, Swagger, GitHub, Postman
+
+WORK EXPERIENCE
+Data Scientist - LinkedIn (2018 - Present)
+• Developed applications using Team Collaboration and Public Speaking
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2014
+
+CERTIFICATIONS
+AWS Certified

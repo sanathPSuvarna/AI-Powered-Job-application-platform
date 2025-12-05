@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 1 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Team Collaboration, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Python, PHP, Scala
+Technologies: Bootstrap
+Databases: InfluxDB, Cassandra
+Cloud Platforms: GitLab CI/CD
+Tools: Scrum, Agile, DevOps, JIRA
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Slack (2023 - Present)
+• Developed applications using GitLab CI/CD and Team Collaboration
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+NYU
+Graduated: 2019
+
+CERTIFICATIONS

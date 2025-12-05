@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in Pandas, Laravel, C#.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Dart, Java
+Technologies: Laravel, Spring Boot
+Databases: Cassandra
+Cloud Platforms: GitHub Actions
+Tools: GraphQL, Kanban, DevOps
+
+WORK EXPERIENCE
+Backend Developer - Twitter (2021 - Present)
+• Developed applications using Pandas and Laravel
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UT Austin
+Graduated: 2017
+
+CERTIFICATIONS
+PMP, Salesforce Certified, Azure Certified

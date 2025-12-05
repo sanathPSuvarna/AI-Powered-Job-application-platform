@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 6 years of experience in software development and technology.
+Strong background in PostgreSQL, Google Cloud Certified, Negotiation.
+
+TECHNICAL SKILLS
+Programming Languages: Java, F#, Rust, MATLAB
+Technologies: React, Express.js, Django
+Databases: PostgreSQL, SQLite
+Cloud Platforms: 
+Tools: Sketch, GitHub, Kanban
+
+WORK EXPERIENCE
+System Administrator - Cisco (2018 - Present)
+• Developed applications using PostgreSQL and Google Cloud Certified
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, Salesforce Certified

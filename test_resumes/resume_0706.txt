@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, Team Collaboration, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: F#, PowerShell, Scala, Java
+Technologies: Bootstrap
+Databases: Redis, Elasticsearch
+Cloud Platforms: 
+Tools: GitLab, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Uber (2024 - Present)
+• Developed applications using Oracle Certified and Team Collaboration
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UCLA
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified

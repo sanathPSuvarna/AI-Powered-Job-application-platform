@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Adobe Creative Suite, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, F#, R, PHP
+Technologies: jQuery, Babel, Webpack
+Databases: CouchDB, SQLite
+Cloud Platforms: Terraform, Google Cloud Platform
+Tools: Adobe Creative Suite, Confluence, Sketch, Kanban
+
+WORK EXPERIENCE
+Machine Learning Engineer - IBM (2018 - Present)
+• Developed applications using CompTIA Security+ and Adobe Creative Suite
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

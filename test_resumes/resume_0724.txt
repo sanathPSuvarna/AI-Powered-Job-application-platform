@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Creativity, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, VBA, Rust
+Technologies: Bootstrap
+Databases: Redis, MySQL
+Cloud Platforms: Vagrant
+Tools: InVision, Postman
+
+WORK EXPERIENCE
+Project Manager - Facebook (2020 - Present)
+• Developed applications using Oracle Certified and Creativity
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified, Salesforce Certified

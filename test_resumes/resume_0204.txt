@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Creativity, Excel.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Swift, PHP
+Technologies: Nuxt.js, Express.js
+Databases: Neo4j
+Cloud Platforms: Google Cloud Platform, Vagrant
+Tools: Postman, DevOps, GraphQL
+
+WORK EXPERIENCE
+Backend Developer - Oracle (2023 - Present)
+• Developed applications using Nuxt.js and Creativity
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2019
+
+CERTIFICATIONS

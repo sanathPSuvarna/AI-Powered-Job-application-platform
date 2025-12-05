@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 5 years of experience in software development and technology.
+Strong background in MariaDB, Nuxt.js, Oracle Certified.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript
+Technologies: Nuxt.js, React
+Databases: MariaDB
+Cloud Platforms: 
+Tools: Git, Postman
+
+WORK EXPERIENCE
+Network Engineer - Salesforce (2019 - Present)
+• Developed applications using MariaDB and Nuxt.js
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with React
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, Google Cloud Certified, CompTIA Security+

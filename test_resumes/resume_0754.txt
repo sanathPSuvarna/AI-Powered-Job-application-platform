@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 3 years of experience in software development and technology.
+Strong background in Team Collaboration, Webpack, GitLab.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#
+Technologies: Webpack, Next.js
+Databases: DynamoDB
+Cloud Platforms: OpenShift, GitHub Actions
+Tools: GitLab, Slack, SOAP
+
+WORK EXPERIENCE
+Network Engineer - Apple (2021 - Present)
+• Developed applications using Team Collaboration and Webpack
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Engineering in Data Science
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified

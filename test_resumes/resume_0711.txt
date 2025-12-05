@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 14 years of experience in software development and technology.
+Strong background in MariaDB, Adobe Creative Suite, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, VBA, Go, F#, PHP
+Technologies: Spring Boot, Flask, Nuxt.js
+Databases: MariaDB, SQL Server, MongoDB
+Cloud Platforms: Vagrant, Puppet, Kubernetes
+Tools: Adobe Creative Suite, InVision, SOAP, GraphQL, Microsoft Teams
+
+WORK EXPERIENCE
+Senior Software Engineer - Twitter (2010 - Present)
+• Developed applications using MariaDB and Adobe Creative Suite
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Engineering in Data Science
+Purdue University
+Graduated: 2006
+
+CERTIFICATIONS
+PMP, CISSP

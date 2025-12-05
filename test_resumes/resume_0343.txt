@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 7 years of experience in software development and technology.
+Strong background in Pandas, TypeScript, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Python, JavaScript, C++
+Technologies: Babel
+Databases: Neo4j, Redis
+Cloud Platforms: Jenkins
+Tools: InVision, SOAP, GraphQL, Bitbucket
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Zoom (2017 - Present)
+• Developed applications using Pandas and TypeScript
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+MIT
+Graduated: 2013
+
+CERTIFICATIONS
+Scrum Master, Azure Certified, CISSP

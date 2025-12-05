@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 0 years of experience in software development and technology.
+Strong background in Django, Heroku, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, C#, Scala
+Technologies: Django, Svelte, React
+Databases: SQL Server, Amazon RDS
+Cloud Platforms: Heroku, Terraform
+Tools: Figma, Bitbucket, Confluence
+
+WORK EXPERIENCE
+Software Engineer - Salesforce (2024 - Present)
+• Developed applications using Django and Heroku
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2020
+
+CERTIFICATIONS
+CompTIA Security+

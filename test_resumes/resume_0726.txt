@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in MySQL, C#, PMP.
+
+TECHNICAL SKILLS
+Programming Languages: C#, JavaScript
+Technologies: Vue.js, LESS, Next.js
+Databases: MySQL
+Cloud Platforms: GitLab CI/CD
+Tools: JIRA, Swagger, Bitbucket, Figma
+
+WORK EXPERIENCE
+Project Manager - Google (2019 - Present)
+• Developed applications using MySQL and C#
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2015
+
+CERTIFICATIONS
+PMP, Azure Certified, AWS Certified

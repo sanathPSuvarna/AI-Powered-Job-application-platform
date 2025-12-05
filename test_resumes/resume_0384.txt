@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Product Manager with 10 years of experience in software development and technology.
+Strong background in MariaDB, SQL Server, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, Groovy, Scala
+Technologies: Laravel, Bootstrap, CSS, LESS
+Databases: MariaDB, SQL Server
+Cloud Platforms: Puppet, DigitalOcean, OpenShift
+Tools: Microservices, Sketch, Agile
+
+WORK EXPERIENCE
+Product Manager - Netflix (2014 - Present)
+• Developed applications using MariaDB and SQL Server
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Machine Learning
+Princeton University
+Graduated: 2010
+
+CERTIFICATIONS
+Scrum Master

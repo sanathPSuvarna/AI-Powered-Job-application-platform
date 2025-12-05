@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 5 years of experience in software development and technology.
+Strong background in Time Management, Google Cloud SQL, AWS.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, PHP
+Technologies: Angular, CSS
+Databases: Google Cloud SQL
+Cloud Platforms: AWS
+Tools: GitLab, Swagger, Kanban
+
+WORK EXPERIENCE
+Backend Developer - Oracle (2019 - Present)
+• Developed applications using Time Management and Google Cloud SQL
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2015
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified

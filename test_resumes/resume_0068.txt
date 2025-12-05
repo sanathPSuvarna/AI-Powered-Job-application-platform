@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in Communication, Zoom, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Haskell
+Technologies: LESS
+Databases: Elasticsearch
+Cloud Platforms: Terraform, Vagrant
+Tools: Zoom, Bitbucket, SOAP, DevOps
+
+WORK EXPERIENCE
+Frontend Developer - Amazon (2017 - Present)
+• Developed applications using Communication and Zoom
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+Salesforce Certified

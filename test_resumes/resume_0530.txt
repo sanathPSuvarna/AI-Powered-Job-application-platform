@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, Webpack, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, C#, Dart, Haskell
+Technologies: Webpack, Vue.js
+Databases: MongoDB
+Cloud Platforms: 
+Tools: Scrum, Microsoft Teams, JIRA, Postman
+
+WORK EXPERIENCE
+Full Stack Developer - LinkedIn (2024 - Present)
+• Developed applications using Oracle Certified and Webpack
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Engineering in Data Science
+USC
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified, Microsoft Certified

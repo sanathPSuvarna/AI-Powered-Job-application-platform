@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 3 years of experience in software development and technology.
+Strong background in Time Management, SQL Server, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Swift, JavaScript
+Technologies: CSS
+Databases: SQL Server, Neo4j
+Cloud Platforms: Vagrant, Azure
+Tools: Bitbucket, Slack, Microsoft Teams
+
+WORK EXPERIENCE
+Full Stack Developer - VMware (2021 - Present)
+• Developed applications using Time Management and SQL Server
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Azure Certified

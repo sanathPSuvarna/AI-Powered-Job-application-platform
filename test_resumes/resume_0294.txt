@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 6 years of experience in software development and technology.
+Strong background in Django, Creativity, Svelte.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Rust
+Technologies: Django, Svelte, Node.js
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: Bitbucket, GitHub, Postman, Microservices
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Tesla (2018 - Present)
+• Developed applications using Django and Creativity
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified

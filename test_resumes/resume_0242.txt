@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Heroku, Plotly.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, MATLAB
+Technologies: Nuxt.js, Spring Boot
+Databases: Cassandra, DynamoDB
+Cloud Platforms: Heroku, DigitalOcean
+Tools: DevOps, Postman
+
+WORK EXPERIENCE
+Backend Developer - Yahoo (2019 - Present)
+• Developed applications using Nuxt.js and Heroku
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2015
+
+CERTIFICATIONS
+AWS Certified, Azure Certified

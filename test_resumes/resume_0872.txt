@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 0 years of experience in software development and technology.
+Strong background in Team Collaboration, Time Management, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Rust
+Technologies: Spring Boot
+Databases: Neo4j
+Cloud Platforms: 
+Tools: Zoom, SOAP
+
+WORK EXPERIENCE
+Software Engineer - PayPal (2024 - Present)
+• Developed applications using Team Collaboration and Time Management
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Science in Machine Learning
+MIT
+Graduated: 2020
+
+CERTIFICATIONS

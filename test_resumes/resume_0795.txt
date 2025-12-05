@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 3 years of experience in software development and technology.
+Strong background in Oracle, Decision Making, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, C++
+Technologies: React
+Databases: Oracle, InfluxDB
+Cloud Platforms: Ansible, Puppet
+Tools: Scrum, GitHub, Figma, DevOps
+
+WORK EXPERIENCE
+Software Architect - Cisco (2021 - Present)
+• Developed applications using Oracle and Decision Making
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+PMP, Oracle Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 7 years of experience in software development and technology.
+Strong background in Heroku, Power BI, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, PowerShell, Swift, JavaScript
+Technologies: React
+Databases: PostgreSQL, MySQL
+Cloud Platforms: Heroku
+Tools: Adobe Creative Suite, Swagger
+
+WORK EXPERIENCE
+Database Administrator - VMware (2017 - Present)
+• Developed applications using Heroku and Power BI
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Machine Learning
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified

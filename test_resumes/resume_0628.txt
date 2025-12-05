@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 6 years of experience in software development and technology.
+Strong background in Public Speaking, Zoom, Salesforce Certified.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart
+Technologies: Laravel, Bootstrap, Vue.js
+Databases: Neo4j
+Cloud Platforms: 
+Tools: Zoom, SOAP, DevOps, JIRA
+
+WORK EXPERIENCE
+QA Engineer - Microsoft (2018 - Present)
+• Developed applications using Public Speaking and Zoom
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+MIT
+Graduated: 2014
+
+CERTIFICATIONS
+Salesforce Certified, AWS Certified, CISSP

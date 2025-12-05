@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 13 years of experience in software development and technology.
+Strong background in SASS, PostgreSQL, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: C#, JavaScript, Groovy
+Technologies: SASS, Laravel, Babel
+Databases: PostgreSQL, Firebase, SQLite
+Cloud Platforms: GitHub Actions, DigitalOcean
+Tools: Git, GitLab, Figma
+
+WORK EXPERIENCE
+Data Analyst - IBM (2011 - Present)
+• Developed applications using SASS and PostgreSQL
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Computer Science
+University of Washington
+Graduated: 2007
+
+CERTIFICATIONS
+Cisco Certified, CISSP, Microsoft Certified

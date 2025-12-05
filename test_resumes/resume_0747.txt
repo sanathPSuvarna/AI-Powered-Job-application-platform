@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 2 years of experience in software development and technology.
+Strong background in Critical Thinking, Shell Scripting, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Ruby, C#, MATLAB
+Technologies: HTML, Express.js, CSS
+Databases: CouchDB
+Cloud Platforms: 
+Tools: Slack, Microservices, Figma
+
+WORK EXPERIENCE
+Business Analyst - Slack (2022 - Present)
+• Developed applications using Critical Thinking and Shell Scripting
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2018
+
+CERTIFICATIONS
+Cisco Certified, AWS Certified

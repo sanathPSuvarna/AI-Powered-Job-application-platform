@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in MariaDB, Kotlin, Big Data.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Ruby, JavaScript
+Technologies: jQuery, Express.js
+Databases: MariaDB, Elasticsearch
+Cloud Platforms: Jenkins, Vagrant
+Tools: InVision, GitHub
+
+WORK EXPERIENCE
+Senior Software Engineer - Twitter (2023 - Present)
+• Developed applications using MariaDB and Kotlin
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2019
+
+CERTIFICATIONS
+Microsoft Certified

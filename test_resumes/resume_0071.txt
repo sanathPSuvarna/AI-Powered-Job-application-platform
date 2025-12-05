@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 3 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Time Management, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PHP, MATLAB
+Technologies: Bootstrap, Flask
+Databases: PostgreSQL, Neo4j
+Cloud Platforms: GitLab CI/CD, CircleCI
+Tools: Scrum, GitHub, Kanban
+
+WORK EXPERIENCE
+Full Stack Developer - Apple (2021 - Present)
+• Developed applications using GitLab CI/CD and Time Management
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Michigan
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP

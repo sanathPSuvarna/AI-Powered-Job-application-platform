@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, CSS, Leadership.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, C++, Haskell
+Technologies: CSS, Babel
+Databases: Cassandra
+Cloud Platforms: OpenShift, Vagrant
+Tools: Postman, GraphQL, JIRA
+
+WORK EXPERIENCE
+Network Engineer - Salesforce (2019 - Present)
+• Developed applications using Oracle Certified and CSS
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+Princeton University
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, Microsoft Certified, PMP

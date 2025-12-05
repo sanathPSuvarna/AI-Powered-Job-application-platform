@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 0 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: F#, VBA, PHP
+Technologies: Gatsby, Flask
+Databases: Neo4j
+Cloud Platforms: OpenShift, GitHub Actions
+Tools: Swagger, Agile, GitHub, JIRA
+
+WORK EXPERIENCE
+Network Engineer - Slack (2024 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Engineering in Data Science
+UT Austin
+Graduated: 2020
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

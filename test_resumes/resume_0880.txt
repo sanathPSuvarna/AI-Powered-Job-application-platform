@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Oracle Certified, GitLab CI/CD, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, TypeScript
+Technologies: LESS, jQuery
+Databases: DynamoDB
+Cloud Platforms: GitLab CI/CD, GitHub Actions
+Tools: Zoom, Slack, Figma, REST API
+
+WORK EXPERIENCE
+Senior Software Engineer - Spotify (2023 - Present)
+• Developed applications using Oracle Certified and GitLab CI/CD
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified

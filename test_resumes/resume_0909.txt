@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 1 years of experience in software development and technology.
+Strong background in Oracle Certified, Public Speaking, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Swift, Ruby
+Technologies: Next.js
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: Scrum, Figma, GitHub, Microservices
+
+WORK EXPERIENCE
+UI/UX Designer - IBM (2023 - Present)
+• Developed applications using Oracle Certified and Public Speaking
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified

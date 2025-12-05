@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 1 years of experience in software development and technology.
+Strong background in Oracle Certified, Shell Scripting, Power BI.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, F#, C#
+Technologies: LESS, Babel
+Databases: Oracle
+Cloud Platforms: DigitalOcean, Vagrant
+Tools: Adobe Creative Suite, InVision
+
+WORK EXPERIENCE
+Tech Lead - Dropbox (2023 - Present)
+• Developed applications using Oracle Certified and Shell Scripting
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Machine Learning
+Stanford University
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified

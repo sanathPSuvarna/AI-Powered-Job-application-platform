@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 3 years of experience in software development and technology.
+Strong background in Shell Scripting, Adobe Creative Suite, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Java, F#, Scala
+Technologies: Vue.js, Node.js, Nuxt.js
+Databases: Amazon RDS, Firebase
+Cloud Platforms: Docker, DigitalOcean
+Tools: Adobe Creative Suite, DevOps
+
+WORK EXPERIENCE
+Data Analyst - Slack (2021 - Present)
+• Developed applications using Shell Scripting and Adobe Creative Suite
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, CISSP

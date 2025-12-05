@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Technical Writer with 11 years of experience in software development and technology.
+Strong background in SASS, Cisco Certified, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Dart, Java, C++, Groovy
+Technologies: SASS, Spring Boot, Flask
+Databases: Cassandra, MongoDB
+Cloud Platforms: Ansible, Vagrant, Azure
+Tools: JIRA, Sketch, Agile, Figma, DevOps
+
+WORK EXPERIENCE
+Technical Writer - eBay (2013 - Present)
+• Developed applications using SASS and Cisco Certified
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2009
+
+CERTIFICATIONS
+Cisco Certified

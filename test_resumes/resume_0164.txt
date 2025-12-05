@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Shell Scripting, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, JavaScript, Dart
+Technologies: Nuxt.js, SASS, Babel
+Databases: MySQL
+Cloud Platforms: Google Cloud Platform
+Tools: Sketch, Postman
+
+WORK EXPERIENCE
+UI/UX Designer - Adobe (2023 - Present)
+• Developed applications using Nuxt.js and Shell Scripting
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified, AWS Certified

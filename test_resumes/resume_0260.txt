@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 0 years of experience in software development and technology.
+Strong background in R, Zoom, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: R, Rust, C++, Java
+Technologies: Laravel, Flask
+Databases: Neo4j
+Cloud Platforms: 
+Tools: Zoom, GraphQL
+
+WORK EXPERIENCE
+Backend Developer - Spotify (2024 - Present)
+• Developed applications using R and Zoom
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Computer Science
+Yale University
+Graduated: 2020
+
+CERTIFICATIONS
+AWS Certified

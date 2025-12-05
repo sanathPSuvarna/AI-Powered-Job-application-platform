@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 0 years of experience in software development and technology.
+Strong background in Nuxt.js, Clojure, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Shell Scripting, TypeScript
+Technologies: Nuxt.js
+Databases: Elasticsearch
+Cloud Platforms: Terraform, Vagrant
+Tools: Bitbucket, Postman
+
+WORK EXPERIENCE
+Database Administrator - HP (2024 - Present)
+• Developed applications using Nuxt.js and Clojure
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified, PMP

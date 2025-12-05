@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, SASS, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Kotlin, Ruby, PHP
+Technologies: SASS, Node.js, React
+Databases: PostgreSQL, MongoDB
+Cloud Platforms: 
+Tools: InVision, GraphQL, Microsoft Teams
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Zoom (2019 - Present)
+• Developed applications using CompTIA Security+ and SASS
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Columbia University
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified, Microsoft Certified

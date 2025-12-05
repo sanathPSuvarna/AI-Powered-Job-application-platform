@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 3 years of experience in software development and technology.
+Strong background in Plotly, Communication, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, Ruby, Rust
+Technologies: Gatsby
+Databases: CouchDB
+Cloud Platforms: Vagrant
+Tools: Agile, Figma, Sketch
+
+WORK EXPERIENCE
+System Administrator - Cisco (2021 - Present)
+• Developed applications using Plotly and Communication
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Engineering in Data Science
+Harvard University
+Graduated: 2017
+
+CERTIFICATIONS
+Salesforce Certified

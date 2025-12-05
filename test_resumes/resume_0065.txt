@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 2 years of experience in software development and technology.
+Strong background in SQL Server, InVision, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Swift, Ruby
+Technologies: Bootstrap, LESS, Next.js
+Databases: SQL Server, InfluxDB
+Cloud Platforms: DigitalOcean, Google Cloud Platform
+Tools: InVision, Confluence, Sketch, Agile
+
+WORK EXPERIENCE
+Business Analyst - Adobe (2022 - Present)
+• Developed applications using SQL Server and InVision
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

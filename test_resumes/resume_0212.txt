@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 6 years of experience in software development and technology.
+Strong background in MariaDB, Cisco Certified, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, Ruby, PHP
+Technologies: Webpack
+Databases: MariaDB, Oracle
+Cloud Platforms: 
+Tools: SOAP, Microservices, Bitbucket, GitLab
+
+WORK EXPERIENCE
+System Administrator - HP (2018 - Present)
+• Developed applications using MariaDB and Cisco Certified
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Machine Learning
+MIT
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified, PMP, Oracle Certified

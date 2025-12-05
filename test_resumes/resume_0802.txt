@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Time Management, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, VBA, Rust, JavaScript
+Technologies: jQuery
+Databases: MongoDB, SQL Server
+Cloud Platforms: Docker
+Tools: Microsoft Teams, Postman, DevOps
+
+WORK EXPERIENCE
+Frontend Developer - Yahoo (2020 - Present)
+• Developed applications using Oracle Certified and Time Management
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+NYU
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, Google Cloud Certified, PMP

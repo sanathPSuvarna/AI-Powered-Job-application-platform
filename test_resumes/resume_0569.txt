@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Cybersecurity Analyst with 10 years of experience in software development and technology.
+Strong background in CompTIA Security+, TypeScript, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Kotlin, Rust
+Technologies: Angular, Node.js, LESS
+Databases: Oracle, Amazon RDS, Redis
+Cloud Platforms: Chef, Jenkins, CircleCI
+Tools: Git, Sketch, GitHub
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Uber (2014 - Present)
+• Developed applications using CompTIA Security+ and TypeScript
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+NYU
+Graduated: 2010
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified, AWS Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 2 years of experience in software development and technology.
+Strong background in Django, Time Management, Figma.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, JavaScript, C#, Java
+Technologies: Django
+Databases: CouchDB, MySQL
+Cloud Platforms: 
+Tools: Figma, Agile
+
+WORK EXPERIENCE
+DevOps Engineer - Uber (2022 - Present)
+• Developed applications using Django and Time Management
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Django
+
+EDUCATION
+Master of Business Administration
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

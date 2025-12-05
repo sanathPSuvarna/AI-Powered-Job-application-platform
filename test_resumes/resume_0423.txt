@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 0 years of experience in software development and technology.
+Strong background in Plotly, Zoom, Figma.
+
+TECHNICAL SKILLS
+Programming Languages: F#, MATLAB
+Technologies: Node.js, jQuery
+Databases: Oracle, Redis
+Cloud Platforms: OpenShift, Google Cloud Platform
+Tools: Zoom, Figma, Kanban, Microservices
+
+WORK EXPERIENCE
+Machine Learning Engineer - NVIDIA (2024 - Present)
+• Developed applications using Plotly and Zoom
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Computer Science
+Georgia Tech
+Graduated: 2020
+
+CERTIFICATIONS
+AWS Certified

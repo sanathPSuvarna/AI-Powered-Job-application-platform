@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 2 years of experience in software development and technology.
+Strong background in MariaDB, GitLab CI/CD, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: MATLAB, Haskell
+Technologies: Node.js, Angular
+Databases: MariaDB
+Cloud Platforms: GitLab CI/CD, Chef
+Tools: Confluence, Postman, Microservices, Sketch
+
+WORK EXPERIENCE
+Solutions Architect - eBay (2022 - Present)
+• Developed applications using MariaDB and GitLab CI/CD
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2018
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified

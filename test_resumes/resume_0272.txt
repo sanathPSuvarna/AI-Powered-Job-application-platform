@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 6 years of experience in software development and technology.
+Strong background in R, Public Speaking, LESS.
+
+TECHNICAL SKILLS
+Programming Languages: R, Groovy, C++
+Technologies: LESS, Gatsby, Bootstrap
+Databases: Oracle
+Cloud Platforms: 
+Tools: Agile, GitHub, DevOps, Sketch
+
+WORK EXPERIENCE
+Technical Writer - Microsoft (2018 - Present)
+• Developed applications using R and Public Speaking
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2014
+
+CERTIFICATIONS
+AWS Certified, CISSP

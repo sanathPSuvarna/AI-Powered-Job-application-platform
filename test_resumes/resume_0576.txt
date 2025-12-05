@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 5 years of experience in software development and technology.
+Strong background in PostgreSQL, Objective-C, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Java, C++
+Technologies: Laravel, Express.js
+Databases: PostgreSQL, SQL Server
+Cloud Platforms: Kubernetes, Heroku
+Tools: Confluence, Microsoft Teams, Figma
+
+WORK EXPERIENCE
+Database Administrator - VMware (2019 - Present)
+• Developed applications using PostgreSQL and Objective-C
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Machine Learning
+UT Austin
+Graduated: 2015
+
+CERTIFICATIONS
+PMP, Microsoft Certified

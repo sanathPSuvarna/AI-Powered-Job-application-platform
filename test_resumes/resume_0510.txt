@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 0 years of experience in software development and technology.
+Strong background in MariaDB, Critical Thinking, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Go, Rust, JavaScript
+Technologies: SASS, Express.js, Vue.js
+Databases: MariaDB
+Cloud Platforms: OpenShift, CircleCI
+Tools: Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Business Analyst - Tesla (2024 - Present)
+• Developed applications using MariaDB and Critical Thinking
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+UC Berkeley
+Graduated: 2020
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

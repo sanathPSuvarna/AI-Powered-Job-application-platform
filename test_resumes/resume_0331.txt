@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 7 years of experience in software development and technology.
+Strong background in JavaScript, Project Management, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Haskell
+Technologies: Angular, Gatsby
+Databases: MySQL
+Cloud Platforms: 
+Tools: GitLab, Sketch
+
+WORK EXPERIENCE
+UI/UX Designer - Dell (2017 - Present)
+• Developed applications using JavaScript and Project Management
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2013
+
+CERTIFICATIONS
+Salesforce Certified

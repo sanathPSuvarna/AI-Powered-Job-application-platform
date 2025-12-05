@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 8 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, Objective-C, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Clojure, Ruby
+Technologies: Bootstrap, Webpack, Django, Nuxt.js
+Databases: DynamoDB, MySQL, SQLite
+Cloud Platforms: AWS, GitLab CI/CD, GitHub Actions
+Tools: Adobe Creative Suite, JIRA, Microservices, Figma, DevOps
+
+WORK EXPERIENCE
+Frontend Developer - Tesla (2016 - Present)
+• Developed applications using Adobe Creative Suite and Objective-C
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2012
+
+CERTIFICATIONS
+Scrum Master, Azure Certified, AWS Certified

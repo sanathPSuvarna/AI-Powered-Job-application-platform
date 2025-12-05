@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 15 years of experience in software development and technology.
+Strong background in Laravel, Scrum Master, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, JavaScript, Kotlin, Rust, Scala
+Technologies: Laravel, Node.js
+Databases: MongoDB, Redis
+Cloud Platforms: Kubernetes, Azure
+Tools: GraphQL, Microsoft Teams, GitHub
+
+WORK EXPERIENCE
+Project Manager - Twitter (2009 - Present)
+• Developed applications using Laravel and Scrum Master
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2005
+
+CERTIFICATIONS
+Scrum Master, Azure Certified

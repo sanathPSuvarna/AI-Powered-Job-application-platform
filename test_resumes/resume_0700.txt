@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 4 years of experience in software development and technology.
+Strong background in Big Data, Pandas, Slack.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Groovy, C#, Scala
+Technologies: Express.js, Bootstrap
+Databases: Oracle, Elasticsearch
+Cloud Platforms: 
+Tools: Slack, Git
+
+WORK EXPERIENCE
+Network Engineer - VMware (2020 - Present)
+• Developed applications using Big Data and Pandas
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+UCLA
+Graduated: 2016
+
+CERTIFICATIONS
+Salesforce Certified

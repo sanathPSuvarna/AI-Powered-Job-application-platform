@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 0 years of experience in software development and technology.
+Strong background in Django, Clojure, Chef.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, F#, Scala
+Technologies: Django, Gatsby
+Databases: Elasticsearch, Firebase
+Cloud Platforms: Chef, Kubernetes
+Tools: Slack, Postman
+
+WORK EXPERIENCE
+System Administrator - LinkedIn (2024 - Present)
+• Developed applications using Django and Clojure
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2020
+
+CERTIFICATIONS
+Scrum Master

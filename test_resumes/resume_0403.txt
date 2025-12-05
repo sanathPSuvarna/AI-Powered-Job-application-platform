@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 7 years of experience in software development and technology.
+Strong background in Team Collaboration, Webpack, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Rust, Haskell
+Technologies: Webpack, Vue.js
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: InVision, GitHub, SOAP
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Intel (2017 - Present)
+• Developed applications using Team Collaboration and Webpack
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2013
+
+CERTIFICATIONS
+Azure Certified

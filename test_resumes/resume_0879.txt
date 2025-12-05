@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 7 years of experience in software development and technology.
+Strong background in Clojure, Critical Thinking, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Go, PHP, Scala
+Technologies: Laravel, Express.js, Flask
+Databases: Elasticsearch
+Cloud Platforms: CircleCI
+Tools: Agile, SOAP, Figma
+
+WORK EXPERIENCE
+Full Stack Developer - Google (2017 - Present)
+• Developed applications using Clojure and Critical Thinking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Machine Learning
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+PMP

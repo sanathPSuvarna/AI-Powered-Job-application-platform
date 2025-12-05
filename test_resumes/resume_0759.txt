@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, GitLab CI/CD, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Scala, Haskell
+Technologies: jQuery
+Databases: CouchDB, Elasticsearch
+Cloud Platforms: GitLab CI/CD, Google Cloud Platform
+Tools: Adobe Creative Suite, Slack
+
+WORK EXPERIENCE
+System Administrator - Google (2024 - Present)
+• Developed applications using Oracle Certified and GitLab CI/CD
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+Harvard University
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified, Azure Certified

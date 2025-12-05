@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 6 years of experience in software development and technology.
+Strong background in Public Speaking, Team Collaboration, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Objective-C
+Technologies: HTML, Next.js, Gatsby
+Databases: MongoDB, Elasticsearch
+Cloud Platforms: Docker
+Tools: GitLab, Microsoft Teams, InVision
+
+WORK EXPERIENCE
+Network Engineer - Slack (2018 - Present)
+• Developed applications using Public Speaking and Team Collaboration
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 5 years of experience in software development and technology.
+Strong background in Django, MariaDB, Plotly.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, TypeScript, Haskell
+Technologies: Django, Babel, Gatsby
+Databases: MariaDB, Neo4j
+Cloud Platforms: 
+Tools: Microsoft Teams, Git
+
+WORK EXPERIENCE
+Machine Learning Engineer - Apple (2019 - Present)
+• Developed applications using Django and MariaDB
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Computer Science
+University of Michigan
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified, Scrum Master

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 0 years of experience in software development and technology.
+Strong background in MariaDB, C++, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: C++, PowerShell, TypeScript, C#
+Technologies: Flask
+Databases: MariaDB, PostgreSQL
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Swagger, Bitbucket, Kanban
+
+WORK EXPERIENCE
+Network Engineer - Uber (2024 - Present)
+• Developed applications using MariaDB and C++
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2020
+
+CERTIFICATIONS
+Microsoft Certified, Google Cloud Certified

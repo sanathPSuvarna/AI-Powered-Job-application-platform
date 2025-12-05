@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, Plotly, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Python, JavaScript
+Technologies: Babel
+Databases: CouchDB, Amazon RDS
+Cloud Platforms: 
+Tools: Scrum, GraphQL, Confluence
+
+WORK EXPERIENCE
+Technical Writer - Tesla (2019 - Present)
+• Developed applications using Oracle Certified and Plotly
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, CISSP, Salesforce Certified

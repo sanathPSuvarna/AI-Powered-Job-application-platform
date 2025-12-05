@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in R, Team Collaboration, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: R, Swift, Java
+Technologies: Node.js, Babel, CSS
+Databases: Google Cloud SQL, DynamoDB
+Cloud Platforms: 
+Tools: Scrum, InVision, Figma, DevOps
+
+WORK EXPERIENCE
+Frontend Developer - HP (2017 - Present)
+• Developed applications using R and Team Collaboration
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Computer Science
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP

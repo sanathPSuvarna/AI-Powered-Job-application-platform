@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 6 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, Ruby, Haskell
+Technologies: Django
+Databases: Cassandra, CouchDB
+Cloud Platforms: GitHub Actions, Azure
+Tools: Figma, Slack, InVision, Microservices
+
+WORK EXPERIENCE
+Engineering Manager - Microsoft (2018 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Computer Science
+Yale University
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

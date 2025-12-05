@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, Scala
+Technologies: Next.js, Vue.js, HTML
+Databases: MySQL
+Cloud Platforms: 
+Tools: Adobe Creative Suite, JIRA, Agile, Kanban
+
+WORK EXPERIENCE
+UI/UX Designer - VMware (2019 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Information Technology
+Yale University
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Scrum Master

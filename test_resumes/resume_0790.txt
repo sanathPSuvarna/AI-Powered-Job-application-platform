@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 6 years of experience in software development and technology.
+Strong background in MariaDB, GitLab CI/CD, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, C#, MATLAB
+Technologies: jQuery, Gatsby
+Databases: MariaDB, PostgreSQL
+Cloud Platforms: GitLab CI/CD
+Tools: Agile, Figma
+
+WORK EXPERIENCE
+DevOps Engineer - Twitter (2018 - Present)
+• Developed applications using MariaDB and GitLab CI/CD
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified

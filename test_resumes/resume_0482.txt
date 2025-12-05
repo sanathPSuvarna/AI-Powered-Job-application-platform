@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 15 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, Scala, Python, Rust
+Technologies: Laravel, Node.js, Bootstrap, Nuxt.js
+Databases: Firebase, CouchDB
+Cloud Platforms: GitHub Actions, Heroku, Google Cloud Platform
+Tools: Swagger, Microservices, Sketch, Agile, DevOps
+
+WORK EXPERIENCE
+Frontend Developer - Intel (2009 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Machine Learning
+UCLA
+Graduated: 2005
+
+CERTIFICATIONS
+Scrum Master

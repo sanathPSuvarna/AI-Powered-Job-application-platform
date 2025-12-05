@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 10 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Oracle, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Perl, F#, Scala
+Technologies: jQuery, Spring Boot
+Databases: Google Cloud SQL, Oracle
+Cloud Platforms: CircleCI, Vagrant, DigitalOcean
+Tools: InVision, GraphQL, GitHub, Kanban, DevOps
+
+WORK EXPERIENCE
+Backend Developer - Cisco (2014 - Present)
+• Developed applications using Google Cloud SQL and Oracle
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Business Administration
+University of Washington
+Graduated: 2010
+
+CERTIFICATIONS
+Google Cloud Certified, PMP, Azure Certified

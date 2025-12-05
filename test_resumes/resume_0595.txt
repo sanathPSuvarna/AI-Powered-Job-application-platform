@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 14 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C++, PHP
+Technologies: Next.js, Babel
+Databases: Oracle, DynamoDB, Firebase
+Cloud Platforms: Jenkins
+Tools: Adobe Creative Suite, Swagger, GitLab, Slack, Agile
+
+WORK EXPERIENCE
+Frontend Developer - Amazon (2010 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2006
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

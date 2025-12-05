@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 12 years of experience in software development and technology.
+Strong background in Time Management, SASS, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Python, Kotlin, Ruby
+Technologies: SASS, Node.js, Webpack
+Databases: SQL Server, Neo4j
+Cloud Platforms: Kubernetes, Heroku, Google Cloud Platform
+Tools: Swagger, Bitbucket, Scrum, GitLab, GitHub
+
+WORK EXPERIENCE
+Data Analyst - IBM (2012 - Present)
+• Developed applications using Time Management and SASS
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Machine Learning
+Stanford University
+Graduated: 2008
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified, AWS Certified

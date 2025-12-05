@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 2 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, TypeScript, Ruby, Dart
+Technologies: SASS, LESS, Svelte
+Databases: MySQL
+Cloud Platforms: Docker
+Tools: Scrum, Microservices
+
+WORK EXPERIENCE
+Data Scientist - IBM (2022 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+Columbia University
+Graduated: 2018
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+

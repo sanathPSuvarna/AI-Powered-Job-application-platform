@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 6 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, JavaScript, PHP
+Technologies: HTML, Nuxt.js
+Databases: PostgreSQL
+Cloud Platforms: AWS, Docker
+Tools: InVision, Zoom, Microservices, Bitbucket
+
+WORK EXPERIENCE
+Solutions Architect - Apple (2018 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Computer Science
+MIT
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified, PMP, Azure Certified

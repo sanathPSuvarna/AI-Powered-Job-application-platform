@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 7 years of experience in software development and technology.
+Strong background in Django, Public Speaking, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Rust, PHP, Dart
+Technologies: Django, LESS, Spring Boot
+Databases: SQL Server
+Cloud Platforms: AWS
+Tools: Scrum, DevOps, Postman, Git
+
+WORK EXPERIENCE
+Software Engineer - Oracle (2017 - Present)
+• Developed applications using Django and Public Speaking
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Engineering in Data Science
+USC
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP

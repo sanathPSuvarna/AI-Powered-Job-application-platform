@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in Django, Project Management, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Rust, PHP, Java
+Technologies: Django, Node.js, CSS
+Databases: Cassandra, CouchDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Kanban
+
+WORK EXPERIENCE
+Backend Developer - Microsoft (2021 - Present)
+• Developed applications using Django and Project Management
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, Plotly, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, R, F#, Scala
+Technologies: CSS
+Databases: CouchDB
+Cloud Platforms: Docker
+Tools: GraphQL, Bitbucket, Git
+
+WORK EXPERIENCE
+Software Architect - Microsoft (2019 - Present)
+• Developed applications using CompTIA Security+ and Plotly
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+NYU
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+

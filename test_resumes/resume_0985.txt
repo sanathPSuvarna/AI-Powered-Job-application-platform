@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, GitLab CI/CD, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go
+Technologies: jQuery
+Databases: DynamoDB
+Cloud Platforms: GitLab CI/CD, CircleCI
+Tools: Zoom, JIRA
+
+WORK EXPERIENCE
+Data Analyst - Tesla (2018 - Present)
+• Developed applications using CompTIA Security+ and GitLab CI/CD
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Washington
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, AWS Certified, Azure Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 3 years of experience in software development and technology.
+Strong background in Plotly, Zoom, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: F#, C++
+Technologies: CSS
+Databases: InfluxDB, Oracle
+Cloud Platforms: Azure
+Tools: Zoom, Agile, GitHub, Git
+
+WORK EXPERIENCE
+System Administrator - Facebook (2021 - Present)
+• Developed applications using Plotly and Zoom
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Information Technology
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, CISSP

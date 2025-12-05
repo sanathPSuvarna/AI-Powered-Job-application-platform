@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 3 years of experience in software development and technology.
+Strong background in PowerShell, Oracle, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, VBA, F#
+Technologies: Webpack, Nuxt.js
+Databases: Oracle, Elasticsearch
+Cloud Platforms: Ansible
+Tools: JIRA, Bitbucket, GitLab, DevOps
+
+WORK EXPERIENCE
+Machine Learning Engineer - PayPal (2021 - Present)
+• Developed applications using PowerShell and Oracle
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Stanford University
+Graduated: 2017
+
+CERTIFICATIONS
+Salesforce Certified, Microsoft Certified, AWS Certified

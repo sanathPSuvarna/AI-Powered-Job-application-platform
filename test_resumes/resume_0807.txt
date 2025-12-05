@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 7 years of experience in software development and technology.
+Strong background in Objective-C, Cisco Certified, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, C#, JavaScript
+Technologies: Nuxt.js
+Databases: Elasticsearch
+Cloud Platforms: Ansible, Azure
+Tools: InVision, Zoom, Confluence, Microservices
+
+WORK EXPERIENCE
+Software Architect - VMware (2017 - Present)
+• Developed applications using Objective-C and Cisco Certified
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Georgia Tech
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, PMP, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 1 years of experience in software development and technology.
+Strong background in PostgreSQL, Objective-C, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Dart, Clojure
+Technologies: Angular, Gatsby, Vue.js
+Databases: PostgreSQL, Oracle
+Cloud Platforms: Azure
+Tools: Postman, Sketch, GitHub
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Microsoft (2023 - Present)
+• Developed applications using PostgreSQL and Objective-C
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Engineering in Data Science
+Purdue University
+Graduated: 2019
+
+CERTIFICATIONS
+Scrum Master, Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 9 years of experience in software development and technology.
+Strong background in Time Management, SASS, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: C#, R, Kotlin, Rust
+Technologies: SASS, Vue.js, Node.js
+Databases: Amazon RDS, Cassandra, Elasticsearch
+Cloud Platforms: Puppet, Google Cloud Platform
+Tools: Adobe Creative Suite, InVision, Kanban
+
+WORK EXPERIENCE
+Software Engineer - NVIDIA (2015 - Present)
+• Developed applications using Time Management and SASS
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2011
+
+CERTIFICATIONS
+Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 11 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Haskell, F#, Clojure, Rust
+Technologies: HTML, Node.js, Bootstrap
+Databases: PostgreSQL, MongoDB, Elasticsearch
+Cloud Platforms: Terraform
+Tools: SOAP, JIRA, REST API, DevOps
+
+WORK EXPERIENCE
+UI/UX Designer - Zoom (2013 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Computer Science
+MIT
+Graduated: 2009
+
+CERTIFICATIONS
+Scrum Master, Microsoft Certified

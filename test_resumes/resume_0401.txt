@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 12 years of experience in software development and technology.
+Strong background in Google Cloud SQL, SQL Server, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Dart, Go, Groovy
+Technologies: jQuery, LESS
+Databases: Google Cloud SQL, SQL Server
+Cloud Platforms: Chef, OpenShift
+Tools: Postman, Scrum, GitLab, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Project Manager - Yahoo (2012 - Present)
+• Developed applications using Google Cloud SQL and SQL Server
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2008
+
+CERTIFICATIONS
+Scrum Master, PMP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 6 years of experience in software development and technology.
+Strong background in PowerShell, Google Cloud Certified, JIRA.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, JavaScript, C++, Ruby
+Technologies: Bootstrap, React, Webpack
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: JIRA, Sketch, Agile, Kanban
+
+WORK EXPERIENCE
+System Administrator - Yahoo (2018 - Present)
+• Developed applications using PowerShell and Google Cloud Certified
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+NYU
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, Oracle Certified

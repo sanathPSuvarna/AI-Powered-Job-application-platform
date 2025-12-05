@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 8 years of experience in software development and technology.
+Strong background in Objective-C, Cisco Certified, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, VBA, Java, Kotlin
+Technologies: Laravel, Babel, CSS, Nuxt.js
+Databases: Firebase, MySQL, InfluxDB
+Cloud Platforms: Ansible, CircleCI, DigitalOcean
+Tools: SOAP, Figma, DevOps
+
+WORK EXPERIENCE
+Business Analyst - Adobe (2016 - Present)
+• Developed applications using Objective-C and Cisco Certified
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Washington
+Graduated: 2012
+
+CERTIFICATIONS
+Cisco Certified

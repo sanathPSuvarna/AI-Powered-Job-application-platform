@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Engineering Manager with 2 years of experience in software development and technology.
+Strong background in Nuxt.js, Django, GitLab CI/CD.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, Scala
+Technologies: Nuxt.js, Django
+Databases: PostgreSQL, Neo4j
+Cloud Platforms: GitLab CI/CD, AWS
+Tools: GitLab, GitHub
+
+WORK EXPERIENCE
+Engineering Manager - NVIDIA (2022 - Present)
+• Developed applications using Nuxt.js and Django
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2018
+
+CERTIFICATIONS
+Cisco Certified, PMP

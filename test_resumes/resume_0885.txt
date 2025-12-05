@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 0 years of experience in software development and technology.
+Strong background in Chef, Creativity, Kubernetes.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, Rust
+Technologies: Laravel, Express.js
+Databases: MySQL
+Cloud Platforms: Chef, Kubernetes
+Tools: Slack, Figma, JIRA
+
+WORK EXPERIENCE
+Machine Learning Engineer - Cisco (2024 - Present)
+• Developed applications using Chef and Creativity
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2020
+
+CERTIFICATIONS
+AWS Certified

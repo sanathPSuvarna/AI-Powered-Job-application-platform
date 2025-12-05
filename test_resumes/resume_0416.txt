@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 12 years of experience in software development and technology.
+Strong background in MariaDB, Time Management, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, VBA, Java
+Technologies: SASS, Next.js
+Databases: MariaDB, MySQL
+Cloud Platforms: Vagrant, OpenShift
+Tools: InVision, Swagger, Bitbucket, Agile, Kanban
+
+WORK EXPERIENCE
+Business Analyst - Spotify (2012 - Present)
+• Developed applications using MariaDB and Time Management
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Business Administration
+USC
+Graduated: 2008
+
+CERTIFICATIONS
+Cisco Certified, PMP, CISSP

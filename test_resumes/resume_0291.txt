@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 2 years of experience in software development and technology.
+Strong background in Nuxt.js, Project Management, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Kotlin, Dart, Haskell
+Technologies: Nuxt.js
+Databases: SQL Server, MySQL
+Cloud Platforms: 
+Tools: GitLab, Postman, DevOps
+
+WORK EXPERIENCE
+Solutions Architect - Salesforce (2022 - Present)
+• Developed applications using Nuxt.js and Project Management
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

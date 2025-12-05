@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 0 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Critical Thinking, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Python, TypeScript, C++, Dart
+Technologies: Express.js, Flask
+Databases: Firebase, Amazon RDS
+Cloud Platforms: GitLab CI/CD, Kubernetes
+Tools: JIRA, Git
+
+WORK EXPERIENCE
+Backend Developer - Spotify (2024 - Present)
+• Developed applications using GitLab CI/CD and Critical Thinking
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Engineering in Data Science
+Yale University
+Graduated: 2020
+
+CERTIFICATIONS

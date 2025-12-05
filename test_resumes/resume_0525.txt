@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 3 years of experience in software development and technology.
+Strong background in PyTorch, Team Collaboration, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, PHP, C#
+Technologies: React
+Databases: InfluxDB, Cassandra
+Cloud Platforms: 
+Tools: GitLab, Bitbucket, Sketch
+
+WORK EXPERIENCE
+Machine Learning Engineer - Zoom (2021 - Present)
+• Developed applications using PyTorch and Team Collaboration
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Information Technology
+UCLA
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified

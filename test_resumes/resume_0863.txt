@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Clojure
+Technologies: SASS, jQuery
+Databases: MariaDB, MongoDB
+Cloud Platforms: GitLab CI/CD, Terraform
+Tools: InVision, GitLab, Microsoft Teams
+
+WORK EXPERIENCE
+Frontend Developer - LinkedIn (2017 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified, CISSP

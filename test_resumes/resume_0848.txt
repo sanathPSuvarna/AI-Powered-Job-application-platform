@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 5 years of experience in software development and technology.
+Strong background in R, PyTorch, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: R, Perl, Rust
+Technologies: Express.js
+Databases: SQL Server, MySQL
+Cloud Platforms: Puppet
+Tools: GitLab, Git, GitHub, Microservices
+
+WORK EXPERIENCE
+Senior Software Engineer - IBM (2019 - Present)
+• Developed applications using R and PyTorch
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified

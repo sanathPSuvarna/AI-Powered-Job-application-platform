@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 8 years of experience in software development and technology.
+Strong background in PostgreSQL, Laravel, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, Go, JavaScript, Rust, MATLAB
+Technologies: Laravel, Babel, CSS
+Databases: PostgreSQL, Oracle
+Cloud Platforms: Jenkins, Docker
+Tools: Postman, SOAP, JIRA, GitHub
+
+WORK EXPERIENCE
+Network Engineer - Cisco (2016 - Present)
+• Developed applications using PostgreSQL and Laravel
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2012
+
+CERTIFICATIONS
+Scrum Master, Azure Certified

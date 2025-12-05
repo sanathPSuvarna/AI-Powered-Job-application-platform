@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 5 years of experience in software development and technology.
+Strong background in PyTorch, Google Cloud SQL, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, Rust
+Technologies: LESS, Node.js, React
+Databases: Google Cloud SQL, InfluxDB
+Cloud Platforms: 
+Tools: GitLab, Postman, Microservices
+
+WORK EXPERIENCE
+Backend Developer - Shopify (2019 - Present)
+• Developed applications using PyTorch and Google Cloud SQL
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2015
+
+CERTIFICATIONS
+AWS Certified, CISSP

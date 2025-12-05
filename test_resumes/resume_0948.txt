@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in Time Management, TypeScript, SOAP.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, C#, Haskell, Scala
+Technologies: Gatsby, HTML, Webpack
+Databases: MySQL
+Cloud Platforms: 
+Tools: SOAP, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+QA Engineer - Slack (2017 - Present)
+• Developed applications using Time Management and TypeScript
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Business Administration
+University of Michigan
+Graduated: 2013
+
+CERTIFICATIONS
+PMP, Microsoft Certified

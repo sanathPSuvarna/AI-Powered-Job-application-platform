@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 6 years of experience in software development and technology.
+Strong background in Power BI, Creativity, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Python, TypeScript, C#
+Technologies: Babel
+Databases: Neo4j
+Cloud Platforms: Jenkins, Azure
+Tools: Sketch, Postman, Confluence
+
+WORK EXPERIENCE
+Solutions Architect - Twitter (2018 - Present)
+• Developed applications using Power BI and Creativity
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Engineering in Data Science
+USC
+Graduated: 2014
+
+CERTIFICATIONS
+Scrum Master

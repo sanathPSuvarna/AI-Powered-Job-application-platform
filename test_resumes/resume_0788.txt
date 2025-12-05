@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 11 years of experience in software development and technology.
+Strong background in Time Management, Adobe Creative Suite, Firebase.
+
+TECHNICAL SKILLS
+Programming Languages: MATLAB, F#, Groovy, PHP
+Technologies: Babel, React
+Databases: Firebase, MongoDB, SQLite
+Cloud Platforms: Jenkins
+Tools: Adobe Creative Suite, Kanban, Figma, DevOps
+
+WORK EXPERIENCE
+Software Architect - Tesla (2013 - Present)
+• Developed applications using Time Management and Adobe Creative Suite
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2009
+
+CERTIFICATIONS
+Scrum Master

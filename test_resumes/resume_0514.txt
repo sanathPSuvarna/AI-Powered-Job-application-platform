@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 5 years of experience in software development and technology.
+Strong background in Shell Scripting, Objective-C, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, Java, Rust
+Technologies: Gatsby
+Databases: Firebase, CouchDB
+Cloud Platforms: Jenkins, Kubernetes
+Tools: Microservices, Bitbucket, Scrum, Microsoft Teams
+
+WORK EXPERIENCE
+Database Administrator - Zoom (2019 - Present)
+• Developed applications using Shell Scripting and Objective-C
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified, CISSP

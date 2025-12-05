@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Time Management, SASS, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Kotlin, PHP
+Technologies: SASS, Svelte, Django
+Databases: Oracle, Amazon RDS
+Cloud Platforms: AWS, Jenkins
+Tools: Adobe Creative Suite, Swagger, Agile
+
+WORK EXPERIENCE
+Senior Software Engineer - Amazon (2023 - Present)
+• Developed applications using Time Management and SASS
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified, AWS Certified

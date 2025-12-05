@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Creativity, Terraform, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Java
+Technologies: Flask
+Databases: Cassandra
+Cloud Platforms: Terraform
+Tools: Adobe Creative Suite, GraphQL, Bitbucket, REST API
+
+WORK EXPERIENCE
+Full Stack Developer - Dell (2024 - Present)
+• Developed applications using Creativity and Terraform
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Computer Science
+University of Illinois
+Graduated: 2020
+
+CERTIFICATIONS
+PMP

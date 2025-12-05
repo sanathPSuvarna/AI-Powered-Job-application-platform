@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 1 years of experience in software development and technology.
+Strong background in Shell Scripting, Public Speaking, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Rust, C++, Scala
+Technologies: LESS, Bootstrap
+Databases: Google Cloud SQL, InfluxDB
+Cloud Platforms: 
+Tools: Swagger, Slack, Git
+
+WORK EXPERIENCE
+Data Analyst - eBay (2023 - Present)
+• Developed applications using Shell Scripting and Public Speaking
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Information Technology
+Stanford University
+Graduated: 2019
+
+CERTIFICATIONS
+Scrum Master

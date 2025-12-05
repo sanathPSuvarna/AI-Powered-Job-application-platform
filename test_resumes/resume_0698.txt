@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Project Manager with 1 years of experience in software development and technology.
+Strong background in Critical Thinking, Zoom, C++.
+
+TECHNICAL SKILLS
+Programming Languages: C++, MATLAB
+Technologies: Next.js, Gatsby, Vue.js
+Databases: PostgreSQL
+Cloud Platforms: 
+Tools: Zoom, Adobe Creative Suite, Slack, DevOps
+
+WORK EXPERIENCE
+Project Manager - Salesforce (2023 - Present)
+• Developed applications using Critical Thinking and Zoom
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2019
+
+CERTIFICATIONS

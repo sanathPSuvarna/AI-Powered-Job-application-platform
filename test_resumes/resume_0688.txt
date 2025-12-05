@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 11 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Python, Ruby, Rust, Scala
+Technologies: React, Express.js
+Databases: MariaDB, MySQL
+Cloud Platforms: Chef, Ansible, Heroku
+Tools: Confluence, Microservices, Sketch, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+System Administrator - Intel (2013 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+NYU
+Graduated: 2009
+
+CERTIFICATIONS
+CompTIA Security+, PMP, CISSP

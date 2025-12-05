@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 4 years of experience in software development and technology.
+Strong background in R, Team Collaboration, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: R, PowerShell, Rust
+Technologies: Angular
+Databases: SQL Server, Redis
+Cloud Platforms: DigitalOcean
+Tools: Zoom, DevOps
+
+WORK EXPERIENCE
+Full Stack Developer - Zoom (2020 - Present)
+• Developed applications using R and Team Collaboration
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Computer Science
+Purdue University
+Graduated: 2016
+
+CERTIFICATIONS
+Microsoft Certified

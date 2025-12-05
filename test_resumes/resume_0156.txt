@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 14 years of experience in software development and technology.
+Strong background in Shell Scripting, Adobe Creative Suite, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, VBA, C++, Groovy
+Technologies: Spring Boot, Express.js
+Databases: Oracle, CouchDB, MongoDB
+Cloud Platforms: Docker, Terraform, Vagrant
+Tools: Adobe Creative Suite, GraphQL, Confluence, Figma
+
+WORK EXPERIENCE
+Data Scientist - Salesforce (2010 - Present)
+• Developed applications using Shell Scripting and Adobe Creative Suite
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University
+Graduated: 2006
+
+CERTIFICATIONS
+Microsoft Certified

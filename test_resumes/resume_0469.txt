@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 1 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, R, Rust
+Technologies: Gatsby, Svelte
+Databases: Amazon RDS
+Cloud Platforms: GitHub Actions, Kubernetes
+Tools: Scrum, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Data Analyst - Cisco (2023 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Business Administration
+University of Illinois
+Graduated: 2019
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

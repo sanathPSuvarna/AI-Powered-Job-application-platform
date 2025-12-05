@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 0 years of experience in software development and technology.
+Strong background in Time Management, Creativity, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, C#
+Technologies: Webpack, React
+Databases: MySQL
+Cloud Platforms: 
+Tools: Figma, Confluence, JIRA
+
+WORK EXPERIENCE
+Software Engineer - Netflix (2024 - Present)
+• Developed applications using Time Management and Creativity
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Machine Learning
+Purdue University
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified

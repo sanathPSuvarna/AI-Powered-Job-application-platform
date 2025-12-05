@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 12 years of experience in software development and technology.
+Strong background in CompTIA Security+, Pandas, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Java, Ruby, Rust, MATLAB
+Technologies: Laravel, Angular
+Databases: CouchDB, InfluxDB
+Cloud Platforms: Vagrant
+Tools: Zoom, GraphQL, GitLab
+
+WORK EXPERIENCE
+Project Manager - Salesforce (2012 - Present)
+• Developed applications using CompTIA Security+ and Pandas
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Computer Science
+University of Michigan
+Graduated: 2008
+
+CERTIFICATIONS
+CompTIA Security+, PMP, AWS Certified

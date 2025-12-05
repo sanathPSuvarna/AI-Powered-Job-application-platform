@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 8 years of experience in software development and technology.
+Strong background in MariaDB, Laravel, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart, F#, Swift
+Technologies: Laravel, Vue.js, Spring Boot, Webpack
+Databases: MariaDB, Oracle
+Cloud Platforms: GitLab CI/CD
+Tools: Swagger, Bitbucket, Scrum
+
+WORK EXPERIENCE
+Software Engineer - Intel (2016 - Present)
+• Developed applications using MariaDB and Laravel
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Business Administration
+University of Washington
+Graduated: 2012
+
+CERTIFICATIONS
+Microsoft Certified

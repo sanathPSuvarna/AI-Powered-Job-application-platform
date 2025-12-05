@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 5 years of experience in software development and technology.
+Strong background in Time Management, Google Cloud SQL, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, C++, Ruby
+Technologies: Angular, LESS
+Databases: Google Cloud SQL, Neo4j
+Cloud Platforms: Docker, DigitalOcean
+Tools: SOAP, Git, Confluence, Sketch
+
+WORK EXPERIENCE
+Solutions Architect - Shopify (2019 - Present)
+• Developed applications using Time Management and Google Cloud SQL
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2015
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified, CISSP

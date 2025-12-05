@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 4 years of experience in software development and technology.
+Strong background in PyTorch, Zoom, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Kotlin, VBA, Dart
+Technologies: Webpack, Vue.js
+Databases: Neo4j
+Cloud Platforms: DigitalOcean, Puppet
+Tools: Zoom, GraphQL
+
+WORK EXPERIENCE
+Data Analyst - Oracle (2020 - Present)
+• Developed applications using PyTorch and Zoom
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified, CISSP

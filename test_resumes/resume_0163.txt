@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 7 years of experience in software development and technology.
+Strong background in R, Conflict Resolution, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: R, PHP, MATLAB
+Technologies: jQuery
+Databases: SQL Server, SQLite
+Cloud Platforms: Kubernetes, CircleCI
+Tools: Adobe Creative Suite, Postman
+
+WORK EXPERIENCE
+Data Scientist - Apple (2017 - Present)
+• Developed applications using R and Conflict Resolution
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified, Azure Certified

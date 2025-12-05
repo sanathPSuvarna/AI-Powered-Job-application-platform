@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 6 years of experience in software development and technology.
+Strong background in Nuxt.js, Django, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, C++, Java
+Technologies: Nuxt.js, Django, Babel
+Databases: MongoDB
+Cloud Platforms: OpenShift, Kubernetes
+Tools: Scrum, Adobe Creative Suite, Slack, GitHub
+
+WORK EXPERIENCE
+Technical Writer - Netflix (2018 - Present)
+• Developed applications using Nuxt.js and Django
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2014
+
+CERTIFICATIONS
+PMP

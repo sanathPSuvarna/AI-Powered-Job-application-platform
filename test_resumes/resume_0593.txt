@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, Perl, Groovy, PHP
+Technologies: Laravel, Babel, Bootstrap
+Databases: Google Cloud SQL, CouchDB
+Cloud Platforms: Docker, Kubernetes
+Tools: Git, Scrum, Agile
+
+WORK EXPERIENCE
+Database Administrator - Netflix (2017 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Machine Learning
+Yale University
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Salesforce Certified

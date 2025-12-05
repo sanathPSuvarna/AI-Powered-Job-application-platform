@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 6 years of experience in software development and technology.
+Strong background in Nuxt.js, Time Management, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Rust, Dart, Haskell
+Technologies: Nuxt.js
+Databases: Amazon RDS
+Cloud Platforms: Chef, Vagrant
+Tools: Scrum, Microsoft Teams, Postman
+
+WORK EXPERIENCE
+Backend Developer - Netflix (2018 - Present)
+• Developed applications using Nuxt.js and Time Management
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+Princeton University
+Graduated: 2014
+
+CERTIFICATIONS
+Salesforce Certified

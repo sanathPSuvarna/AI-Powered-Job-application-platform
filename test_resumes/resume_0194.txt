@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 14 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Objective-C, Swift
+Technologies: LESS, Gatsby
+Databases: InfluxDB, MongoDB, Firebase
+Cloud Platforms: Ansible, Google Cloud Platform
+Tools: Kanban, SOAP, GitHub
+
+WORK EXPERIENCE
+Tech Lead - Twitter (2010 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+Yale University
+Graduated: 2006
+
+CERTIFICATIONS
+CompTIA Security+

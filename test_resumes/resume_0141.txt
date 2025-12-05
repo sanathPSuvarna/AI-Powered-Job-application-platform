@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, CompTIA Security+, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, PowerShell, Go, Scala
+Technologies: Svelte, CSS
+Databases: Neo4j
+Cloud Platforms: 
+Tools: Git, DevOps
+
+WORK EXPERIENCE
+System Administrator - Salesforce (2017 - Present)
+• Developed applications using Oracle Certified and CompTIA Security+
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+

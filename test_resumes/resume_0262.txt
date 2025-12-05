@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 12 years of experience in software development and technology.
+Strong background in CompTIA Security+, VBA, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, F#, Kotlin, MATLAB, Scala
+Technologies: HTML, Svelte, Nuxt.js
+Databases: Amazon RDS, Firebase
+Cloud Platforms: Kubernetes, Google Cloud Platform
+Tools: Confluence, REST API, Slack
+
+WORK EXPERIENCE
+Project Manager - PayPal (2012 - Present)
+• Developed applications using CompTIA Security+ and VBA
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2008
+
+CERTIFICATIONS
+CompTIA Security+

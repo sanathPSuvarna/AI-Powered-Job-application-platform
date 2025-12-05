@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Team Collaboration, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Ruby, Dart
+Technologies: Webpack
+Databases: DynamoDB
+Cloud Platforms: Kubernetes, CircleCI
+Tools: Adobe Creative Suite, Microsoft Teams, Agile, GitHub
+
+WORK EXPERIENCE
+Database Administrator - Amazon (2018 - Present)
+• Developed applications using CompTIA Security+ and Team Collaboration
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+

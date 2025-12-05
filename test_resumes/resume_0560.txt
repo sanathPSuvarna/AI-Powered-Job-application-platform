@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 3 years of experience in software development and technology.
+Strong background in Pandas, Objective-C, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift, JavaScript
+Technologies: Vue.js, HTML, Svelte
+Databases: InfluxDB, SQLite
+Cloud Platforms: 
+Tools: Bitbucket, Figma, DevOps
+
+WORK EXPERIENCE
+UI/UX Designer - PayPal (2021 - Present)
+• Developed applications using Pandas and Objective-C
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master

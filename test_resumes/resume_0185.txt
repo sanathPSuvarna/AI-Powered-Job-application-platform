@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 10 years of experience in software development and technology.
+Strong background in MariaDB, Shell Scripting, PMP.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Perl, C++, Groovy
+Technologies: Bootstrap, CSS, Django
+Databases: MariaDB, CouchDB
+Cloud Platforms: CircleCI
+Tools: JIRA, Swagger, REST API, Scrum, Slack
+
+WORK EXPERIENCE
+Machine Learning Engineer - Shopify (2014 - Present)
+• Developed applications using MariaDB and Shell Scripting
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2010
+
+CERTIFICATIONS
+PMP

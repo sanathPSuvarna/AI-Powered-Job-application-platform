@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 2 years of experience in software development and technology.
+Strong background in Nuxt.js, Time Management, HTML.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, JavaScript
+Technologies: Nuxt.js, HTML, Node.js
+Databases: MongoDB, Neo4j
+Cloud Platforms: AWS
+Tools: Git, GitHub, Microservices
+
+WORK EXPERIENCE
+System Administrator - Dropbox (2022 - Present)
+• Developed applications using Nuxt.js and Time Management
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Stanford University
+Graduated: 2018
+
+CERTIFICATIONS
+Azure Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 2 years of experience in software development and technology.
+Strong background in CompTIA Security+, Cisco Certified, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Scala
+Technologies: jQuery, Vue.js, Webpack
+Databases: Cassandra, Redis
+Cloud Platforms: Docker, Kubernetes
+Tools: Postman, REST API
+
+WORK EXPERIENCE
+Backend Developer - Yahoo (2022 - Present)
+• Developed applications using CompTIA Security+ and Cisco Certified
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Machine Learning
+Princeton University
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

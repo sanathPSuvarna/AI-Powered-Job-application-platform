@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 3 years of experience in software development and technology.
+Strong background in VBA, Scrum Master, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, Haskell, PHP
+Technologies: Angular
+Databases: MySQL, SQLite
+Cloud Platforms: 
+Tools: Bitbucket, GitLab, Agile, DevOps
+
+WORK EXPERIENCE
+Project Manager - Amazon (2021 - Present)
+• Developed applications using VBA and Scrum Master
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified, PMP

@@ -1,0 +1,952 @@
+{
+  "tests": {
+    "c914b54f-b746-4184-8959-3c9cc94fdb30": {
+      "test_id": "c914b54f-b746-4184-8959-3c9cc94fdb30",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:19:14.162121",
+      "end_date": "2025-10-21T13:19:14.160126",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "c5afd092-ed36-4f3f-993c-b612d5cd1707": {
+      "test_id": "c5afd092-ed36-4f3f-993c-b612d5cd1707",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:19:36.487520",
+      "end_date": "2025-10-21T13:19:36.485518",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "589f8cf3-cbc4-4068-b8f9-04fa984c28f3": {
+      "test_id": "589f8cf3-cbc4-4068-b8f9-04fa984c28f3",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:19:58.125710",
+      "end_date": "2025-10-21T13:19:58.122711",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "525179d1-15c1-4c70-ab98-5aebfc90ecc6": {
+      "test_id": "525179d1-15c1-4c70-ab98-5aebfc90ecc6",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:20:23.197225",
+      "end_date": "2025-10-21T13:20:23.194223",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "148b4689-cea3-4941-a504-58c593008028": {
+      "test_id": "148b4689-cea3-4941-a504-58c593008028",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:23:00.644531",
+      "end_date": "2025-10-21T13:23:00.640518",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "ee350d7d-d452-4e80-9da2-9b65468bb41c": {
+      "test_id": "ee350d7d-d452-4e80-9da2-9b65468bb41c",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:24:18.916235",
+      "end_date": "2025-10-21T13:24:18.912247",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "3299bbb4-f6dc-422b-b905-db669169b7ef": {
+      "test_id": "3299bbb4-f6dc-422b-b905-db669169b7ef",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:25:25.984510",
+      "end_date": "2025-10-21T13:25:25.979515",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "24b7ae93-5e47-4492-bd24-154db3a8278d": {
+      "test_id": "24b7ae93-5e47-4492-bd24-154db3a8278d",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:25:48.018454",
+      "end_date": "2025-10-21T13:25:48.012453",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "09f1e943-9100-4989-b573-e871b6fa8b64": {
+      "test_id": "09f1e943-9100-4989-b573-e871b6fa8b64",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:28:36.654931",
+      "end_date": "2025-10-21T13:28:36.648932",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "d15c52df-95aa-4ce0-88da-22954cbab436": {
+      "test_id": "d15c52df-95aa-4ce0-88da-22954cbab436",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:28:59.414818",
+      "end_date": "2025-10-21T13:28:59.409822",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "ef293f78-fcab-4fca-a7e9-c4134c592509": {
+      "test_id": "ef293f78-fcab-4fca-a7e9-c4134c592509",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:30:55.138231",
+      "end_date": "2025-10-21T13:30:55.135223",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "a119d7ca-3992-4d78-bdc8-2965b3cf5019": {
+      "test_id": "a119d7ca-3992-4d78-bdc8-2965b3cf5019",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:31:08.438381",
+      "end_date": "2025-10-21T13:31:08.435378",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "6657c446-3dfc-48bc-89f3-ec5c88b0ab3b": {
+      "test_id": "6657c446-3dfc-48bc-89f3-ec5c88b0ab3b",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:33:28.304956",
+      "end_date": "2025-10-21T13:33:28.302955",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "8781de81-dac2-4091-8697-b6701ca57f83": {
+      "test_id": "8781de81-dac2-4091-8697-b6701ca57f83",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:34:13.764534",
+      "end_date": "2025-10-21T13:34:13.762528",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "d86c5376-5950-4bfb-adad-dec5fa41790f": {
+      "test_id": "d86c5376-5950-4bfb-adad-dec5fa41790f",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:35:11.346337",
+      "end_date": "2025-10-21T13:35:11.343337",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "2ec90d82-c382-422a-b917-ab21dd275c8e": {
+      "test_id": "2ec90d82-c382-422a-b917-ab21dd275c8e",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:35:50.344722",
+      "end_date": "2025-10-21T13:35:50.341720",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "ae1dc450-529b-4571-98ca-bdb453ff8134": {
+      "test_id": "ae1dc450-529b-4571-98ca-bdb453ff8134",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:36:02.019400",
+      "end_date": "2025-10-21T13:36:02.015883",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "0a4e6934-8b21-4271-99f7-dabc38bc3fb7": {
+      "test_id": "0a4e6934-8b21-4271-99f7-dabc38bc3fb7",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:36:27.997179",
+      "end_date": "2025-10-21T13:36:27.992179",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "1b353112-661d-4c3a-b1f3-0467ca3d3dae": {
+      "test_id": "1b353112-661d-4c3a-b1f3-0467ca3d3dae",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:36:39.772998",
+      "end_date": "2025-10-21T13:36:39.769001",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "8a464d6e-13da-4158-89a3-b60e92bcf11c": {
+      "test_id": "8a464d6e-13da-4158-89a3-b60e92bcf11c",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T13:39:31.917083",
+      "end_date": "2025-10-21T13:39:31.912757",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "47cfae5c-4ab8-4cac-8655-9828b4f0910c": {
+      "test_id": "47cfae5c-4ab8-4cac-8655-9828b4f0910c",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T16:38:27.342990",
+      "end_date": "2025-10-21T16:38:27.332961",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "9777cfde-e8da-46a6-a1a0-ddfc1c5725ab": {
+      "test_id": "9777cfde-e8da-46a6-a1a0-ddfc1c5725ab",
+      "name": "Production Skill Extraction",
+      "description": "Optimize skill extraction for job-skill-matcher",
+      "variants": [
+        {
+          "variant_id": "baseline_v1",
+          "name": "baseline",
+          "description": "Balanced ensemble configuration",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.25,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.25,
+            "confidence_threshold": 0.6
+          },
+          "traffic_percentage": 60.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "optimized_v1",
+          "name": "optimized",
+          "description": "Embedding-focused configuration",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.35,
+            "confidence_threshold": 0.65
+          },
+          "traffic_percentage": 40.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-07T16:48:46.391280",
+      "end_date": "2025-10-21T16:48:46.382280",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 100,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    }
+  },
+  "user_assignments": {},
+  "test_results": {}
+}

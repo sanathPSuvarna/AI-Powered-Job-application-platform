@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 6 years of experience in software development and technology.
+Strong background in Critical Thinking, Time Management, C++.
+
+TECHNICAL SKILLS
+Programming Languages: C++, F#, C#, Dart
+Technologies: Vue.js
+Databases: Oracle, Amazon RDS
+Cloud Platforms: 
+Tools: Bitbucket, REST API
+
+WORK EXPERIENCE
+System Administrator - Oracle (2018 - Present)
+• Developed applications using Critical Thinking and Time Management
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Science in Computer Science
+Georgia Tech
+Graduated: 2014
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified

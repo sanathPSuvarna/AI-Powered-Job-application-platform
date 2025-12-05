@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Communication, Perl, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Go, JavaScript, Scala
+Technologies: Node.js, Spring Boot
+Databases: Google Cloud SQL, Amazon RDS
+Cloud Platforms: Azure
+Tools: Figma, GraphQL, Sketch, JIRA
+
+WORK EXPERIENCE
+Full Stack Developer - LinkedIn (2024 - Present)
+• Developed applications using Communication and Perl
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2020
+
+CERTIFICATIONS

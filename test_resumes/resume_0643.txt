@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 5 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Power BI, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, TypeScript
+Technologies: Webpack
+Databases: InfluxDB
+Cloud Platforms: GitLab CI/CD, Kubernetes
+Tools: Bitbucket, GraphQL
+
+WORK EXPERIENCE
+Full Stack Developer - Adobe (2019 - Present)
+• Developed applications using GitLab CI/CD and Power BI
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 7 years of experience in software development and technology.
+Strong background in Django, Shell Scripting, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, F#, C++
+Technologies: Django, jQuery, Express.js
+Databases: Google Cloud SQL, Cassandra
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Bitbucket, Microservices
+
+WORK EXPERIENCE
+Data Analyst - Apple (2017 - Present)
+• Developed applications using Django and Shell Scripting
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+USC
+Graduated: 2013
+
+CERTIFICATIONS
+PMP

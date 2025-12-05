@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Product Manager with 8 years of experience in software development and technology.
+Strong background in MariaDB, Shell Scripting, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, C#, Dart
+Technologies: Laravel, Svelte, Node.js, Babel
+Databases: MariaDB, MySQL, Redis
+Cloud Platforms: Vagrant
+Tools: InVision, Git, JIRA, GitLab
+
+WORK EXPERIENCE
+Product Manager - Microsoft (2016 - Present)
+• Developed applications using MariaDB and Shell Scripting
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2012
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, AWS Certified

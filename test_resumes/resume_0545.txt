@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 1 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Communication, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Go, JavaScript, Scala
+Technologies: LESS
+Databases: PostgreSQL
+Cloud Platforms: GitLab CI/CD
+Tools: Figma, JIRA
+
+WORK EXPERIENCE
+Business Analyst - Netflix (2023 - Present)
+• Developed applications using GitLab CI/CD and Communication
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+Princeton University
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified, Microsoft Certified

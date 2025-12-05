@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 2 years of experience in software development and technology.
+Strong background in Google Cloud SQL, TypeScript, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript, R
+Technologies: HTML, Babel
+Databases: Google Cloud SQL, InfluxDB
+Cloud Platforms: GitHub Actions
+Tools: REST API, Slack, Agile, GitHub
+
+WORK EXPERIENCE
+Senior Software Engineer - Spotify (2022 - Present)
+• Developed applications using Google Cloud SQL and TypeScript
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Information Technology
+UCLA
+Graduated: 2018
+
+CERTIFICATIONS

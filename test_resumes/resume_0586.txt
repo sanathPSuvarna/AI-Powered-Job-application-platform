@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 2 years of experience in software development and technology.
+Strong background in R, Time Management, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: R, Kotlin, MATLAB
+Technologies: Svelte
+Databases: CouchDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Slack, Git
+
+WORK EXPERIENCE
+Solutions Architect - eBay (2022 - Present)
+• Developed applications using R and Time Management
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 7 years of experience in software development and technology.
+Strong background in Communication, Zoom, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PowerShell, Ruby
+Technologies: LESS
+Databases: Neo4j
+Cloud Platforms: Azure
+Tools: Zoom, Confluence, Figma
+
+WORK EXPERIENCE
+Network Engineer - Netflix (2017 - Present)
+• Developed applications using Communication and Zoom
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Cisco Certified

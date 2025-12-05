@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 2 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, SQL Server, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Clojure, PHP, MATLAB
+Technologies: Laravel, Django, LESS
+Databases: SQL Server, Amazon RDS
+Cloud Platforms: Chef, GitLab CI/CD
+Tools: Adobe Creative Suite, Postman, JIRA
+
+WORK EXPERIENCE
+Product Manager - IBM (2022 - Present)
+• Developed applications using Adobe Creative Suite and SQL Server
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Django
+
+EDUCATION
+Master of Business Administration
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS
+Microsoft Certified

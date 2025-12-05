@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 6 years of experience in software development and technology.
+Strong background in Leadership, Groovy, Azure Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, C++, Scala
+Technologies: jQuery, CSS
+Databases: DynamoDB
+Cloud Platforms: Kubernetes
+Tools: Postman, Git
+
+WORK EXPERIENCE
+Data Analyst - Zoom (2018 - Present)
+• Developed applications using Leadership and Groovy
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Machine Learning
+Georgia Tech
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified

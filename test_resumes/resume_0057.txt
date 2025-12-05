@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 4 years of experience in software development and technology.
+Strong background in Clojure, Plotly, Project Management.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Ruby, C++, Java
+Technologies: React
+Databases: Amazon RDS, MySQL
+Cloud Platforms: 
+Tools: InVision, Kanban
+
+WORK EXPERIENCE
+UI/UX Designer - Zoom (2020 - Present)
+• Developed applications using Clojure and Plotly
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UC Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+Azure Certified

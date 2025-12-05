@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 6 years of experience in software development and technology.
+Strong background in Public Speaking, Team Collaboration, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: PHP, Dart, Java
+Technologies: Express.js
+Databases: Oracle, MySQL
+Cloud Platforms: OpenShift
+Tools: Scrum, InVision, Confluence
+
+WORK EXPERIENCE
+Machine Learning Engineer - Tesla (2018 - Present)
+• Developed applications using Public Speaking and Team Collaboration
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2014
+
+CERTIFICATIONS
+AWS Certified, Scrum Master, Salesforce Certified

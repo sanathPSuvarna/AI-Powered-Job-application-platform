@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 6 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, InVision, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Java
+Technologies: Vue.js, CSS, Flask
+Databases: MongoDB, InfluxDB
+Cloud Platforms: Vagrant, DigitalOcean
+Tools: Adobe Creative Suite, InVision, SOAP, Swagger
+
+WORK EXPERIENCE
+Database Administrator - LinkedIn (2018 - Present)
+• Developed applications using Adobe Creative Suite and InVision
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2014
+
+CERTIFICATIONS
+PMP, Azure Certified, Microsoft Certified

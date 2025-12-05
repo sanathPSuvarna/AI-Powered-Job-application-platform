@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 1 years of experience in software development and technology.
+Strong background in Zoom, Creativity, MongoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Go, C++
+Technologies: Express.js, CSS
+Databases: MongoDB, Neo4j
+Cloud Platforms: OpenShift
+Tools: Zoom, Bitbucket, Sketch
+
+WORK EXPERIENCE
+Frontend Developer - VMware (2023 - Present)
+• Developed applications using Zoom and Creativity
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Computer Science
+USC
+Graduated: 2019
+
+CERTIFICATIONS
+CISSP, PMP

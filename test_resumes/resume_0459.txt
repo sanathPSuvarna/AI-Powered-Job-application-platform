@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Time Management, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Rust
+Technologies: Nuxt.js, Express.js
+Databases: Oracle, MySQL
+Cloud Platforms: 
+Tools: Bitbucket, Agile, GraphQL, JIRA
+
+WORK EXPERIENCE
+Product Manager - Apple (2019 - Present)
+• Developed applications using Nuxt.js and Time Management
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Business Administration
+Harvard University
+Graduated: 2015
+
+CERTIFICATIONS
+Scrum Master, PMP, Salesforce Certified

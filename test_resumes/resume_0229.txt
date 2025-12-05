@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, Project Management.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, C++
+Technologies: React
+Databases: Oracle
+Cloud Platforms: Kubernetes
+Tools: Microservices, Sketch
+
+WORK EXPERIENCE
+Network Engineer - VMware (2018 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UT Austin
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified, AWS Certified

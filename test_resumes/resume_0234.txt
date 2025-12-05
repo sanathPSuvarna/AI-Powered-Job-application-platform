@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 5 years of experience in software development and technology.
+Strong background in Creativity, DigitalOcean, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, JavaScript, C++
+Technologies: Node.js, Babel
+Databases: MySQL
+Cloud Platforms: DigitalOcean
+Tools: Adobe Creative Suite, GitLab, DevOps, SOAP
+
+WORK EXPERIENCE
+Product Manager - Dell (2019 - Present)
+• Developed applications using Creativity and DigitalOcean
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Stanford University
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified

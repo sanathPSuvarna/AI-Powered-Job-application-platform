@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Clojure, Data Analysis.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Dart
+Technologies: Node.js, Spring Boot
+Databases: Oracle, Firebase
+Cloud Platforms: 
+Tools: DevOps, Git
+
+WORK EXPERIENCE
+Backend Developer - Facebook (2017 - Present)
+• Developed applications using CompTIA Security+ and Clojure
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Columbia University
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

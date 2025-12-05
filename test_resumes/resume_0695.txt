@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Solutions Architect with 12 years of experience in software development and technology.
+Strong background in MariaDB, Time Management, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Dart, Perl, Python, Rust
+Technologies: Spring Boot, Django
+Databases: MariaDB, SQL Server, Redis
+Cloud Platforms: Ansible
+Tools: InVision, JIRA, REST API, Sketch, GitLab
+
+WORK EXPERIENCE
+Solutions Architect - IBM (2012 - Present)
+• Developed applications using MariaDB and Time Management
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+CMU
+Graduated: 2008
+
+CERTIFICATIONS
+PMP, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 4 years of experience in software development and technology.
+Strong background in JavaScript, Team Collaboration, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Haskell
+Technologies: Babel, Angular
+Databases: Oracle
+Cloud Platforms: 
+Tools: Slack, Kanban
+
+WORK EXPERIENCE
+System Administrator - Shopify (2020 - Present)
+• Developed applications using JavaScript and Team Collaboration
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Machine Learning
+University of Michigan
+Graduated: 2016
+
+CERTIFICATIONS
+Azure Certified, CISSP

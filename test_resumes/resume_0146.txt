@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 12 years of experience in software development and technology.
+Strong background in Google Cloud SQL, InVision, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, F#, Swift, Clojure, PHP
+Technologies: jQuery, Bootstrap, CSS
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: Vagrant
+Tools: InVision, Sketch, Slack
+
+WORK EXPERIENCE
+QA Engineer - Slack (2012 - Present)
+• Developed applications using Google Cloud SQL and InVision
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2008
+
+CERTIFICATIONS
+Google Cloud Certified, Oracle Certified, CISSP

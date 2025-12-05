@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 3 years of experience in software development and technology.
+Strong background in Team Collaboration, Scrum, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, Dart
+Technologies: Bootstrap
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: Scrum, Kanban, Figma
+
+WORK EXPERIENCE
+Software Architect - PayPal (2021 - Present)
+• Developed applications using Team Collaboration and Scrum
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2017
+
+CERTIFICATIONS
+Scrum Master, CISSP

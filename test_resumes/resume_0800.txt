@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 4 years of experience in software development and technology.
+Strong background in Critical Thinking, Communication, C++.
+
+TECHNICAL SKILLS
+Programming Languages: C++, TypeScript, MATLAB, Haskell
+Technologies: Babel, Gatsby
+Databases: Redis
+Cloud Platforms: 
+Tools: Swagger, DevOps
+
+WORK EXPERIENCE
+QA Engineer - Zoom (2020 - Present)
+• Developed applications using Critical Thinking and Communication
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Machine Learning
+NYU
+Graduated: 2016
+
+CERTIFICATIONS
+CISSP, Scrum Master, Salesforce Certified

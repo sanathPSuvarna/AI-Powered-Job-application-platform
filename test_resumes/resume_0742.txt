@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 9 years of experience in software development and technology.
+Strong background in MariaDB, Cisco Certified, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Perl, Go, PHP, MATLAB
+Technologies: Laravel, Node.js, CSS, React
+Databases: MariaDB, Oracle, InfluxDB
+Cloud Platforms: Chef
+Tools: Postman, SOAP, JIRA, Bitbucket, Agile
+
+WORK EXPERIENCE
+Frontend Developer - Yahoo (2015 - Present)
+• Developed applications using MariaDB and Cisco Certified
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2011
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

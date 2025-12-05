@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 6 years of experience in software development and technology.
+Strong background in Postman, MySQL, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Python, Swift, MATLAB
+Technologies: Gatsby, React
+Databases: MySQL, MongoDB
+Cloud Platforms: GitLab CI/CD
+Tools: Postman, Confluence, Sketch, Scrum
+
+WORK EXPERIENCE
+Software Architect - Cisco (2018 - Present)
+• Developed applications using Postman and MySQL
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with React
+
+EDUCATION
+Master of Business Administration
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+Salesforce Certified, PMP, Microsoft Certified

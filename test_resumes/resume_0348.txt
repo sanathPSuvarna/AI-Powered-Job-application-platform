@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 3 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: C#, R, MATLAB
+Technologies: Spring Boot, LESS, Express.js
+Databases: PostgreSQL, DynamoDB
+Cloud Platforms: AWS, Google Cloud Platform
+Tools: Postman, GitLab, GitHub, DevOps
+
+WORK EXPERIENCE
+Business Analyst - VMware (2021 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Business Administration
+University of Illinois
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Azure Certified, CISSP

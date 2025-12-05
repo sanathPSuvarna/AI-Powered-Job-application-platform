@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in Clojure, Project Management, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Python, PowerShell, JavaScript
+Technologies: Bootstrap, React
+Databases: Oracle, Amazon RDS
+Cloud Platforms: OpenShift
+Tools: Scrum, Sketch
+
+WORK EXPERIENCE
+Project Manager - Dropbox (2019 - Present)
+• Developed applications using Clojure and Project Management
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+PMP

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 2 years of experience in software development and technology.
+Strong background in Power BI, Public Speaking, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Groovy, JavaScript
+Technologies: Svelte
+Databases: SQL Server, MongoDB
+Cloud Platforms: AWS
+Tools: Scrum, Adobe Creative Suite, Confluence
+
+WORK EXPERIENCE
+Solutions Architect - Oracle (2022 - Present)
+• Developed applications using Power BI and Public Speaking
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UCLA
+Graduated: 2018
+
+CERTIFICATIONS

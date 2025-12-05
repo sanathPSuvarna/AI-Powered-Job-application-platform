@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in Pandas, Laravel, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, Rust, MATLAB
+Technologies: Laravel, Babel, Next.js
+Databases: Amazon RDS, MySQL
+Cloud Platforms: Docker
+Tools: Swagger, GraphQL, Scrum, GitLab
+
+WORK EXPERIENCE
+QA Engineer - Uber (2017 - Present)
+• Developed applications using Pandas and Laravel
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP

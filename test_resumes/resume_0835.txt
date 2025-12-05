@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 3 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Pandas, F#.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Ruby
+Technologies: Spring Boot, Vue.js
+Databases: Google Cloud SQL, CouchDB
+Cloud Platforms: 
+Tools: Bitbucket, GraphQL
+
+WORK EXPERIENCE
+Product Manager - Tesla (2021 - Present)
+• Developed applications using Google Cloud SQL and Pandas
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Business Administration
+Harvard University
+Graduated: 2017
+
+CERTIFICATIONS
+PMP

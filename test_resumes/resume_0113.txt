@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 7 years of experience in software development and technology.
+Strong background in VBA, Google Cloud Certified, Git.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Perl, F#, Groovy
+Technologies: Babel
+Databases: Redis
+Cloud Platforms: AWS
+Tools: Git, Scrum, Slack, Agile
+
+WORK EXPERIENCE
+Solutions Architect - Oracle (2017 - Present)
+• Developed applications using VBA and Google Cloud Certified
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Salesforce Certified, AWS Certified

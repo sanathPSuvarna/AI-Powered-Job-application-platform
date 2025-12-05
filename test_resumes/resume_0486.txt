@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 1 years of experience in software development and technology.
+Strong background in Django, GitLab CI/CD, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Objective-C
+Technologies: Django, LESS, Gatsby
+Databases: SQL Server, SQLite
+Cloud Platforms: GitLab CI/CD
+Tools: GitHub, REST API
+
+WORK EXPERIENCE
+Data Scientist - LinkedIn (2023 - Present)
+• Developed applications using Django and GitLab CI/CD
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UCLA
+Graduated: 2019
+
+CERTIFICATIONS
+PMP, CISSP

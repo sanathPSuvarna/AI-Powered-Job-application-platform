@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 7 years of experience in software development and technology.
+Strong background in PyTorch, Zoom, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Groovy, JavaScript
+Technologies: Svelte, Express.js, CSS
+Databases: InfluxDB
+Cloud Platforms: Google Cloud Platform, Kubernetes
+Tools: Zoom, GitLab, Sketch
+
+WORK EXPERIENCE
+Data Scientist - Uber (2017 - Present)
+• Developed applications using PyTorch and Zoom
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP

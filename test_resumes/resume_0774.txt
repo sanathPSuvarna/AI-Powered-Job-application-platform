@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, GitLab CI/CD.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, PowerShell, Ruby, JavaScript
+Technologies: Angular
+Databases: Neo4j
+Cloud Platforms: GitLab CI/CD
+Tools: GraphQL, Git, Microsoft Teams, REST API
+
+WORK EXPERIENCE
+System Administrator - Oracle (2019 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Columbia University
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, Cisco Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 6 years of experience in software development and technology.
+Strong background in MariaDB, Project Management, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, TypeScript, PHP
+Technologies: HTML
+Databases: MariaDB
+Cloud Platforms: 
+Tools: Zoom, Swagger, SOAP, JIRA
+
+WORK EXPERIENCE
+Backend Developer - Facebook (2018 - Present)
+• Developed applications using MariaDB and Project Management
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, PMP

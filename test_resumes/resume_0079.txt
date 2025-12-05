@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 3 years of experience in software development and technology.
+Strong background in SASS, SQL Server, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, MATLAB
+Technologies: SASS, Vue.js, HTML
+Databases: SQL Server, CouchDB
+Cloud Platforms: Ansible
+Tools: InVision, Slack, Figma
+
+WORK EXPERIENCE
+Product Manager - Shopify (2021 - Present)
+• Developed applications using SASS and SQL Server
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Salesforce Certified, CISSP

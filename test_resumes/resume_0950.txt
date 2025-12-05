@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 0 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Decision Making, PMP.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Ruby
+Technologies: Node.js, CSS
+Databases: Google Cloud SQL, InfluxDB
+Cloud Platforms: Jenkins, Terraform
+Tools: Zoom, Microservices, Slack, Kanban
+
+WORK EXPERIENCE
+Database Administrator - Amazon (2024 - Present)
+• Developed applications using Google Cloud SQL and Decision Making
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+CMU
+Graduated: 2020
+
+CERTIFICATIONS
+PMP, Oracle Certified

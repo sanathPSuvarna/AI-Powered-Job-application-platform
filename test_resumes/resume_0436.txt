@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 4 years of experience in software development and technology.
+Strong background in Clojure, Shell Scripting, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Shell Scripting, Kotlin, Scala
+Technologies: Webpack, Node.js
+Databases: Google Cloud SQL
+Cloud Platforms: Ansible, OpenShift
+Tools: Bitbucket, Microservices, Git
+
+WORK EXPERIENCE
+Software Architect - PayPal (2020 - Present)
+• Developed applications using Clojure and Shell Scripting
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Computer Science
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 11 years of experience in software development and technology.
+Strong background in CompTIA Security+, Pandas, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, Go, C++
+Technologies: Angular, Svelte, Spring Boot, React
+Databases: Oracle, CouchDB, InfluxDB
+Cloud Platforms: Google Cloud Platform
+Tools: Postman, Zoom, Microservices
+
+WORK EXPERIENCE
+System Administrator - eBay (2013 - Present)
+• Developed applications using CompTIA Security+ and Pandas
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2009
+
+CERTIFICATIONS
+CompTIA Security+, PMP, AWS Certified

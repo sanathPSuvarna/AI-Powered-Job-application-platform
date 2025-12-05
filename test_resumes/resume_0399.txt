@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 4 years of experience in software development and technology.
+Strong background in Django, Clojure, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Go, Groovy, Java
+Technologies: Django, Svelte, Node.js
+Databases: DynamoDB
+Cloud Platforms: 
+Tools: Zoom, Scrum, Confluence
+
+WORK EXPERIENCE
+Data Analyst - Dropbox (2020 - Present)
+• Developed applications using Django and Clojure
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, AWS Certified, Salesforce Certified

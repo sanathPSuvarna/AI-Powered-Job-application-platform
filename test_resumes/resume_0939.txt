@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 4 years of experience in software development and technology.
+Strong background in InfluxDB, F#, Apache Spark.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Swift, C#
+Technologies: Angular
+Databases: InfluxDB, Amazon RDS
+Cloud Platforms: CircleCI
+Tools: Confluence, GitHub, Postman
+
+WORK EXPERIENCE
+Project Manager - Zoom (2020 - Present)
+• Developed applications using InfluxDB and F#
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Information Technology
+Georgia Tech
+Graduated: 2016
+
+CERTIFICATIONS
+Azure Certified

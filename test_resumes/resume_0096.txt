@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 6 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Clojure
+Technologies: jQuery
+Databases: MariaDB, Firebase
+Cloud Platforms: GitLab CI/CD, Google Cloud Platform
+Tools: Git, JIRA, Sketch, Microsoft Teams
+
+WORK EXPERIENCE
+Engineering Manager - eBay (2018 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Business Administration
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

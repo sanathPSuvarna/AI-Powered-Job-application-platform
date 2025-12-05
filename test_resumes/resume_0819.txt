@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, R, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: R, Groovy
+Technologies: Express.js, React, Flask
+Databases: Amazon RDS
+Cloud Platforms: Vagrant, Kubernetes
+Tools: GitLab, Kanban, GraphQL
+
+WORK EXPERIENCE
+Data Scientist - Twitter (2020 - Present)
+• Developed applications using Oracle Certified and R
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+Stanford University
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified

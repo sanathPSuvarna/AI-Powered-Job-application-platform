@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Engineering Manager with 0 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Power BI, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, MATLAB, Java
+Technologies: SASS, Node.js, CSS
+Databases: Redis
+Cloud Platforms: GitLab CI/CD
+Tools: Bitbucket, SOAP, Microservices
+
+WORK EXPERIENCE
+Engineering Manager - Slack (2024 - Present)
+• Developed applications using GitLab CI/CD and Power BI
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2020
+
+CERTIFICATIONS

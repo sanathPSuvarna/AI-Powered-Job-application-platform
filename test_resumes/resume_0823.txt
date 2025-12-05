@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 3 years of experience in software development and technology.
+Strong background in Shell Scripting, Public Speaking, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C++, C#
+Technologies: Webpack
+Databases: Amazon RDS
+Cloud Platforms: AWS
+Tools: Microsoft Teams, SOAP, Figma, Sketch
+
+WORK EXPERIENCE
+Product Manager - Intel (2021 - Present)
+• Developed applications using Shell Scripting and Public Speaking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP

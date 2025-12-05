@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 13 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, Perl, C++
+Technologies: SASS, Laravel, Babel, Django
+Databases: MariaDB, PostgreSQL
+Cloud Platforms: Azure
+Tools: Git, Microservices, Bitbucket, GitLab, GitHub
+
+WORK EXPERIENCE
+System Administrator - Twitter (2011 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2007
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified, Oracle Certified

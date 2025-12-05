@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 13 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, Go, F#, Swift
+Technologies: jQuery, Angular, Webpack, LESS
+Databases: Firebase, Cassandra
+Cloud Platforms: GitHub Actions
+Tools: Bitbucket, REST API, Microsoft Teams, Figma
+
+WORK EXPERIENCE
+QA Engineer - Netflix (2011 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Engineering in Data Science
+Purdue University
+Graduated: 2007
+
+CERTIFICATIONS
+Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, Power BI.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Objective-C, JavaScript, Java
+Technologies: LESS, Babel, Express.js
+Databases: MariaDB, MongoDB
+Cloud Platforms: 
+Tools: Scrum, GraphQL, Git
+
+WORK EXPERIENCE
+Project Manager - Adobe (2019 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified

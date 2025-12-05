@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 5 years of experience in software development and technology.
+Strong background in Shell Scripting, PostgreSQL, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Go, Java, F#
+Technologies: HTML, React, Flask
+Databases: PostgreSQL, CouchDB
+Cloud Platforms: Chef
+Tools: GitLab, Kanban
+
+WORK EXPERIENCE
+Engineering Manager - Slack (2019 - Present)
+• Developed applications using Shell Scripting and PostgreSQL
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Business Administration
+UC Berkeley
+Graduated: 2015
+
+CERTIFICATIONS
+Salesforce Certified, Oracle Certified, Azure Certified

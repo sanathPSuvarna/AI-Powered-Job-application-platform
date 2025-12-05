@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 7 years of experience in software development and technology.
+Strong background in Nuxt.js, Heroku, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, PHP, Scala
+Technologies: Nuxt.js, Next.js
+Databases: DynamoDB
+Cloud Platforms: Heroku, AWS
+Tools: Adobe Creative Suite, Kanban, Sketch
+
+WORK EXPERIENCE
+Technical Writer - Dell (2017 - Present)
+• Developed applications using Nuxt.js and Heroku
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Machine Learning
+UC Berkeley
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified

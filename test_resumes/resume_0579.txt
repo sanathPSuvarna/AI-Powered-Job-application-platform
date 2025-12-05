@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in Django, Time Management, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: F#, TypeScript
+Technologies: Django, Svelte
+Databases: MySQL
+Cloud Platforms: Ansible, Chef
+Tools: Adobe Creative Suite, GitLab
+
+WORK EXPERIENCE
+QA Engineer - IBM (2017 - Present)
+• Developed applications using Django and Time Management
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+PMP, CISSP

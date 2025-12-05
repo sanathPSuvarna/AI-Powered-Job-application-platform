@@ -114,6 +114,88 @@ def categorize_skill(skill: str) -> str:
             return category
     return 'other'
 
+def is_likely_false_positive(skill: str, context: str) -> bool:
+    """
+    Simple but effective false positive detection to reduce noise
+    """
+    skill_lower = skill.lower().strip()
+    context_lower = context.lower()
+    
+    # Skip very common false positives that get misclassified
+    false_positive_words = {
+        # Generic business/work terms
+        'experience', 'work', 'team', 'project', 'development', 'management', 
+        'support', 'service', 'business', 'company', 'position', 'role',
+        'skills', 'knowledge', 'ability', 'background', 'requirements',
+        'responsibilities', 'duties', 'tasks', 'expertise',
+        
+        # Time-related terms that get misclassified
+        'years', 'months', 'time', 'year', 'month', 'daily', 'weekly',
+        'january', 'february', 'march', 'april', 'may', 'june',
+        'july', 'august', 'september', 'october', 'november', 'december',
+        
+        # Action words/verbs that shouldn't be skills
+        'worked', 'developed', 'created', 'designed', 'managed', 'led',
+        'built', 'implemented', 'maintained', 'tested', 'deployed',
+        'coordinated', 'collaborated', 'analyzed', 'optimized',
+        
+        # Education/career terms
+        'degree', 'bachelor', 'master', 'phd', 'university', 'college', 'school',
+        'education', 'course', 'training', 'certification', 'graduate',
+        
+        # Location/workplace terms
+        'remote', 'office', 'location', 'city', 'state', 'onsite',
+        
+        # Generic tech terms that are too broad to be useful
+        'software', 'hardware', 'system', 'application', 'technology',
+        'platform', 'solution', 'tool', 'framework', 'database',
+        'server', 'client', 'web', 'mobile', 'desktop',
+        
+        # Common resume words
+        'strong', 'excellent', 'proficient', 'advanced', 'skilled',
+        'familiar', 'experienced', 'knowledgeable',
+        
+        # Numbers and basic words
+        'one', 'two', 'three', 'four', 'five', 'several', 'multiple',
+        'the', 'and', 'or', 'with', 'using', 'including', 'such'
+    }
+    
+    if skill_lower in false_positive_words:
+        return True
+    
+    # Skip very short words unless they're known tech abbreviations
+    if len(skill_lower) <= 2 and skill_lower not in ['ai', 'ml', 'ui', 'ux', 'r', 'go', 'c#', 'c', 'js', 'ts']:
+        return True
+    
+    # Skip very long phrases (likely sentence fragments)
+    if len(skill_lower.split()) > 3:
+        return True
+        
+    # Skip words with numbers unless they're version numbers
+    if re.search(r'\d', skill_lower) and not re.search(r'(html5|css3|http2?|python[23])', skill_lower):
+        return True
+    
+    # Skip if it looks like a company name or proper noun in wrong context
+    skill_positions = [m.start() for m in re.finditer(re.escape(skill_lower), context_lower)]
+    
+    for pos in skill_positions:
+        # Check surrounding context (50 characters each way)
+        start = max(0, pos - 50)
+        end = min(len(context_lower), pos + len(skill_lower) + 50)
+        surrounding = context_lower[start:end]
+        
+        # Non-technical context indicators that suggest false positive
+        non_tech_contexts = [
+            'experience at', 'worked at', 'employed by', 'company', 'corporation',
+            'university', 'college', 'school', 'degree in', 'studied at',
+            'inc', 'ltd', 'corp', 'llc', 'years of', 'months of'
+        ]
+        
+        if any(ctx in surrounding for ctx in non_tech_contexts):
+            return True
+    
+    return False
+
 def extract_skills_from_text(text: str) -> List[Dict[str, str]]:
     """
     Extract skills from text using NER, keyword matching, and pattern matching
@@ -123,12 +205,15 @@ def extract_skills_from_text(text: str) -> List[Dict[str, str]]:
         doc = nlp(text)
         skills = set()
 
-        # Extract skills using NER
+        # Extract skills using NER with false positive filtering
         for ent in doc.ents:
             if ent.label_ in ["SKILL", "TECHNOLOGY", "TOOL", "FRAMEWORK", "LANGUAGE"]:
                 skill = ent.text.strip()
-                if is_valid_skill(skill):
+                if is_valid_skill(skill) and not is_likely_false_positive(skill, text):
                     skills.add(skill.lower())
+                    print(f"✓ Valid skill: {skill}", file=sys.stderr)
+                else:
+                    print(f"✗ Filtered: {skill}", file=sys.stderr)
         
         # Pattern-based extraction for specific programming languages
         text_lower = text.lower()
@@ -191,14 +276,33 @@ def extract_skills_from_text(text: str) -> List[Dict[str, str]]:
             )
             for item in skill_items:
                 skill = (item[0] or item[1]).strip()
-                if is_valid_skill(skill):
+                if is_valid_skill(skill) and not is_likely_false_positive(skill, text):
                     skills.add(skill.lower())
+                    print(f"✓ Section skill: {skill}", file=sys.stderr)
         
-        # Format and categorize results
-        return [
-            {'skill': skill, 'category': categorize_skill(skill)}
-            for skill in sorted(skills)
-        ]
+        # Format and categorize results with confidence scoring
+        results = []
+        for skill in sorted(skills):
+            # Assign confidence based on how the skill was detected
+            confidence = 0.8  # Base confidence
+            
+            # Higher confidence for skills found in dedicated sections
+            if any('skills' in text[max(0, text.lower().find(skill)-50):text.lower().find(skill)+50].lower() 
+                   for _ in [None] if skill in text.lower()):
+                confidence = min(1.0, confidence + 0.1)
+            
+            # Higher confidence for well-known programming languages
+            if skill in {'python', 'java', 'javascript', 'react', 'angular', 'node.js', 'docker', 'aws'}:
+                confidence = min(1.0, confidence + 0.15)
+            
+            results.append({
+                'skill': skill, 
+                'category': categorize_skill(skill),
+                'confidence': round(confidence, 3)
+            })
+        
+        print(f"Final skill count after filtering: {len(results)}", file=sys.stderr)
+        return results
         
     except Exception as e:
         print(f"Error extracting skills: {str(e)}", file=sys.stderr)

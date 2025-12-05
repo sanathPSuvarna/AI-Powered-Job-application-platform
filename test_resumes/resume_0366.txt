@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 3 years of experience in software development and technology.
+Strong background in JavaScript, Public Speaking, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Kotlin, F#
+Technologies: Node.js, Angular
+Databases: Google Cloud SQL, SQL Server
+Cloud Platforms: 
+Tools: GitLab, Kanban, REST API
+
+WORK EXPERIENCE
+Machine Learning Engineer - Amazon (2021 - Present)
+• Developed applications using JavaScript and Public Speaking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified

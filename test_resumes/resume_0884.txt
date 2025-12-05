@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 1 years of experience in software development and technology.
+Strong background in TypeScript, DynamoDB, Scikit-learn.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, MATLAB
+Technologies: Svelte, Bootstrap, Nuxt.js
+Databases: DynamoDB, Redis
+Cloud Platforms: Terraform, OpenShift
+Tools: SOAP, DevOps
+
+WORK EXPERIENCE
+Business Analyst - Microsoft (2023 - Present)
+• Developed applications using TypeScript and DynamoDB
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+NYU
+Graduated: 2019
+
+CERTIFICATIONS
+Scrum Master, Oracle Certified

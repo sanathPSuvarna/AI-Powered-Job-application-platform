@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 5 years of experience in software development and technology.
+Strong background in Time Management, Team Collaboration, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, Rust, PHP, MATLAB
+Technologies: Svelte
+Databases: InfluxDB, SQLite
+Cloud Platforms: Google Cloud Platform
+Tools: GitLab, Kanban, Bitbucket
+
+WORK EXPERIENCE
+Software Architect - Apple (2019 - Present)
+• Developed applications using Time Management and Team Collaboration
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Computer Science
+Purdue University
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified, Google Cloud Certified, Salesforce Certified

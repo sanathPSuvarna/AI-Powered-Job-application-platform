@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 4 years of experience in software development and technology.
+Strong background in Communication, Google Cloud SQL, C++.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Rust, MATLAB
+Technologies: CSS
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Slack, JIRA
+
+WORK EXPERIENCE
+Business Analyst - Tesla (2020 - Present)
+• Developed applications using Communication and Google Cloud SQL
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+Scrum Master

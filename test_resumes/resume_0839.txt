@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, Chef, Plotly.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript
+Technologies: LESS, Node.js
+Databases: MySQL
+Cloud Platforms: Chef, Vagrant
+Tools: Slack, InVision
+
+WORK EXPERIENCE
+Full Stack Developer - IBM (2024 - Present)
+• Developed applications using Oracle Certified and Chef
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+

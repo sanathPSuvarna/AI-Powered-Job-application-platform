@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 0 years of experience in software development and technology.
+Strong background in Critical Thinking, Time Management, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Groovy, MATLAB
+Technologies: SASS, Webpack, Gatsby
+Databases: InfluxDB
+Cloud Platforms: Docker, Puppet
+Tools: Confluence, Sketch
+
+WORK EXPERIENCE
+System Administrator - Salesforce (2024 - Present)
+• Developed applications using Critical Thinking and Time Management
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Business Administration
+Stanford University
+Graduated: 2020
+
+CERTIFICATIONS

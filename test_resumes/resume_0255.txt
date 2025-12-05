@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, Figma.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Swift, C#, Java
+Technologies: Angular
+Databases: MariaDB, InfluxDB
+Cloud Platforms: GitHub Actions, Docker
+Tools: Figma, SOAP
+
+WORK EXPERIENCE
+Project Manager - Microsoft (2019 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+USC
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, AWS Certified, Scrum Master

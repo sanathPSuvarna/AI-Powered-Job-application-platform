@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 1 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Public Speaking, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Python
+Technologies: Express.js, Gatsby
+Databases: Cassandra, Oracle
+Cloud Platforms: GitLab CI/CD, Terraform
+Tools: Postman, REST API
+
+WORK EXPERIENCE
+Full Stack Developer - NVIDIA (2023 - Present)
+• Developed applications using GitLab CI/CD and Public Speaking
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2019
+
+CERTIFICATIONS
+AWS Certified, Scrum Master

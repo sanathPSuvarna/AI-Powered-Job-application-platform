@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 7 years of experience in software development and technology.
+Strong background in PostgreSQL, Amazon RDS, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, C++, MATLAB
+Technologies: Django, Nuxt.js
+Databases: PostgreSQL, Amazon RDS
+Cloud Platforms: CircleCI, Puppet
+Tools: JIRA, Confluence, Bitbucket
+
+WORK EXPERIENCE
+Business Analyst - Dell (2017 - Present)
+• Developed applications using PostgreSQL and Amazon RDS
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Salesforce Certified, Microsoft Certified

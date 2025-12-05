@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 14 years of experience in software development and technology.
+Strong background in Pandas, Oracle, Postman.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, F#, JavaScript, Rust
+Technologies: CSS, Webpack
+Databases: Oracle, MySQL, Redis
+Cloud Platforms: AWS
+Tools: Postman, GraphQL, Scrum, Agile, Figma
+
+WORK EXPERIENCE
+Machine Learning Engineer - HP (2010 - Present)
+• Developed applications using Pandas and Oracle
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2006
+
+CERTIFICATIONS
+Scrum Master, Oracle Certified

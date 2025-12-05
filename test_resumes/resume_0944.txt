@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 6 years of experience in software development and technology.
+Strong background in Time Management, InVision, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Rust, Scala
+Technologies: Angular, Gatsby, CSS
+Databases: Amazon RDS, CouchDB
+Cloud Platforms: 
+Tools: InVision, GraphQL, REST API, GitLab
+
+WORK EXPERIENCE
+Product Manager - Dropbox (2018 - Present)
+• Developed applications using Time Management and InVision
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Machine Learning
+UC Berkeley
+Graduated: 2014
+
+CERTIFICATIONS
+Salesforce Certified, Azure Certified, Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 6 years of experience in software development and technology.
+Strong background in Team Collaboration, HTML, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Ruby, C++, Scala
+Technologies: HTML, React
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: InVision, Bitbucket
+
+WORK EXPERIENCE
+Technical Writer - Intel (2018 - Present)
+• Developed applications using Team Collaboration and HTML
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Machine Learning
+Georgia Tech
+Graduated: 2014
+
+CERTIFICATIONS
+PMP

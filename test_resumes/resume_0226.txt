@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 7 years of experience in software development and technology.
+Strong background in PostgreSQL, Objective-C, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, VBA, Go, Ruby
+Technologies: jQuery, Gatsby
+Databases: PostgreSQL, Cassandra
+Cloud Platforms: Vagrant
+Tools: InVision, Zoom, Scrum, Agile
+
+WORK EXPERIENCE
+Software Architect - Intel (2017 - Present)
+• Developed applications using PostgreSQL and Objective-C
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UC Berkeley
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, PMP, Salesforce Certified

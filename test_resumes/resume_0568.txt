@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 2 years of experience in software development and technology.
+Strong background in Nuxt.js, Communication, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, PHP, Scala
+Technologies: Nuxt.js, jQuery, Flask
+Databases: DynamoDB
+Cloud Platforms: Ansible
+Tools: Slack, Kanban, Figma, Sketch
+
+WORK EXPERIENCE
+Tech Lead - Facebook (2022 - Present)
+• Developed applications using Nuxt.js and Communication
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Purdue University
+Graduated: 2018
+
+CERTIFICATIONS
+CISSP, Microsoft Certified

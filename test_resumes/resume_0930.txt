@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 3 years of experience in software development and technology.
+Strong background in Shell Scripting, Google Cloud SQL, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Go, Java
+Technologies: Spring Boot, Flask
+Databases: Google Cloud SQL, Oracle
+Cloud Platforms: Docker, CircleCI
+Tools: Zoom, Swagger, Confluence, Kanban
+
+WORK EXPERIENCE
+QA Engineer - Google (2021 - Present)
+• Developed applications using Shell Scripting and Google Cloud SQL
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified

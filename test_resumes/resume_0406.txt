@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 1 years of experience in software development and technology.
+Strong background in Oracle Certified, Critical Thinking, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Go, Rust, C#
+Technologies: Webpack
+Databases: Neo4j
+Cloud Platforms: CircleCI
+Tools: Scrum, GitHub, Figma, JIRA
+
+WORK EXPERIENCE
+Software Architect - Yahoo (2023 - Present)
+• Developed applications using Oracle Certified and Critical Thinking
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified

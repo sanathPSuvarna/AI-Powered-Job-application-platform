@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10 years of experience in software development and technology.
+Strong background in Shell Scripting, Adobe Creative Suite, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python, Clojure, Scala
+Technologies: Gatsby, Babel
+Databases: SQL Server, Firebase
+Cloud Platforms: Jenkins, Docker, Puppet
+Tools: Adobe Creative Suite, REST API, Microsoft Teams, Figma, DevOps
+
+WORK EXPERIENCE
+Data Analyst - Netflix (2014 - Present)
+• Developed applications using Shell Scripting and Adobe Creative Suite
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2010
+
+CERTIFICATIONS
+Google Cloud Certified, Oracle Certified, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 2 years of experience in software development and technology.
+Strong background in Cisco Certified, SOAP, Negotiation.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, C++, Rust
+Technologies: Gatsby, Next.js
+Databases: MongoDB, Redis
+Cloud Platforms: Terraform
+Tools: SOAP, JIRA, GraphQL, Figma
+
+WORK EXPERIENCE
+Product Manager - Intel (2022 - Present)
+• Developed applications using Cisco Certified and SOAP
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Machine Learning
+Princeton University
+Graduated: 2018
+
+CERTIFICATIONS
+Cisco Certified, AWS Certified

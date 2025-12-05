@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 0 years of experience in software development and technology.
+Strong background in Clojure, Creativity, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Objective-C, PowerShell, C#
+Technologies: Next.js, Gatsby, Flask
+Databases: SQLite, CouchDB
+Cloud Platforms: 
+Tools: Scrum, JIRA, DevOps, Sketch
+
+WORK EXPERIENCE
+Software Architect - LinkedIn (2024 - Present)
+• Developed applications using Clojure and Creativity
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Business Administration
+UCLA
+Graduated: 2020
+
+CERTIFICATIONS
+PMP

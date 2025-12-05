@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 5 years of experience in software development and technology.
+Strong background in Team Collaboration, Public Speaking, MongoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Groovy, Scala
+Technologies: Node.js, Express.js
+Databases: MongoDB
+Cloud Platforms: 
+Tools: GitHub, Bitbucket
+
+WORK EXPERIENCE
+Data Analyst - IBM (2019 - Present)
+• Developed applications using Team Collaboration and Public Speaking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+PMP

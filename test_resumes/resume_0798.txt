@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Technical Writer with 10 years of experience in software development and technology.
+Strong background in Shell Scripting, Adobe Creative Suite, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Dart, Kotlin
+Technologies: Next.js, Svelte, Bootstrap
+Databases: SQL Server, MySQL, SQLite
+Cloud Platforms: Ansible, GitHub Actions, Heroku
+Tools: Adobe Creative Suite, InVision, Git, Kanban, Figma
+
+WORK EXPERIENCE
+Technical Writer - Microsoft (2014 - Present)
+• Developed applications using Shell Scripting and Adobe Creative Suite
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Stanford University
+Graduated: 2010
+
+CERTIFICATIONS
+Cisco Certified, Oracle Certified, Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 4 years of experience in software development and technology.
+Strong background in InVision, Scrum Master, Problem Solving.
+
+TECHNICAL SKILLS
+Programming Languages: Go, C++, Ruby
+Technologies: Spring Boot, CSS, Flask
+Databases: InfluxDB
+Cloud Platforms: Azure, Heroku
+Tools: InVision, REST API, Kanban
+
+WORK EXPERIENCE
+Tech Lead - Microsoft (2020 - Present)
+• Developed applications using InVision and Scrum Master
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Business Administration
+University of Illinois
+Graduated: 2016
+
+CERTIFICATIONS
+Scrum Master

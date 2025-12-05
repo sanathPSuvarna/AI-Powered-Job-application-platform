@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 0 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Plotly, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: F#, C#
+Technologies: Node.js
+Databases: Oracle, SQLite
+Cloud Platforms: GitLab CI/CD, Google Cloud Platform
+Tools: Zoom, Swagger, Slack, Microservices
+
+WORK EXPERIENCE
+Senior Software Engineer - Twitter (2024 - Present)
+• Developed applications using GitLab CI/CD and Plotly
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2020
+
+CERTIFICATIONS
+AWS Certified

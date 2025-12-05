@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, CompTIA Security+, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C++
+Technologies: Flask, Vue.js
+Databases: MongoDB, Firebase
+Cloud Platforms: Docker
+Tools: GitLab, Agile, Figma, REST API
+
+WORK EXPERIENCE
+Business Analyst - Airbnb (2020 - Present)
+• Developed applications using Oracle Certified and CompTIA Security+
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Business Administration
+Harvard University
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+, Scrum Master

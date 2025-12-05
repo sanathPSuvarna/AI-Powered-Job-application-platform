@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 12 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Neo4j, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, C++, Clojure, PHP, Scala
+Technologies: jQuery, Vue.js, Next.js
+Databases: Google Cloud SQL, Neo4j, DynamoDB
+Cloud Platforms: Google Cloud Platform
+Tools: SOAP, GitLab, Agile, Figma
+
+WORK EXPERIENCE
+Machine Learning Engineer - Google (2012 - Present)
+• Developed applications using Google Cloud SQL and Neo4j
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2008
+
+CERTIFICATIONS
+Scrum Master, Oracle Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Team Collaboration, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart, Java
+Technologies: Spring Boot
+Databases: InfluxDB, Firebase
+Cloud Platforms: 
+Tools: Agile, Git
+
+WORK EXPERIENCE
+Backend Developer - Facebook (2018 - Present)
+• Developed applications using CompTIA Security+ and Team Collaboration
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Microsoft Certified, CISSP

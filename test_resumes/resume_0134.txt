@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 4 years of experience in software development and technology.
+Strong background in Team Collaboration, Creativity, LESS.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Scala
+Technologies: LESS, Bootstrap
+Databases: Amazon RDS
+Cloud Platforms: 
+Tools: Swagger, JIRA
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Google (2020 - Present)
+• Developed applications using Team Collaboration and Creativity
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UCLA
+Graduated: 2016
+
+CERTIFICATIONS
+CISSP, Google Cloud Certified

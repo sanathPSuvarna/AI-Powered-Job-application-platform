@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in PyTorch, Ansible, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Groovy, C++
+Technologies: Express.js
+Databases: Firebase, Redis
+Cloud Platforms: Ansible, Azure
+Tools: Sketch, GitHub, DevOps, GraphQL
+
+WORK EXPERIENCE
+Project Manager - Dropbox (2019 - Present)
+• Developed applications using PyTorch and Ansible
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified

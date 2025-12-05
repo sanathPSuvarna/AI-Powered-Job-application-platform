@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 3 years of experience in software development and technology.
+Strong background in Ansible, HTML, AWS.
+
+TECHNICAL SKILLS
+Programming Languages: Go, JavaScript, C++
+Technologies: HTML
+Databases: Amazon RDS
+Cloud Platforms: Ansible, AWS
+Tools: Git, GitHub, Microservices, JIRA
+
+WORK EXPERIENCE
+Solutions Architect - Dell (2021 - Present)
+• Developed applications using Ansible and HTML
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Machine Learning
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+Scrum Master

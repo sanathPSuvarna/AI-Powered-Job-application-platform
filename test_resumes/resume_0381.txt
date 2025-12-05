@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 7 years of experience in software development and technology.
+Strong background in Plotly, R, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: R, Go, Groovy, Haskell
+Technologies: Bootstrap
+Databases: MongoDB
+Cloud Platforms: 
+Tools: Zoom, REST API
+
+WORK EXPERIENCE
+Technical Writer - Google (2017 - Present)
+• Developed applications using Plotly and R
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+Salesforce Certified

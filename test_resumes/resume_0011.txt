@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 3 years of experience in software development and technology.
+Strong background in Critical Thinking, Power BI, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, F#
+Technologies: Babel
+Databases: Firebase, MySQL
+Cloud Platforms: DigitalOcean
+Tools: Adobe Creative Suite, GitLab
+
+WORK EXPERIENCE
+Data Analyst - IBM (2021 - Present)
+• Developed applications using Critical Thinking and Power BI
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2017
+
+CERTIFICATIONS
+Microsoft Certified

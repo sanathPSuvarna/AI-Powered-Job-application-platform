@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 10 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Angular, Negotiation.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Java, C++, Rust
+Technologies: Angular, Spring Boot, Nuxt.js, Next.js
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: Docker, CircleCI
+Tools: JIRA, Confluence, REST API
+
+WORK EXPERIENCE
+Machine Learning Engineer - Square (2014 - Present)
+• Developed applications using Google Cloud SQL and Angular
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Engineering in Data Science
+NYU
+Graduated: 2010
+
+CERTIFICATIONS
+Salesforce Certified

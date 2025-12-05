@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 6 years of experience in software development and technology.
+Strong background in Shell Scripting, Firebase, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C#, Python
+Technologies: Vue.js, Svelte, Next.js
+Databases: Firebase, InfluxDB
+Cloud Platforms: GitLab CI/CD, DigitalOcean
+Tools: Sketch, DevOps
+
+WORK EXPERIENCE
+Solutions Architect - Netflix (2018 - Present)
+• Developed applications using Shell Scripting and Firebase
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Engineering in Data Science
+UCLA
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, Salesforce Certified

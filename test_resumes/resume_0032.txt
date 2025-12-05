@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 7 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Power BI.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Java
+Technologies: Django
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: Scrum, InVision, REST API
+
+WORK EXPERIENCE
+UI/UX Designer - Adobe (2017 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Django
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

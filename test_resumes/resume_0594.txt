@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 8 years of experience in software development and technology.
+Strong background in Pandas, Adobe Creative Suite, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Swift, Clojure, Kotlin, Scala
+Technologies: Angular, Webpack, LESS
+Databases: SQL Server, Cassandra
+Cloud Platforms: AWS, Azure, Heroku
+Tools: Adobe Creative Suite, Git, Swagger, Microservices, GitLab
+
+WORK EXPERIENCE
+Business Analyst - Slack (2016 - Present)
+• Developed applications using Pandas and Adobe Creative Suite
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Georgia Tech
+Graduated: 2012
+
+CERTIFICATIONS
+Azure Certified, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 1 years of experience in software development and technology.
+Strong background in Critical Thinking, R, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: R, Kotlin
+Technologies: Babel
+Databases: Neo4j, CouchDB
+Cloud Platforms: Kubernetes
+Tools: Zoom, GitLab, JIRA
+
+WORK EXPERIENCE
+Data Scientist - Amazon (2023 - Present)
+• Developed applications using Critical Thinking and R
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2019
+
+CERTIFICATIONS
+Google Cloud Certified

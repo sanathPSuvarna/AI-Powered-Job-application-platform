@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 5 years of experience in software development and technology.
+Strong background in Creativity, Kotlin, F#.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, F#, Python, MATLAB
+Technologies: Express.js
+Databases: Elasticsearch, Redis
+Cloud Platforms: 
+Tools: Agile, Microservices
+
+WORK EXPERIENCE
+Full Stack Developer - LinkedIn (2019 - Present)
+• Developed applications using Creativity and Kotlin
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Objective-C
+Technologies: Svelte, Laravel
+Databases: SQLite, MySQL
+Cloud Platforms: Terraform
+Tools: GitLab, Microsoft Teams
+
+WORK EXPERIENCE
+Tech Lead - Facebook (2021 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+MIT
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

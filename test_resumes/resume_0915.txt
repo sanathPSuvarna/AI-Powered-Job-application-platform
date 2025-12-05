@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 0 years of experience in software development and technology.
+Strong background in Creativity, Decision Making, GitLab.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript, C++
+Technologies: jQuery
+Databases: Redis
+Cloud Platforms: 
+Tools: GitLab, Git, Swagger
+
+WORK EXPERIENCE
+Senior Software Engineer - Airbnb (2024 - Present)
+• Developed applications using Creativity and Decision Making
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2020
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 7 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, Objective-C, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, Haskell, PHP
+Technologies: HTML, CSS, Webpack
+Databases: Oracle, MySQL
+Cloud Platforms: Docker, GitLab CI/CD
+Tools: Adobe Creative Suite, SOAP, GraphQL
+
+WORK EXPERIENCE
+DevOps Engineer - Oracle (2017 - Present)
+• Developed applications using Adobe Creative Suite and Objective-C
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2013
+
+CERTIFICATIONS
+Scrum Master, Microsoft Certified

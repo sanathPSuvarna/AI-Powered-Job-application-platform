@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 7 years of experience in software development and technology.
+Strong background in Nuxt.js, CompTIA Security+, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, PHP
+Technologies: Nuxt.js, React
+Databases: Amazon RDS
+Cloud Platforms: 
+Tools: Microsoft Teams, Figma
+
+WORK EXPERIENCE
+Full Stack Developer - Oracle (2017 - Present)
+• Developed applications using Nuxt.js and CompTIA Security+
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Machine Learning
+Columbia University
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

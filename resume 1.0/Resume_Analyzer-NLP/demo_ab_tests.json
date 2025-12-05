@@ -1,0 +1,88 @@
+{
+  "tests": {
+    "69044099-c262-4685-9b91-babacbe4a352": {
+      "test_id": "69044099-c262-4685-9b91-babacbe4a352",
+      "name": "Embedding Weight Optimization",
+      "description": "Test higher embedding weights vs baseline",
+      "variants": [
+        {
+          "variant_id": "control_baseline",
+          "name": "Baseline Configuration",
+          "description": "Current production config",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.25
+          },
+          "traffic_percentage": 50.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "embedding_focused",
+          "name": "Embedding-Focused Config",
+          "description": "Higher weight on semantic embeddings",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.1,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.5
+          },
+          "traffic_percentage": 50.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-06T21:32:41.050997",
+      "end_date": "2025-10-20T21:32:41.050004",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 50,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    },
+    "be537fbe-9af5-440e-8490-5cd9c2a1e34e": {
+      "test_id": "be537fbe-9af5-440e-8490-5cd9c2a1e34e",
+      "name": "Embedding Weight Optimization",
+      "description": "Test higher embedding weights vs baseline",
+      "variants": [
+        {
+          "variant_id": "control_baseline",
+          "name": "Baseline Configuration",
+          "description": "Current production config",
+          "config": {
+            "spacy_weight": 0.3,
+            "fuzzy_weight": 0.2,
+            "tfidf_weight": 0.25,
+            "embedding_weight": 0.25
+          },
+          "traffic_percentage": 50.0,
+          "is_control": true
+        },
+        {
+          "variant_id": "embedding_focused",
+          "name": "Embedding-Focused Config",
+          "description": "Higher weight on semantic embeddings",
+          "config": {
+            "spacy_weight": 0.2,
+            "fuzzy_weight": 0.1,
+            "tfidf_weight": 0.2,
+            "embedding_weight": 0.5
+          },
+          "traffic_percentage": 50.0,
+          "is_control": false
+        }
+      ],
+      "start_date": "2025-10-06T21:42:27.877590",
+      "end_date": "2025-10-20T21:42:27.876594",
+      "status": "active",
+      "target_metric": "f1_score",
+      "minimum_sample_size": 50,
+      "confidence_level": 0.95,
+      "power": 0.8,
+      "created_by": "system"
+    }
+  },
+  "user_assignments": {},
+  "test_results": {}
+}

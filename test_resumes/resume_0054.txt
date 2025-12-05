@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Project Manager with 1 years of experience in software development and technology.
+Strong background in Clojure, Chef, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, PowerShell
+Technologies: HTML, Express.js, Bootstrap
+Databases: MySQL
+Cloud Platforms: Chef, Azure
+Tools: REST API, Figma
+
+WORK EXPERIENCE
+Project Manager - Zoom (2023 - Present)
+• Developed applications using Clojure and Chef
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UCLA
+Graduated: 2019
+
+CERTIFICATIONS
+Azure Certified, PMP

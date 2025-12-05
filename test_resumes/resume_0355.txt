@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in Creativity, Big Data, LESS.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, VBA
+Technologies: LESS, Spring Boot
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: Adobe Creative Suite, GraphQL, DevOps, Confluence
+
+WORK EXPERIENCE
+Frontend Developer - Dropbox (2017 - Present)
+• Developed applications using Creativity and Big Data
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Science in Machine Learning
+Georgia Tech
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP

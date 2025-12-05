@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 12 years of experience in software development and technology.
+Strong background in jQuery, DynamoDB, Firebase.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Go, Kotlin, MATLAB
+Technologies: jQuery, CSS
+Databases: DynamoDB, Firebase, MongoDB
+Cloud Platforms: Ansible, Puppet
+Tools: Bitbucket, Sketch, GitHub, Figma
+
+WORK EXPERIENCE
+Business Analyst - Netflix (2012 - Present)
+• Developed applications using jQuery and DynamoDB
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2008
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified

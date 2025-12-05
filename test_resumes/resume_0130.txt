@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 2 years of experience in software development and technology.
+Strong background in Plotly, Shell Scripting, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin, C#, Scala
+Technologies: jQuery, Spring Boot, CSS
+Databases: PostgreSQL
+Cloud Platforms: AWS, Azure
+Tools: GitLab, Sketch, Agile, InVision
+
+WORK EXPERIENCE
+Machine Learning Engineer - Twitter (2022 - Present)
+• Developed applications using Plotly and Shell Scripting
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+USC
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Technical Writer with 2 years of experience in software development and technology.
+Strong background in Communication, Objective-C, AWS.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Haskell
+Technologies: Express.js, Vue.js
+Databases: Cassandra, Firebase
+Cloud Platforms: AWS, Google Cloud Platform
+Tools: Slack, Sketch
+
+WORK EXPERIENCE
+Technical Writer - eBay (2022 - Present)
+• Developed applications using Communication and Objective-C
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 4 years of experience in software development and technology.
+Strong background in Time Management, Cisco Certified, Postman.
+
+TECHNICAL SKILLS
+Programming Languages: F#, PHP, MATLAB
+Technologies: Gatsby, Babel, Spring Boot
+Databases: MySQL, SQLite
+Cloud Platforms: Jenkins
+Tools: Postman, Scrum, GitHub
+
+WORK EXPERIENCE
+Database Administrator - Square (2020 - Present)
+• Developed applications using Time Management and Cisco Certified
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

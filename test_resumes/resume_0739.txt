@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 4 years of experience in software development and technology.
+Strong background in Django, CompTIA Security+, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, Scala
+Technologies: Django, Next.js
+Databases: MySQL
+Cloud Platforms: Azure
+Tools: Zoom, Adobe Creative Suite, Kanban, Git
+
+WORK EXPERIENCE
+Database Administrator - Facebook (2020 - Present)
+• Developed applications using Django and CompTIA Security+
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UCLA
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, PMP

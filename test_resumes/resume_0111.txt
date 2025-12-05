@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Public Speaking, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: F#, JavaScript
+Technologies: Webpack
+Databases: SQLite, DynamoDB
+Cloud Platforms: 
+Tools: Swagger, Agile, SOAP, Sketch
+
+WORK EXPERIENCE
+QA Engineer - LinkedIn (2020 - Present)
+• Developed applications using Oracle Certified and Public Speaking
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Machine Learning
+UC Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, Microsoft Certified, Salesforce Certified

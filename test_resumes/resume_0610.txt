@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Scrum, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, TypeScript, PHP, C++
+Technologies: Nuxt.js, Laravel
+Databases: SQL Server
+Cloud Platforms: AWS, GitHub Actions
+Tools: Scrum, Adobe Creative Suite, Microsoft Teams
+
+WORK EXPERIENCE
+UI/UX Designer - NVIDIA (2019 - Present)
+• Developed applications using Nuxt.js and Scrum
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified

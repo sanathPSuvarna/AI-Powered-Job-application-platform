@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 0 years of experience in software development and technology.
+Strong background in Heroku, CompTIA Security+, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript
+Technologies: HTML, LESS
+Databases: Neo4j, CouchDB
+Cloud Platforms: Heroku, GitHub Actions
+Tools: Agile, Figma
+
+WORK EXPERIENCE
+DevOps Engineer - NVIDIA (2024 - Present)
+• Developed applications using Heroku and CompTIA Security+
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2020
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 13 years of experience in software development and technology.
+Strong background in SASS, Objective-C, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, Go, R, MATLAB
+Technologies: SASS, Express.js, Next.js
+Databases: Oracle, Neo4j, InfluxDB
+Cloud Platforms: AWS
+Tools: Postman, Zoom, Swagger, Bitbucket, Sketch
+
+WORK EXPERIENCE
+Software Architect - Zoom (2011 - Present)
+• Developed applications using SASS and Objective-C
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Yale University
+Graduated: 2007
+
+CERTIFICATIONS
+Scrum Master, CISSP, AWS Certified

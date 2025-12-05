@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 9 years of experience in software development and technology.
+Strong background in SASS, Pandas, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Perl, JavaScript, Clojure, Groovy
+Technologies: SASS, jQuery, Svelte
+Databases: Oracle, MySQL
+Cloud Platforms: Jenkins, Docker, GitLab CI/CD
+Tools: Postman, Zoom, Bitbucket, Agile, DevOps
+
+WORK EXPERIENCE
+Network Engineer - Google (2015 - Present)
+• Developed applications using SASS and Pandas
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2011
+
+CERTIFICATIONS
+Microsoft Certified

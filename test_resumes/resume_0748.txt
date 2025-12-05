@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, GitLab CI/CD, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: C#, MATLAB
+Technologies: React
+Databases: Redis, MySQL
+Cloud Platforms: GitLab CI/CD, Ansible
+Tools: Microsoft Teams, InVision
+
+WORK EXPERIENCE
+Product Manager - Salesforce (2017 - Present)
+• Developed applications using CompTIA Security+ and GitLab CI/CD
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+

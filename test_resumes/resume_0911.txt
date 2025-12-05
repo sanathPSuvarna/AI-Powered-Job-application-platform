@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 0 years of experience in software development and technology.
+Strong background in Critical Thinking, Kanban, Leadership.
+
+TECHNICAL SKILLS
+Programming Languages: MATLAB, Scala, Dart
+Technologies: Flask
+Databases: Elasticsearch, MySQL
+Cloud Platforms: Jenkins, Vagrant
+Tools: Kanban, SOAP
+
+WORK EXPERIENCE
+Business Analyst - Apple (2024 - Present)
+• Developed applications using Critical Thinking and Kanban
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+MIT
+Graduated: 2020
+
+CERTIFICATIONS
+CISSP

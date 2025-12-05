@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 3 years of experience in software development and technology.
+Strong background in MariaDB, Google Cloud Certified, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, VBA, Rust, C++
+Technologies: Express.js, Gatsby
+Databases: MariaDB
+Cloud Platforms: Kubernetes
+Tools: GitLab, InVision, Figma, REST API
+
+WORK EXPERIENCE
+Engineering Manager - NVIDIA (2021 - Present)
+• Developed applications using MariaDB and Google Cloud Certified
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Computer Science
+UT Austin
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified

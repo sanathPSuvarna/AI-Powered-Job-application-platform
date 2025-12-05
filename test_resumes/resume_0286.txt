@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 0 years of experience in software development and technology.
+Strong background in Shell Scripting, Communication, AWS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Groovy, TypeScript, Scala
+Technologies: jQuery
+Databases: CouchDB
+Cloud Platforms: AWS, Kubernetes
+Tools: Git, Confluence, GitHub, Microservices
+
+WORK EXPERIENCE
+Business Analyst - PayPal (2024 - Present)
+• Developed applications using Shell Scripting and Communication
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2020
+
+CERTIFICATIONS

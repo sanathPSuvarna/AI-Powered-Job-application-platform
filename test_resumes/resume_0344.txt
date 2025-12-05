@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 3 years of experience in software development and technology.
+Strong background in Neo4j, Adaptability, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, C++
+Technologies: Angular, Express.js
+Databases: Neo4j, DynamoDB
+Cloud Platforms: Jenkins, Docker
+Tools: GraphQL, Bitbucket, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Technical Writer - Square (2021 - Present)
+• Developed applications using Neo4j and Adaptability
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified, Azure Certified

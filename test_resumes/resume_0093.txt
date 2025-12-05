@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 8 years of experience in software development and technology.
+Strong background in Cisco Certified, InVision, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Clojure, R, Groovy
+Technologies: Gatsby, Babel, Nuxt.js
+Databases: MySQL, MongoDB
+Cloud Platforms: Terraform, OpenShift
+Tools: InVision, REST API, GitHub, Figma
+
+WORK EXPERIENCE
+Network Engineer - Microsoft (2016 - Present)
+• Developed applications using Cisco Certified and InVision
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2012
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, AWS Certified

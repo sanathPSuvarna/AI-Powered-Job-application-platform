@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 7 years of experience in software development and technology.
+Strong background in Critical Thinking, Google Cloud Certified, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go
+Technologies: Gatsby, CSS
+Databases: SQL Server
+Cloud Platforms: GitHub Actions, Puppet
+Tools: GraphQL, Git, REST API
+
+WORK EXPERIENCE
+Backend Developer - Intel (2017 - Present)
+• Developed applications using Critical Thinking and Google Cloud Certified
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, PMP

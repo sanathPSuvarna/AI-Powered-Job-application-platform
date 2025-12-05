@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Technical Writer with 11 years of experience in software development and technology.
+Strong background in CompTIA Security+, SASS, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Ruby, Scala
+Technologies: SASS, Svelte, Spring Boot
+Databases: Neo4j, Amazon RDS
+Cloud Platforms: Vagrant
+Tools: Adobe Creative Suite, InVision, Postman, Microservices, Sketch
+
+WORK EXPERIENCE
+Technical Writer - LinkedIn (2013 - Present)
+• Developed applications using CompTIA Security+ and SASS
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2009
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, AWS Certified

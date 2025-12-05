@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 2 years of experience in software development and technology.
+Strong background in Shell Scripting, Creativity, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, F#, JavaScript, Java
+Technologies: jQuery, Vue.js
+Databases: Firebase
+Cloud Platforms: 
+Tools: Zoom, GraphQL, Swagger, Postman
+
+WORK EXPERIENCE
+Senior Software Engineer - Adobe (2022 - Present)
+• Developed applications using Shell Scripting and Creativity
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Computer Science
+MIT
+Graduated: 2018
+
+CERTIFICATIONS

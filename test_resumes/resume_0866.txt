@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 6 years of experience in software development and technology.
+Strong background in R, Time Management, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: R, PowerShell, Swift
+Technologies: Svelte, jQuery, Babel
+Databases: SQLite
+Cloud Platforms: 
+Tools: Slack, GitHub
+
+WORK EXPERIENCE
+Solutions Architect - VMware (2018 - Present)
+• Developed applications using R and Time Management
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Purdue University
+Graduated: 2014
+
+CERTIFICATIONS
+PMP

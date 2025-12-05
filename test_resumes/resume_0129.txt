@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 4 years of experience in software development and technology.
+Strong background in Django, CompTIA Security+, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, JavaScript, C#, Dart
+Technologies: Django, Gatsby
+Databases: InfluxDB, DynamoDB
+Cloud Platforms: Jenkins
+Tools: Agile, JIRA
+
+WORK EXPERIENCE
+Senior Software Engineer - Shopify (2020 - Present)
+• Developed applications using Django and CompTIA Security+
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, Power BI, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Go, C#, Scala
+Technologies: HTML
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: Adobe Creative Suite, InVision, Confluence
+
+WORK EXPERIENCE
+Full Stack Developer - Airbnb (2017 - Present)
+• Developed applications using Oracle Certified and Power BI
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified, Scrum Master

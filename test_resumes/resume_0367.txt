@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 5 years of experience in software development and technology.
+Strong background in Zoom, Ansible, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Haskell, Dart, Java
+Technologies: Flask, React
+Databases: Elasticsearch
+Cloud Platforms: Ansible
+Tools: Zoom, JIRA, Git
+
+WORK EXPERIENCE
+System Administrator - Netflix (2019 - Present)
+• Developed applications using Zoom and Ansible
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with React
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified

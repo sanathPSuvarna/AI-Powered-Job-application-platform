@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 6 years of experience in software development and technology.
+Strong background in Time Management, Zoom, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, Scala, Haskell, Java
+Technologies: Webpack, LESS, Gatsby
+Databases: MongoDB
+Cloud Platforms: AWS, Jenkins
+Tools: Zoom, Microservices, Sketch
+
+WORK EXPERIENCE
+Data Scientist - LinkedIn (2018 - Present)
+• Developed applications using Time Management and Zoom
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Engineering in Data Science
+Princeton University
+Graduated: 2014
+
+CERTIFICATIONS
+Cisco Certified

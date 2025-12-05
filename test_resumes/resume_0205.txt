@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, Plotly, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Swift, MATLAB, Haskell
+Technologies: HTML
+Databases: Firebase
+Cloud Platforms: 
+Tools: Zoom, Scrum, InVision, Sketch
+
+WORK EXPERIENCE
+Cybersecurity Analyst - NVIDIA (2024 - Present)
+• Developed applications using Oracle Certified and Plotly
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified

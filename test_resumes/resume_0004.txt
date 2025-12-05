@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 10 years of experience in software development and technology.
+Strong background in CompTIA Security+, Objective-C, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, VBA, C#, Scala
+Technologies: Bootstrap, Next.js
+Databases: Neo4j, CouchDB
+Cloud Platforms: Vagrant
+Tools: Git, JIRA, Microservices, Slack
+
+WORK EXPERIENCE
+Database Administrator - Netflix (2014 - Present)
+• Developed applications using CompTIA Security+ and Objective-C
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2010
+
+CERTIFICATIONS
+CompTIA Security+, PMP

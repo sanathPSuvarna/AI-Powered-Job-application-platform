@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 12 years of experience in software development and technology.
+Strong background in MariaDB, Time Management, Kanban.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Go, Swift, JavaScript, Kotlin
+Technologies: Bootstrap, Django
+Databases: MariaDB, InfluxDB
+Cloud Platforms: Ansible, GitHub Actions, Azure
+Tools: Kanban, Scrum, Agile, DevOps
+
+WORK EXPERIENCE
+Backend Developer - Amazon (2012 - Present)
+• Developed applications using MariaDB and Time Management
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2008
+
+CERTIFICATIONS
+Cisco Certified, PMP

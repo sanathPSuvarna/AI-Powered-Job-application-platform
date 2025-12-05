@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Heroku, Team Collaboration, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Go, C++
+Technologies: jQuery, Spring Boot
+Databases: Google Cloud SQL
+Cloud Platforms: Heroku, Vagrant
+Tools: Adobe Creative Suite, Scrum, Swagger, Sketch
+
+WORK EXPERIENCE
+Senior Software Engineer - VMware (2023 - Present)
+• Developed applications using Heroku and Team Collaboration
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University
+Graduated: 2019
+
+CERTIFICATIONS

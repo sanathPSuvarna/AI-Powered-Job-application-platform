@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 1 years of experience in software development and technology.
+Strong background in Communication, Time Management, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Go, C#
+Technologies: Angular, Bootstrap
+Databases: Google Cloud SQL, MySQL
+Cloud Platforms: AWS
+Tools: GitLab, Kanban
+
+WORK EXPERIENCE
+Machine Learning Engineer - eBay (2023 - Present)
+• Developed applications using Communication and Time Management
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified

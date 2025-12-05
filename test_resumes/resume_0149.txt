@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 11 years of experience in software development and technology.
+Strong background in PostgreSQL, Objective-C, Kanban.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Kotlin, Scala
+Technologies: Laravel, jQuery, HTML, Svelte
+Databases: PostgreSQL, CouchDB
+Cloud Platforms: Chef, Azure
+Tools: Kanban, Scrum, Microsoft Teams, GitHub
+
+WORK EXPERIENCE
+UI/UX Designer - eBay (2013 - Present)
+• Developed applications using PostgreSQL and Objective-C
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Information Technology
+UT Austin
+Graduated: 2009
+
+CERTIFICATIONS
+Google Cloud Certified

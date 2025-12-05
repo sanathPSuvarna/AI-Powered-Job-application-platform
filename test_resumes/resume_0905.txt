@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Engineering Manager with 13 years of experience in software development and technology.
+Strong background in SASS, SOAP, Git.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Kotlin, MATLAB
+Technologies: SASS, Vue.js
+Databases: Cassandra, InfluxDB
+Cloud Platforms: CircleCI
+Tools: SOAP, Git, Zoom, Swagger, Microsoft Teams
+
+WORK EXPERIENCE
+Engineering Manager - Tesla (2011 - Present)
+• Developed applications using SASS and SOAP
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Business Administration
+University of Michigan
+Graduated: 2007
+
+CERTIFICATIONS
+Salesforce Certified

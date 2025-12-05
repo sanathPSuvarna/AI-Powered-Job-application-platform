@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Oracle Certified, Communication, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Objective-C, JavaScript
+Technologies: Vue.js
+Databases: PostgreSQL
+Cloud Platforms: Kubernetes
+Tools: GraphQL, REST API
+
+WORK EXPERIENCE
+Software Engineer - Yahoo (2023 - Present)
+• Developed applications using Oracle Certified and Communication
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified, Cisco Certified

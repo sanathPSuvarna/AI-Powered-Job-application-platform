@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 3 years of experience in software development and technology.
+Strong background in Cisco Certified, Oracle, VBA.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, R, Rust, PHP
+Technologies: HTML, React
+Databases: Oracle, CouchDB
+Cloud Platforms: Ansible, OpenShift
+Tools: Zoom, Swagger, GitHub
+
+WORK EXPERIENCE
+Data Analyst - IBM (2021 - Present)
+• Developed applications using Cisco Certified and Oracle
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UT Austin
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, Salesforce Certified

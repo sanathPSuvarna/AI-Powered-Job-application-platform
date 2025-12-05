@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Oracle Certified, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, TypeScript, JavaScript
+Technologies: Nuxt.js, LESS, Laravel
+Databases: InfluxDB
+Cloud Platforms: OpenShift
+Tools: Zoom, GitLab, Microsoft Teams, Confluence
+
+WORK EXPERIENCE
+Senior Software Engineer - Dell (2019 - Present)
+• Developed applications using Nuxt.js and Oracle Certified
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+UC Berkeley
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+

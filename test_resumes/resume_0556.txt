@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 4 years of experience in software development and technology.
+Strong background in Critical Thinking, SASS, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, VBA, MATLAB
+Technologies: SASS, Laravel, Vue.js
+Databases: Cassandra
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Slack, Bitbucket, Sketch
+
+WORK EXPERIENCE
+QA Engineer - Cisco (2020 - Present)
+• Developed applications using Critical Thinking and SASS
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2016
+
+CERTIFICATIONS
+PMP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in Clojure, PyTorch, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, F#
+Technologies: Babel
+Databases: DynamoDB
+Cloud Platforms: Jenkins
+Tools: Bitbucket, Kanban, REST API
+
+WORK EXPERIENCE
+QA Engineer - Slack (2017 - Present)
+• Developed applications using Clojure and PyTorch
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Machine Learning
+UCLA
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 5 years of experience in software development and technology.
+Strong background in GitLab CI/CD, R, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: R, Swift
+Technologies: LESS, Gatsby
+Databases: SQLite
+Cloud Platforms: GitLab CI/CD, Google Cloud Platform
+Tools: Kanban, Microsoft Teams, SOAP, Git
+
+WORK EXPERIENCE
+DevOps Engineer - Slack (2019 - Present)
+• Developed applications using GitLab CI/CD and R
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UCLA
+Graduated: 2015
+
+CERTIFICATIONS
+CISSP

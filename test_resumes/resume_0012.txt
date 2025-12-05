@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 9 years of experience in software development and technology.
+Strong background in GitLab CI/CD, CSS, F#.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Rust, Haskell
+Technologies: CSS, Svelte, Laravel
+Databases: SQL Server, Cassandra
+Cloud Platforms: GitLab CI/CD, Chef
+Tools: SOAP, InVision, Sketch
+
+WORK EXPERIENCE
+Backend Developer - Google (2015 - Present)
+• Developed applications using GitLab CI/CD and CSS
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2011
+
+CERTIFICATIONS
+Microsoft Certified

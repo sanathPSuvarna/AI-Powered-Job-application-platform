@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Engineering Manager with 9 years of experience in software development and technology.
+Strong background in TypeScript, Strategic Planning, Scikit-learn.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript, R
+Technologies: Node.js, Bootstrap, Webpack, Django
+Databases: MySQL, InfluxDB
+Cloud Platforms: AWS, Docker
+Tools: Postman, Microservices, Microsoft Teams
+
+WORK EXPERIENCE
+Engineering Manager - Oracle (2015 - Present)
+• Developed applications using TypeScript and Strategic Planning
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2011
+
+CERTIFICATIONS
+Oracle Certified

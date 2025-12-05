@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Project Manager with 0 years of experience in software development and technology.
+Strong background in Heroku, Oracle Certified, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, Dart
+Technologies: Next.js, Bootstrap, React
+Databases: PostgreSQL
+Cloud Platforms: Heroku, CircleCI
+Tools: Scrum, Sketch, Bitbucket, Microservices
+
+WORK EXPERIENCE
+Project Manager - Oracle (2024 - Present)
+• Developed applications using Heroku and Oracle Certified
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified, Scrum Master

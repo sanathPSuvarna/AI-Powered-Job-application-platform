@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 4 years of experience in software development and technology.
+Strong background in CompTIA Security+, Oracle Certified, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Rust, JavaScript
+Technologies: Node.js, Express.js
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: Swagger, GitHub, JIRA
+
+WORK EXPERIENCE
+Frontend Developer - Netflix (2020 - Present)
+• Developed applications using CompTIA Security+ and Oracle Certified
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Yale University
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Oracle Certified, Microsoft Certified

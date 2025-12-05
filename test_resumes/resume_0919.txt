@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 11 years of experience in software development and technology.
+Strong background in MariaDB, Laravel, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Swift, Rust
+Technologies: Laravel, jQuery, CSS
+Databases: MariaDB, MongoDB
+Cloud Platforms: Vagrant, OpenShift
+Tools: InVision, Git, Bitbucket
+
+WORK EXPERIENCE
+UI/UX Designer - Apple (2013 - Present)
+• Developed applications using MariaDB and Laravel
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+Princeton University
+Graduated: 2009
+
+CERTIFICATIONS
+Azure Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 0 years of experience in software development and technology.
+Strong background in Public Speaking, MongoDB, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Scala
+Technologies: Laravel, Next.js
+Databases: MongoDB
+Cloud Platforms: CircleCI
+Tools: Microsoft Teams, GitHub, DevOps, JIRA
+
+WORK EXPERIENCE
+Software Architect - Airbnb (2024 - Present)
+• Developed applications using Public Speaking and MongoDB
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Computer Science
+USC
+Graduated: 2020
+
+CERTIFICATIONS

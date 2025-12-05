@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 8 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Haskell, F#
+Technologies: Next.js, Svelte, Bootstrap
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: Chef
+Tools: GitHub, Kanban, DevOps
+
+WORK EXPERIENCE
+Network Engineer - Tesla (2016 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2012
+
+CERTIFICATIONS
+CompTIA Security+, PMP, Azure Certified

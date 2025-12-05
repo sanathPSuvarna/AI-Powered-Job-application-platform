@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 9 years of experience in software development and technology.
+Strong background in CompTIA Security+, Amazon RDS, JIRA.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Go, Groovy, Scala
+Technologies: Svelte, Nuxt.js
+Databases: Amazon RDS, CouchDB
+Cloud Platforms: Puppet
+Tools: JIRA, Confluence, GraphQL, Microsoft Teams
+
+WORK EXPERIENCE
+Tech Lead - Google (2015 - Present)
+• Developed applications using CompTIA Security+ and Amazon RDS
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UT Austin
+Graduated: 2011
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

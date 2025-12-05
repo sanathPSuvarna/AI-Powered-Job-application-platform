@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 7 years of experience in software development and technology.
+Strong background in MariaDB, PyTorch, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Dart
+Technologies: Babel
+Databases: MariaDB, InfluxDB
+Cloud Platforms: GitHub Actions, CircleCI
+Tools: Agile, InVision, Postman, Git
+
+WORK EXPERIENCE
+Technical Writer - Amazon (2017 - Present)
+• Developed applications using MariaDB and PyTorch
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified

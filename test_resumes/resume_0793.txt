@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Engineering Manager with 11 years of experience in software development and technology.
+Strong background in CompTIA Security+, Google Cloud SQL, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Scala, Clojure, Ruby, PHP
+Technologies: Laravel, Angular, Svelte, React
+Databases: Google Cloud SQL, Amazon RDS, InfluxDB
+Cloud Platforms: CircleCI, Heroku, OpenShift
+Tools: InVision, Swagger, REST API, DevOps
+
+WORK EXPERIENCE
+Engineering Manager - Intel (2013 - Present)
+• Developed applications using CompTIA Security+ and Google Cloud SQL
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2009
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified

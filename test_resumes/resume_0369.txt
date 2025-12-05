@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 3 years of experience in software development and technology.
+Strong background in MariaDB, R, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: R, Go, VBA, Java
+Technologies: Node.js, Express.js
+Databases: MariaDB
+Cloud Platforms: AWS
+Tools: Kanban, Sketch
+
+WORK EXPERIENCE
+Machine Learning Engineer - eBay (2021 - Present)
+• Developed applications using MariaDB and R
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified

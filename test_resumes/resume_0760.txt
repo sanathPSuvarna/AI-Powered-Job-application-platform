@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, jQuery, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Swift, JavaScript, MATLAB
+Technologies: jQuery, Node.js, Bootstrap
+Databases: Amazon RDS, InfluxDB
+Cloud Platforms: 
+Tools: SOAP, Swagger, Microservices, Sketch
+
+WORK EXPERIENCE
+Data Analyst - Yahoo (2020 - Present)
+• Developed applications using Shell Scripting and jQuery
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+Salesforce Certified, Oracle Certified, CISSP

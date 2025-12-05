@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Objective-C, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Java, Kotlin, Ruby
+Technologies: jQuery, Angular, LESS
+Databases: Amazon RDS, Cassandra
+Cloud Platforms: Kubernetes
+Tools: SOAP, GraphQL, Figma
+
+WORK EXPERIENCE
+Data Analyst - NVIDIA (2017 - Present)
+• Developed applications using CompTIA Security+ and Objective-C
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Machine Learning
+University of Michigan
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 5 years of experience in software development and technology.
+Strong background in MariaDB, InVision, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Swift
+Technologies: Node.js, React, Webpack
+Databases: MariaDB
+Cloud Platforms: 
+Tools: InVision, Zoom, Bitbucket, Figma
+
+WORK EXPERIENCE
+Software Architect - Tesla (2019 - Present)
+• Developed applications using MariaDB and InVision
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2015
+
+CERTIFICATIONS
+Scrum Master, PMP, AWS Certified

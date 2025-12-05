@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 3 years of experience in software development and technology.
+Strong background in Django, R, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: R, Python
+Technologies: Django, Node.js
+Databases: InfluxDB
+Cloud Platforms: Puppet, CircleCI
+Tools: GitHub, JIRA
+
+WORK EXPERIENCE
+Frontend Developer - PayPal (2021 - Present)
+• Developed applications using Django and R
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Georgia Tech
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 0 years of experience in software development and technology.
+Strong background in Plotly, Critical Thinking, Kanban.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, PHP
+Technologies: Laravel, Express.js, Vue.js
+Databases: Firebase
+Cloud Platforms: 
+Tools: Kanban, Sketch
+
+WORK EXPERIENCE
+Data Scientist - Yahoo (2024 - Present)
+• Developed applications using Plotly and Critical Thinking
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Machine Learning
+MIT
+Graduated: 2020
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Critical Thinking, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, VBA, Java
+Technologies: Nuxt.js, Spring Boot
+Databases: SQL Server, Cassandra
+Cloud Platforms: GitHub Actions, Kubernetes
+Tools: InVision, GitHub
+
+WORK EXPERIENCE
+Business Analyst - IBM (2019 - Present)
+• Developed applications using Nuxt.js and Critical Thinking
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified, Scrum Master, PMP

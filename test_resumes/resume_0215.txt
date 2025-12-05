@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, VBA, Perl, Rust
+Technologies: Svelte, Node.js, Webpack
+Databases: Google Cloud SQL
+Cloud Platforms: Google Cloud Platform
+Tools: Git, Sketch
+
+WORK EXPERIENCE
+Frontend Developer - Adobe (2017 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Salesforce Certified

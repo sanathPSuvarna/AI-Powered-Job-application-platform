@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 7 years of experience in software development and technology.
+Strong background in Public Speaking, Google Cloud SQL, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, C++
+Technologies: LESS, Express.js, React
+Databases: Google Cloud SQL, InfluxDB
+Cloud Platforms: CircleCI
+Tools: Agile, InVision, Microservices
+
+WORK EXPERIENCE
+Project Manager - VMware (2017 - Present)
+• Developed applications using Public Speaking and Google Cloud SQL
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+Scrum Master

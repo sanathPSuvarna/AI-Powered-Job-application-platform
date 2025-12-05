@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 5 years of experience in software development and technology.
+Strong background in Django, Heroku, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Groovy, MATLAB
+Technologies: Django, Laravel, Babel
+Databases: SQLite, Redis
+Cloud Platforms: Heroku, Jenkins
+Tools: GitHub, Microservices
+
+WORK EXPERIENCE
+Product Manager - Adobe (2019 - Present)
+• Developed applications using Django and Heroku
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+MIT
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified

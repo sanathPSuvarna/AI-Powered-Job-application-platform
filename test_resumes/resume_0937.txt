@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 4 years of experience in software development and technology.
+Strong background in Communication, Public Speaking, Big Data.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Rust
+Technologies: Node.js, Babel
+Databases: Elasticsearch, Firebase
+Cloud Platforms: 
+Tools: Kanban, Figma
+
+WORK EXPERIENCE
+DevOps Engineer - IBM (2020 - Present)
+• Developed applications using Communication and Public Speaking
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+UC Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+Azure Certified

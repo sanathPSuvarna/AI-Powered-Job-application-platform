@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 11 years of experience in software development and technology.
+Strong background in MariaDB, Oracle, VBA.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C++, R
+Technologies: Node.js, Bootstrap, LESS
+Databases: MariaDB, Oracle
+Cloud Platforms: Jenkins, CircleCI, GitHub Actions
+Tools: Zoom, Swagger, Microservices, Sketch, GitLab
+
+WORK EXPERIENCE
+Software Architect - Facebook (2013 - Present)
+• Developed applications using MariaDB and Oracle
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2009
+
+CERTIFICATIONS
+Google Cloud Certified, Azure Certified

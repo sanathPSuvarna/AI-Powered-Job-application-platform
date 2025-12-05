@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 2 years of experience in software development and technology.
+Strong background in Heroku, Public Speaking, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Groovy, PHP, C++
+Technologies: SASS
+Databases: PostgreSQL, SQLite
+Cloud Platforms: Heroku
+Tools: GitHub, Postman, Git
+
+WORK EXPERIENCE
+System Administrator - Tesla (2022 - Present)
+• Developed applications using Heroku and Public Speaking
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2018
+
+CERTIFICATIONS

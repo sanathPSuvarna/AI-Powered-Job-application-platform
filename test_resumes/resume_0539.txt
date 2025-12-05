@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Engineering Manager with 9 years of experience in software development and technology.
+Strong background in Postman, MySQL, HTML.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Groovy, Rust, PHP
+Technologies: HTML, Svelte, Nuxt.js
+Databases: MySQL, CouchDB
+Cloud Platforms: Heroku, DigitalOcean
+Tools: Postman, Bitbucket, REST API
+
+WORK EXPERIENCE
+Engineering Manager - Dell (2015 - Present)
+• Developed applications using Postman and MySQL
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Stanford University
+Graduated: 2011
+
+CERTIFICATIONS
+Microsoft Certified, AWS Certified

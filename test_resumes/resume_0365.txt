@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 3 years of experience in software development and technology.
+Strong background in SQL Server, Oracle, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, Groovy
+Technologies: Node.js, CSS, Express.js
+Databases: SQL Server, Oracle
+Cloud Platforms: AWS, GitHub Actions
+Tools: Microsoft Teams, DevOps
+
+WORK EXPERIENCE
+Project Manager - Twitter (2021 - Present)
+• Developed applications using SQL Server and Oracle
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Scrum Master, PMP, Salesforce Certified

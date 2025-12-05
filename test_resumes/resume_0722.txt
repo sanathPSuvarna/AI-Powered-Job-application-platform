@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 4 years of experience in software development and technology.
+Strong background in Pandas, Cisco Certified, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Scala
+Technologies: Svelte, LESS, Express.js
+Databases: Cassandra, SQLite
+Cloud Platforms: Chef, Docker
+Tools: SOAP, Sketch
+
+WORK EXPERIENCE
+Data Analyst - Dropbox (2020 - Present)
+• Developed applications using Pandas and Cisco Certified
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+USC
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, Azure Certified

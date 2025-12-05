@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 3 years of experience in software development and technology.
+Strong background in Pandas, Customer Service, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, C#, Scala, Java
+Technologies: Express.js, Angular, Bootstrap
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: REST API, SOAP
+
+WORK EXPERIENCE
+Product Manager - Intel (2021 - Present)
+• Developed applications using Pandas and Customer Service
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified

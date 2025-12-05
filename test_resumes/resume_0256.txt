@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 11 years of experience in software development and technology.
+Strong background in Shell Scripting, Pandas, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Swift, R
+Technologies: jQuery, Vue.js, Node.js, Bootstrap
+Databases: Firebase, MySQL, Cassandra
+Cloud Platforms: Ansible, AWS
+Tools: Postman, GitLab, GitHub, Figma
+
+WORK EXPERIENCE
+Backend Developer - Tesla (2013 - Present)
+• Developed applications using Shell Scripting and Pandas
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Computer Science
+University of Michigan
+Graduated: 2009
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 1 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, MATLAB, JavaScript, PHP
+Technologies: Svelte, Node.js, Next.js
+Databases: MariaDB, SQL Server
+Cloud Platforms: GitLab CI/CD, Puppet
+Tools: Confluence, Slack, GitHub, DevOps
+
+WORK EXPERIENCE
+Solutions Architect - Apple (2023 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2019
+
+CERTIFICATIONS
+CompTIA Security+, AWS Certified

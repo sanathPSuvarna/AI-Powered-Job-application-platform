@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Perl, Haskell
+Technologies: SASS, jQuery
+Databases: Cassandra
+Cloud Platforms: 
+Tools: DevOps, JIRA
+
+WORK EXPERIENCE
+Network Engineer - Salesforce (2019 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, Azure Certified

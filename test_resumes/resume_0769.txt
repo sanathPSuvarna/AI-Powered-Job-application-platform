@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 7 years of experience in software development and technology.
+Strong background in Clojure, Webpack, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Dart, Haskell
+Technologies: Webpack
+Databases: Google Cloud SQL, InfluxDB
+Cloud Platforms: AWS
+Tools: Adobe Creative Suite, Sketch, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Business Analyst - Salesforce (2017 - Present)
+• Developed applications using Clojure and Webpack
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Computer Science
+Georgia Tech
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, PMP

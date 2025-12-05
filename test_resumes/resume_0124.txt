@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 4 years of experience in software development and technology.
+Strong background in CompTIA Security+, Chef, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PowerShell, Groovy
+Technologies: Gatsby
+Databases: Firebase
+Cloud Platforms: Chef, DigitalOcean
+Tools: Kanban, Swagger, DevOps, Sketch
+
+WORK EXPERIENCE
+Solutions Architect - Airbnb (2020 - Present)
+• Developed applications using CompTIA Security+ and Chef
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

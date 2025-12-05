@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 0 years of experience in software development and technology.
+Strong background in Plotly, Zoom, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, PHP, Scala, Dart
+Technologies: LESS
+Databases: Cassandra, Amazon RDS
+Cloud Platforms: AWS, GitHub Actions
+Tools: Zoom, Slack
+
+WORK EXPERIENCE
+Product Manager - NVIDIA (2024 - Present)
+• Developed applications using Plotly and Zoom
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Computer Science
+NYU
+Graduated: 2020
+
+CERTIFICATIONS
+CISSP

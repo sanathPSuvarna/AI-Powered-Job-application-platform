@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 13 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Objective-C, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, F#, Ruby
+Technologies: Node.js, Spring Boot, Express.js
+Databases: Google Cloud SQL, SQLite
+Cloud Platforms: Terraform
+Tools: GraphQL, Bitbucket, GitLab
+
+WORK EXPERIENCE
+Software Architect - Shopify (2011 - Present)
+• Developed applications using Google Cloud SQL and Objective-C
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2007
+
+CERTIFICATIONS
+Scrum Master, PMP, Microsoft Certified

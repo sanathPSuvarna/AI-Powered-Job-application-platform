@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, Postman, C#.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C#, F#, C++
+Technologies: Node.js, Express.js, LESS
+Databases: InfluxDB
+Cloud Platforms: AWS, CircleCI
+Tools: Postman, Scrum, GitHub, DevOps
+
+WORK EXPERIENCE
+DevOps Engineer - Spotify (2020 - Present)
+• Developed applications using Shell Scripting and Postman
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+Stanford University
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified

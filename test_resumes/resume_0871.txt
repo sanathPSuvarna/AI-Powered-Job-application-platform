@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 1 years of experience in software development and technology.
+Strong background in Heroku, Communication, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, C#
+Technologies: Gatsby
+Databases: Google Cloud SQL, Neo4j
+Cloud Platforms: Heroku, OpenShift
+Tools: Confluence, Postman, SOAP, Microservices
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Cisco (2023 - Present)
+• Developed applications using Heroku and Communication
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University
+Graduated: 2019
+
+CERTIFICATIONS
+Google Cloud Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 4 years of experience in software development and technology.
+Strong background in Critical Thinking, Time Management, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PowerShell, JavaScript, Scala
+Technologies: Flask
+Databases: Amazon RDS
+Cloud Platforms: Jenkins, Docker
+Tools: GitLab, Microsoft Teams, Postman
+
+WORK EXPERIENCE
+Software Architect - NVIDIA (2020 - Present)
+• Developed applications using Critical Thinking and Time Management
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2016
+
+CERTIFICATIONS
+Microsoft Certified, PMP, Scrum Master

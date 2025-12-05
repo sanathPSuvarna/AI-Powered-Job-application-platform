@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 5 years of experience in software development and technology.
+Strong background in Django, Oracle Certified, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift, TypeScript, Haskell
+Technologies: Django, Flask
+Databases: Cassandra
+Cloud Platforms: Azure
+Tools: Figma, Git
+
+WORK EXPERIENCE
+DevOps Engineer - Netflix (2019 - Present)
+• Developed applications using Django and Oracle Certified
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Information Technology
+UCLA
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, Salesforce Certified

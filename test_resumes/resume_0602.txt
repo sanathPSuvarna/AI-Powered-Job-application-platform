@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Critical Thinking, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, Rust, MATLAB, Dart
+Technologies: Flask
+Databases: Elasticsearch
+Cloud Platforms: Terraform, Docker
+Tools: GitLab, SOAP, Microservices, JIRA
+
+WORK EXPERIENCE
+Network Engineer - PayPal (2020 - Present)
+• Developed applications using Oracle Certified and Critical Thinking
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Machine Learning
+University of Michigan
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, Microsoft Certified

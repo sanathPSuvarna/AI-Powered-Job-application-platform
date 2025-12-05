@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 7 years of experience in software development and technology.
+Strong background in SQL Server, Cisco Certified, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript, C++, Groovy
+Technologies: Laravel, Babel, LESS
+Databases: SQL Server, Oracle
+Cloud Platforms: DigitalOcean
+Tools: JIRA, Bitbucket, GitHub, Figma
+
+WORK EXPERIENCE
+System Administrator - eBay (2017 - Present)
+• Developed applications using SQL Server and Cisco Certified
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Engineering in Data Science
+NYU
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified

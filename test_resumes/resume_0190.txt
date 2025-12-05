@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 5 years of experience in software development and technology.
+Strong background in Google Cloud Certified, Perl, DigitalOcean.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Go, TypeScript
+Technologies: Angular
+Databases: PostgreSQL, Oracle
+Cloud Platforms: DigitalOcean
+Tools: GraphQL, GitLab, Postman
+
+WORK EXPERIENCE
+System Administrator - Adobe (2019 - Present)
+• Developed applications using Google Cloud Certified and Perl
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Computer Science
+Harvard University
+Graduated: 2015
+
+CERTIFICATIONS
+Google Cloud Certified, PMP

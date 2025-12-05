@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, Team Collaboration, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Rust, MATLAB
+Technologies: LESS, Node.js
+Databases: Google Cloud SQL, Redis
+Cloud Platforms: 
+Tools: Swagger, SOAP, REST API
+
+WORK EXPERIENCE
+Network Engineer - Uber (2020 - Present)
+• Developed applications using Shell Scripting and Team Collaboration
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified, PMP, Scrum Master

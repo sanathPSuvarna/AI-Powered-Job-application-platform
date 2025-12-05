@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, GitLab CI/CD, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Scala
+Technologies: HTML
+Databases: Cassandra, Elasticsearch
+Cloud Platforms: GitLab CI/CD, Kubernetes
+Tools: GitLab, GitHub, Kanban
+
+WORK EXPERIENCE
+Frontend Developer - Adobe (2019 - Present)
+• Developed applications using Oracle Certified and GitLab CI/CD
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Washington
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified, CISSP

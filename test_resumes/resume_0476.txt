@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 15 years of experience in software development and technology.
+Strong background in Neo4j, InVision, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Python, F#, Kotlin, Scala
+Technologies: Gatsby, Babel
+Databases: Neo4j, MySQL
+Cloud Platforms: Chef, Puppet
+Tools: InVision, GraphQL, Confluence, Bitbucket
+
+WORK EXPERIENCE
+Software Architect - Oracle (2009 - Present)
+• Developed applications using Neo4j and InVision
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2005
+
+CERTIFICATIONS
+CISSP

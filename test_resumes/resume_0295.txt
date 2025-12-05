@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 2 years of experience in software development and technology.
+Strong background in Time Management, Google Cloud Certified, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, VBA, Dart
+Technologies: React
+Databases: InfluxDB, MongoDB
+Cloud Platforms: 
+Tools: Swagger, Sketch, GraphQL
+
+WORK EXPERIENCE
+QA Engineer - eBay (2022 - Present)
+• Developed applications using Time Management and Google Cloud Certified
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Machine Learning
+Stanford University
+Graduated: 2018
+
+CERTIFICATIONS
+Google Cloud Certified, PMP

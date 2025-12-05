@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 2 years of experience in software development and technology.
+Strong background in R, Team Collaboration, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: R, PowerShell, Rust, C#
+Technologies: Svelte, Express.js, CSS
+Databases: Neo4j
+Cloud Platforms: 
+Tools: Scrum, GraphQL
+
+WORK EXPERIENCE
+QA Engineer - Cisco (2022 - Present)
+• Developed applications using R and Team Collaboration
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2018
+
+CERTIFICATIONS
+Microsoft Certified, Salesforce Certified

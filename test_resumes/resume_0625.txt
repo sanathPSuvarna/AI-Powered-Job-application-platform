@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 3 years of experience in software development and technology.
+Strong background in SASS, Cisco Certified, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, Python, C++
+Technologies: SASS, Angular, Vue.js
+Databases: Elasticsearch
+Cloud Platforms: Chef, DigitalOcean
+Tools: InVision, REST API, GitHub
+
+WORK EXPERIENCE
+Database Administrator - Twitter (2021 - Present)
+• Developed applications using SASS and Cisco Certified
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Business Administration
+University of Michigan
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified

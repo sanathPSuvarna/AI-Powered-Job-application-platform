@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 11 years of experience in software development and technology.
+Strong background in MariaDB, SASS, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: C#, F#, C++
+Technologies: SASS, Express.js
+Databases: MariaDB, PostgreSQL
+Cloud Platforms: Jenkins, Google Cloud Platform
+Tools: Postman, SOAP, Sketch, Scrum, Microsoft Teams
+
+WORK EXPERIENCE
+Software Engineer - Amazon (2013 - Present)
+• Developed applications using MariaDB and SASS
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+Princeton University
+Graduated: 2009
+
+CERTIFICATIONS
+PMP, CISSP

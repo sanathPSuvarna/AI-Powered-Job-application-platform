@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 0 years of experience in software development and technology.
+Strong background in Creativity, Scrum, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, MATLAB
+Technologies: Node.js, Babel
+Databases: Cassandra
+Cloud Platforms: 
+Tools: Scrum, InVision, DevOps, GraphQL
+
+WORK EXPERIENCE
+Database Administrator - HP (2024 - Present)
+• Developed applications using Creativity and Scrum
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2020
+
+CERTIFICATIONS

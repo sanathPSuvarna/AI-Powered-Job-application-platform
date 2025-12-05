@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Public Speaking, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, F#, Python, Dart
+Technologies: Nuxt.js
+Databases: Elasticsearch
+Cloud Platforms: Google Cloud Platform, Kubernetes
+Tools: Zoom, GitLab, Agile
+
+WORK EXPERIENCE
+Backend Developer - IBM (2019 - Present)
+• Developed applications using Nuxt.js and Public Speaking
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+Scrum Master

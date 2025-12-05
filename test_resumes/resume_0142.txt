@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 3 years of experience in software development and technology.
+Strong background in PostgreSQL, Objective-C, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, Java, Swift
+Technologies: Laravel, React, Next.js
+Databases: PostgreSQL, MongoDB
+Cloud Platforms: Vagrant, Azure
+Tools: Adobe Creative Suite, Confluence
+
+WORK EXPERIENCE
+Full Stack Developer - Oracle (2021 - Present)
+• Developed applications using PostgreSQL and Objective-C
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Engineering in Data Science
+Harvard University
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, CISSP

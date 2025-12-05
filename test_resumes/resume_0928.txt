@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 7 years of experience in software development and technology.
+Strong background in Pandas, Cisco Certified, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, F#, Clojure, Ruby
+Technologies: Spring Boot, Django, Next.js
+Databases: Neo4j
+Cloud Platforms: Ansible
+Tools: JIRA, Microservices
+
+WORK EXPERIENCE
+Software Architect - Spotify (2017 - Present)
+• Developed applications using Pandas and Cisco Certified
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master

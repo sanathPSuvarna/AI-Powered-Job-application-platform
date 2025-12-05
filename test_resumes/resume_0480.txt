@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 3 years of experience in software development and technology.
+Strong background in Objective-C, InVision, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, Clojure, Kotlin
+Technologies: Node.js, Webpack, Express.js
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: InVision, JIRA, Confluence, GitHub
+
+WORK EXPERIENCE
+Project Manager - Apple (2021 - Present)
+• Developed applications using Objective-C and InVision
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Stanford University
+Graduated: 2017
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified

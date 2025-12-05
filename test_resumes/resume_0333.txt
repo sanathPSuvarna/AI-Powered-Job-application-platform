@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in Time Management, Adobe Creative Suite, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, MATLAB
+Technologies: jQuery, HTML, Next.js
+Databases: CouchDB, InfluxDB
+Cloud Platforms: Docker
+Tools: Adobe Creative Suite, Microservices, GitLab, Figma
+
+WORK EXPERIENCE
+Frontend Developer - Twitter (2017 - Present)
+• Developed applications using Time Management and Adobe Creative Suite
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, PMP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Product Manager with 8 years of experience in software development and technology.
+Strong background in MariaDB, PowerShell, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, TypeScript, F#, JavaScript, PHP
+Technologies: Bootstrap, Express.js
+Databases: MariaDB, CouchDB
+Cloud Platforms: Docker, Google Cloud Platform
+Tools: Git, Swagger, REST API, Scrum, GitLab
+
+WORK EXPERIENCE
+Product Manager - Airbnb (2016 - Present)
+• Developed applications using MariaDB and PowerShell
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+CMU
+Graduated: 2012
+
+CERTIFICATIONS
+CISSP

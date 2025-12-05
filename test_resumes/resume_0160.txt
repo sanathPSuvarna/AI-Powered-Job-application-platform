@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 12 years of experience in software development and technology.
+Strong background in Time Management, Google Cloud SQL, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, Kotlin
+Technologies: Laravel, Vue.js
+Databases: Google Cloud SQL, SQL Server, CouchDB
+Cloud Platforms: GitHub Actions, Azure
+Tools: Adobe Creative Suite, SOAP, Swagger, Microservices
+
+WORK EXPERIENCE
+Senior Software Engineer - Google (2012 - Present)
+• Developed applications using Time Management and Google Cloud SQL
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Georgia Tech
+Graduated: 2008
+
+CERTIFICATIONS
+Scrum Master, Oracle Certified, AWS Certified

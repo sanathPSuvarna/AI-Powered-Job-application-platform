@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 0 years of experience in software development and technology.
+Strong background in Clojure, Team Collaboration, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, PHP, MATLAB
+Technologies: LESS
+Databases: Cassandra, Elasticsearch
+Cloud Platforms: Google Cloud Platform
+Tools: Microsoft Teams, Agile, Postman, GraphQL
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Dropbox (2024 - Present)
+• Developed applications using Clojure and Team Collaboration
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2020
+
+CERTIFICATIONS

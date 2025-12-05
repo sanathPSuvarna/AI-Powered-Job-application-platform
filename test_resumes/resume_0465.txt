@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 3 years of experience in software development and technology.
+Strong background in Oracle Certified, Plotly, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Python, MATLAB, Scala
+Technologies: React
+Databases: Amazon RDS
+Cloud Platforms: 
+Tools: Adobe Creative Suite, GitLab, Sketch
+
+WORK EXPERIENCE
+Software Engineer - Zoom (2021 - Present)
+• Developed applications using Oracle Certified and Plotly
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2017
+
+CERTIFICATIONS
+Oracle Certified, Scrum Master, Salesforce Certified

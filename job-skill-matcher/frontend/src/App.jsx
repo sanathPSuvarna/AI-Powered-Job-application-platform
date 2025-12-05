@@ -15,6 +15,9 @@ import CreateProfile from './pages/jobseeker/CreateProfile';
 import Skills from './pages/jobseeker/Skills';
 import ResearchPapers from './pages/jobseeker/ResearchPapers';
 import EditProfile from './pages/jobseeker/EditProfile';
+import CareerPathSimulator from './pages/jobseeker/CareerPathSimulator';
+import MockInterview from './pages/jobseeker/MockInterview';
+import InterviewDashboard from './pages/jobseeker/InterviewDashboard';
 
 // Employer Pages
 import EmployerDashboard from './pages/employer/Dashboard';
@@ -57,6 +60,9 @@ function App() {
                   <Route path="/research-papers" element={<ResearchPapers />} />
                   <Route path="/edit-profile" element={<EditProfile />} />
                   <Route path="/skills" element={<Skills />} />
+                  <Route path="/career-path-simulator" element={<CareerPathSimulator />} />
+                  <Route path="/mock-interview" element={<MockInterview />} />
+                  <Route path="/interview-dashboard" element={<InterviewDashboard />} />
                 </Routes>
               </UserTypeLayout>
             </AuthRoute>

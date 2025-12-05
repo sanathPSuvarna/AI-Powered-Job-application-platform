@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 6 years of experience in software development and technology.
+Strong background in Oracle Certified, Critical Thinking, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, C++, Dart
+Technologies: Vue.js
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: 
+Tools: Microsoft Teams, Microservices, JIRA
+
+WORK EXPERIENCE
+Product Manager - VMware (2018 - Present)
+• Developed applications using Oracle Certified and Critical Thinking
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Georgia Tech
+Graduated: 2014
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified, CISSP

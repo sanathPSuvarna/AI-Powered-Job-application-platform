@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 7 years of experience in software development and technology.
+Strong background in Creativity, PostgreSQL, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Swift, Scala, Java
+Technologies: Node.js, Next.js
+Databases: PostgreSQL, SQL Server
+Cloud Platforms: Kubernetes
+Tools: Kanban, Slack, Bitbucket, Git
+
+WORK EXPERIENCE
+QA Engineer - Uber (2017 - Present)
+• Developed applications using Creativity and PostgreSQL
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2013
+
+CERTIFICATIONS
+Azure Certified, Salesforce Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 2 years of experience in software development and technology.
+Strong background in Plotly, R, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: R, Kotlin, Swift, Java
+Technologies: Next.js
+Databases: MySQL
+Cloud Platforms: OpenShift
+Tools: Zoom, SOAP
+
+WORK EXPERIENCE
+Solutions Architect - Dropbox (2022 - Present)
+• Developed applications using Plotly and R
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2018
+
+CERTIFICATIONS

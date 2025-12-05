@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 3 years of experience in software development and technology.
+Strong background in Google Cloud Certified, HTML, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Haskell
+Technologies: HTML, LESS
+Databases: CouchDB
+Cloud Platforms: GitHub Actions, CircleCI
+Tools: Slack, Figma
+
+WORK EXPERIENCE
+Network Engineer - Dell (2021 - Present)
+• Developed applications using Google Cloud Certified and HTML
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Computer Science
+USC
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified

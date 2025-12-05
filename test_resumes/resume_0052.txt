@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Technical Writer with 1 years of experience in software development and technology.
+Strong background in MariaDB, Heroku, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Scala, Haskell
+Technologies: jQuery, Bootstrap, Vue.js
+Databases: MariaDB, Amazon RDS
+Cloud Platforms: Heroku, Azure
+Tools: JIRA, Bitbucket, Postman, Microservices
+
+WORK EXPERIENCE
+Technical Writer - PayPal (2023 - Present)
+• Developed applications using MariaDB and Heroku
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Business Administration
+Georgia Tech
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified

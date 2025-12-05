@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 4 years of experience in software development and technology.
+Strong background in Team Collaboration, CSS, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, TypeScript
+Technologies: CSS, React
+Databases: Oracle, Elasticsearch
+Cloud Platforms: 
+Tools: GitHub, Microservices, JIRA
+
+WORK EXPERIENCE
+DevOps Engineer - Google (2020 - Present)
+• Developed applications using Team Collaboration and CSS
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Computer Science
+University of Illinois
+Graduated: 2016
+
+CERTIFICATIONS
+Scrum Master

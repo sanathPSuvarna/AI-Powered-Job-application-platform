@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 3 years of experience in software development and technology.
+Strong background in Oracle Certified, PyTorch, HTML.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Python, PowerShell
+Technologies: HTML
+Databases: Firebase
+Cloud Platforms: GitHub Actions
+Tools: Microservices, Figma, JIRA
+
+WORK EXPERIENCE
+Business Analyst - PayPal (2021 - Present)
+• Developed applications using Oracle Certified and PyTorch
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2017
+
+CERTIFICATIONS
+Oracle Certified, Scrum Master

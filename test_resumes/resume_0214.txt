@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 4 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, Cisco Certified, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Kotlin, Ruby
+Technologies: Laravel, CSS, Django
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, REST API, Sketch
+
+WORK EXPERIENCE
+Frontend Developer - Spotify (2020 - Present)
+• Developed applications using Adobe Creative Suite and Cisco Certified
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Michigan
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified, Oracle Certified, Microsoft Certified

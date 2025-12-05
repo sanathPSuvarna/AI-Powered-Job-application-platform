@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 3 years of experience in software development and technology.
+Strong background in Shell Scripting, PowerShell, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, Haskell, Rust
+Technologies: Angular, React
+Databases: InfluxDB, SQLite
+Cloud Platforms: 
+Tools: Confluence, Microservices, Scrum, DevOps
+
+WORK EXPERIENCE
+Software Architect - Spotify (2021 - Present)
+• Developed applications using Shell Scripting and PowerShell
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Machine Learning
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+Salesforce Certified, CISSP

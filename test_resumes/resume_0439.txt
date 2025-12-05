@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 7 years of experience in software development and technology.
+Strong background in R, Scrum, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: R, Rust
+Technologies: Node.js, jQuery, Next.js
+Databases: Oracle
+Cloud Platforms: Kubernetes
+Tools: Scrum, DevOps
+
+WORK EXPERIENCE
+Solutions Architect - Amazon (2017 - Present)
+• Developed applications using R and Scrum
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 6 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, InVision, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: R, MATLAB
+Technologies: CSS, Flask, LESS
+Databases: Amazon RDS
+Cloud Platforms: Terraform, OpenShift
+Tools: Adobe Creative Suite, InVision, Sketch, Microsoft Teams
+
+WORK EXPERIENCE
+Database Administrator - Dell (2018 - Present)
+• Developed applications using Adobe Creative Suite and InVision
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Business Administration
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 7 years of experience in software development and technology.
+Strong background in Conflict Resolution, HTML, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, Dart
+Technologies: HTML, Babel, Bootstrap
+Databases: SQL Server, MySQL
+Cloud Platforms: 
+Tools: Sketch, InVision, Microservices
+
+WORK EXPERIENCE
+Solutions Architect - Uber (2017 - Present)
+• Developed applications using Conflict Resolution and HTML
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+Graduated: 2013
+
+CERTIFICATIONS
+Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 7 years of experience in software development and technology.
+Strong background in Communication, Public Speaking, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Java
+Technologies: LESS, Laravel, jQuery
+Databases: Firebase
+Cloud Platforms: Terraform
+Tools: Bitbucket, InVision, Microservices
+
+WORK EXPERIENCE
+Network Engineer - Spotify (2017 - Present)
+• Developed applications using Communication and Public Speaking
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP

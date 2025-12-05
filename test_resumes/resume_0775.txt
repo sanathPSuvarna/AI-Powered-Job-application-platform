@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 6 years of experience in software development and technology.
+Strong background in R, Shell Scripting, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: R, Shell Scripting, Ruby, C#
+Technologies: Express.js, Gatsby
+Databases: SQL Server
+Cloud Platforms: DigitalOcean
+Tools: Figma, Confluence, GraphQL
+
+WORK EXPERIENCE
+Business Analyst - NVIDIA (2018 - Present)
+• Developed applications using R and Shell Scripting
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2014
+
+CERTIFICATIONS
+Salesforce Certified

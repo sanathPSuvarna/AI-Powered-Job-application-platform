@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 1 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, MATLAB
+Technologies: Flask, React, Vue.js
+Databases: SQL Server
+Cloud Platforms: 
+Tools: Confluence, Microservices, GraphQL, Sketch
+
+WORK EXPERIENCE
+Full Stack Developer - PayPal (2023 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Washington
+Graduated: 2019
+
+CERTIFICATIONS
+CompTIA Security+

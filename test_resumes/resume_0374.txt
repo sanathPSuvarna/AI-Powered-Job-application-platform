@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 9 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, SQL Server, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, C#, Java, Clojure, R
+Technologies: Vue.js, Django, Express.js
+Databases: SQL Server, SQLite
+Cloud Platforms: Kubernetes
+Tools: Adobe Creative Suite, Git, Confluence, Sketch, Figma
+
+WORK EXPERIENCE
+Senior Software Engineer - HP (2015 - Present)
+• Developed applications using Adobe Creative Suite and SQL Server
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+NYU
+Graduated: 2011
+
+CERTIFICATIONS
+Oracle Certified, Azure Certified

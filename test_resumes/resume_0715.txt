@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 3 years of experience in software development and technology.
+Strong background in MariaDB, Time Management, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, Go
+Technologies: Gatsby, React, Django
+Databases: MariaDB
+Cloud Platforms: Terraform, Heroku
+Tools: Confluence, Slack, Figma
+
+WORK EXPERIENCE
+Tech Lead - LinkedIn (2021 - Present)
+• Developed applications using MariaDB and Time Management
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Machine Learning
+UT Austin
+Graduated: 2017
+
+CERTIFICATIONS
+Salesforce Certified, Microsoft Certified, AWS Certified

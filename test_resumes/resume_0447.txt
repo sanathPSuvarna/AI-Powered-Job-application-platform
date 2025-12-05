@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, Java, MATLAB
+Technologies: Angular, Vue.js, Next.js
+Databases: Firebase
+Cloud Platforms: CircleCI, Kubernetes
+Tools: Git, Confluence, REST API
+
+WORK EXPERIENCE
+Senior Software Engineer - Oracle (2017 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Georgia Tech
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified

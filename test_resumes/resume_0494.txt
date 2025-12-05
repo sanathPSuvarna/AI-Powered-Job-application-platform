@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, TypeScript
+Technologies: Node.js
+Databases: PostgreSQL, DynamoDB
+Cloud Platforms: 
+Tools: SOAP, GraphQL
+
+WORK EXPERIENCE
+Data Scientist - Twitter (2018 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+Georgia Tech
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

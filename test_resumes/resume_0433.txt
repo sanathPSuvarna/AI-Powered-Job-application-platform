@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Pandas, Objective-C, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, C#, Clojure
+Technologies: Svelte, CSS, Webpack
+Databases: SQLite
+Cloud Platforms: Docker, CircleCI
+Tools: GraphQL, REST API, Agile, Figma
+
+WORK EXPERIENCE
+Software Engineer - NVIDIA (2023 - Present)
+• Developed applications using Pandas and Objective-C
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified, Microsoft Certified

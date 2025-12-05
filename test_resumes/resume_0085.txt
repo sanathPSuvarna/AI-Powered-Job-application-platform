@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 2 years of experience in software development and technology.
+Strong background in Plotly, R, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: R, Dart
+Technologies: Gatsby
+Databases: SQL Server, Amazon RDS
+Cloud Platforms: 
+Tools: Microservices, Figma, JIRA
+
+WORK EXPERIENCE
+Business Analyst - VMware (2022 - Present)
+• Developed applications using Plotly and R
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2018
+
+CERTIFICATIONS
+Microsoft Certified

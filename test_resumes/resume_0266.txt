@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 0 years of experience in software development and technology.
+Strong background in Neo4j, DynamoDB, Scikit-learn.
+
+TECHNICAL SKILLS
+Programming Languages: F#, JavaScript, Kotlin, Groovy
+Technologies: HTML, Spring Boot, Webpack
+Databases: Neo4j, DynamoDB
+Cloud Platforms: CircleCI, Terraform
+Tools: Microservices, Sketch, Slack
+
+WORK EXPERIENCE
+Tech Lead - Uber (2024 - Present)
+• Developed applications using Neo4j and DynamoDB
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2020
+
+CERTIFICATIONS
+Scrum Master

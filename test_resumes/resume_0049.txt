@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 5 years of experience in software development and technology.
+Strong background in Project Management, R, F#.
+
+TECHNICAL SKILLS
+Programming Languages: R, F#, PowerShell
+Technologies: Vue.js, CSS, Flask
+Databases: MongoDB
+Cloud Platforms: 
+Tools: Microsoft Teams, DevOps
+
+WORK EXPERIENCE
+UI/UX Designer - Cisco (2019 - Present)
+• Developed applications using Project Management and R
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2015
+
+CERTIFICATIONS
+PMP

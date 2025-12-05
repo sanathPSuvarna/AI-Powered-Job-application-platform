@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 10 years of experience in software development and technology.
+Strong background in Cisco Certified, DynamoDB, Git.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, Clojure, Scala
+Technologies: Gatsby, Babel, Django, LESS
+Databases: DynamoDB, Cassandra, SQLite
+Cloud Platforms: OpenShift
+Tools: Git, Zoom, Agile
+
+WORK EXPERIENCE
+Software Architect - Intel (2014 - Present)
+• Developed applications using Cisco Certified and DynamoDB
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Computer Science
+Purdue University
+Graduated: 2010
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, Oracle Certified

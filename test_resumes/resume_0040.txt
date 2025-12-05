@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 2 years of experience in software development and technology.
+Strong background in PyTorch, Communication, F#.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Go, Groovy, PHP
+Technologies: Node.js, Babel, Spring Boot
+Databases: Amazon RDS
+Cloud Platforms: CircleCI
+Tools: Slack, Kanban, JIRA
+
+WORK EXPERIENCE
+Tech Lead - IBM (2022 - Present)
+• Developed applications using PyTorch and Communication
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2018
+
+CERTIFICATIONS
+Azure Certified

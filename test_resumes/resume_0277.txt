@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 0 years of experience in software development and technology.
+Strong background in MariaDB, Chef, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Go
+Technologies: Next.js, CSS
+Databases: MariaDB
+Cloud Platforms: Chef, GitHub Actions
+Tools: GitHub, Postman
+
+WORK EXPERIENCE
+Product Manager - Apple (2024 - Present)
+• Developed applications using MariaDB and Chef
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Stanford University
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master

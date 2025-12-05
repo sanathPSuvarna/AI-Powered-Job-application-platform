@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 2 years of experience in software development and technology.
+Strong background in Oracle Certified, Critical Thinking, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, VBA, Scala
+Technologies: Node.js, Gatsby
+Databases: SQL Server, CouchDB
+Cloud Platforms: 
+Tools: REST API, Sketch
+
+WORK EXPERIENCE
+Backend Developer - Apple (2022 - Present)
+• Developed applications using Oracle Certified and Critical Thinking
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2018
+
+CERTIFICATIONS
+Oracle Certified, Cisco Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 12 years of experience in software development and technology.
+Strong background in SASS, PowerShell, Firebase.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Dart, Go, Swift
+Technologies: SASS, Angular, HTML, Django
+Databases: Firebase, InfluxDB
+Cloud Platforms: Puppet
+Tools: Git, Swagger, Microsoft Teams
+
+WORK EXPERIENCE
+Project Manager - Salesforce (2012 - Present)
+• Developed applications using SASS and PowerShell
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Michigan
+Graduated: 2008
+
+CERTIFICATIONS
+CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 5 years of experience in software development and technology.
+Strong background in Project Management, Team Collaboration, CSS.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, C++
+Technologies: CSS, React
+Databases: PostgreSQL
+Cloud Platforms: DigitalOcean, GitHub Actions
+Tools: GraphQL, InVision, Figma, Sketch
+
+WORK EXPERIENCE
+Senior Software Engineer - eBay (2019 - Present)
+• Developed applications using Project Management and Team Collaboration
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2015
+
+CERTIFICATIONS
+CISSP

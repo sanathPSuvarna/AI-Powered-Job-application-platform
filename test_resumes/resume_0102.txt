@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 4 years of experience in software development and technology.
+Strong background in Public Speaking, Creativity, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PowerShell, C#, Scala
+Technologies: Bootstrap, Laravel, Gatsby
+Databases: Google Cloud SQL, MySQL
+Cloud Platforms: CircleCI
+Tools: DevOps, GitHub, Kanban, JIRA
+
+WORK EXPERIENCE
+Engineering Manager - Dell (2020 - Present)
+• Developed applications using Public Speaking and Creativity
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Purdue University
+Graduated: 2016
+
+CERTIFICATIONS
+Microsoft Certified

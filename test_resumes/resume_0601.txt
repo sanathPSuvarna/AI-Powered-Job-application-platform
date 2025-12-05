@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 1 years of experience in software development and technology.
+Strong background in Clojure, PyTorch, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, F#, MATLAB
+Technologies: Webpack, React
+Databases: DynamoDB, Elasticsearch
+Cloud Platforms: GitHub Actions, Puppet
+Tools: Postman, SOAP
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Salesforce (2023 - Present)
+• Developed applications using Clojure and PyTorch
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Georgia Tech
+Graduated: 2019
+
+CERTIFICATIONS
+Scrum Master

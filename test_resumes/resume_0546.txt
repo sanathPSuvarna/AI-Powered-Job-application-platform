@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Cybersecurity Analyst with 13 years of experience in software development and technology.
+Strong background in Shell Scripting, Cisco Certified, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Groovy, Ruby, MATLAB, Scala
+Technologies: Angular, HTML, CSS, Django
+Databases: Amazon RDS, Cassandra
+Cloud Platforms: Docker, Vagrant
+Tools: SOAP, JIRA, Kanban
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Twitter (2011 - Present)
+• Developed applications using Shell Scripting and Cisco Certified
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Business Administration
+UC Berkeley
+Graduated: 2007
+
+CERTIFICATIONS
+Cisco Certified, PMP, Azure Certified

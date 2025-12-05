@@ -92,3 +92,30 @@ wasabi==1.1.2
 watchdog==3.0.0
 weasel==0.3.4
 zipp==3.17.0
+
+# Enhanced Skill Extraction System - Additional Requirements
+# Core ML libraries for ensemble approach
+scikit-learn>=1.1.0
+
+# Embedding models
+sentence-transformers>=2.2.0
+
+# String matching
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.2
+
+# Web dashboard (streamlit already included)
+plotly>=5.10.0
+
+# Statistical analysis
+# scipy already included
+
+# Production deployment
+uvicorn>=0.18.0
+fastapi>=0.78.0
+
+# Development and testing
+pytest>=7.1.0
+pytest-cov>=3.0.0
+black>=22.6.0
+flake8>=5.0.0

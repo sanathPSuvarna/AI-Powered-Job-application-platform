@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 4 years of experience in software development and technology.
+Strong background in Django, Plotly, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Go, PowerShell, Java
+Technologies: Django, Vue.js
+Databases: CouchDB
+Cloud Platforms: 
+Tools: Zoom, Adobe Creative Suite, Slack, GitHub
+
+WORK EXPERIENCE
+Database Administrator - Google (2020 - Present)
+• Developed applications using Django and Plotly
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Information Technology
+Purdue University
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified

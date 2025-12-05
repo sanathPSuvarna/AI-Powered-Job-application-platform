@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 2 years of experience in software development and technology.
+Strong background in Shell Scripting, Public Speaking, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin, Swift, PHP
+Technologies: Gatsby
+Databases: Neo4j, Amazon RDS
+Cloud Platforms: AWS
+Tools: Adobe Creative Suite, Swagger, Postman, Sketch
+
+WORK EXPERIENCE
+Frontend Developer - Twitter (2022 - Present)
+• Developed applications using Shell Scripting and Public Speaking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS
+Microsoft Certified, Google Cloud Certified

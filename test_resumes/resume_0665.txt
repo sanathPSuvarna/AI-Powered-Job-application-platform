@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Plotly, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, F#, TypeScript
+Technologies: Laravel
+Databases: SQLite
+Cloud Platforms: 
+Tools: Scrum, GitLab, Microservices
+
+WORK EXPERIENCE
+Network Engineer - Twitter (2021 - Present)
+• Developed applications using CompTIA Security+ and Plotly
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+

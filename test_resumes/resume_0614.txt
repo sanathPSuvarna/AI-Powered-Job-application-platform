@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Cybersecurity Analyst with 9 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python, Haskell, Swift
+Technologies: Webpack, LESS, Express.js
+Databases: Oracle, Redis
+Cloud Platforms: AWS, CircleCI, Heroku
+Tools: Microservices, Bitbucket, Sketch
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Shopify (2015 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2011
+
+CERTIFICATIONS
+CISSP

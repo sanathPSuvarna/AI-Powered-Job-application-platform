@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 7 years of experience in software development and technology.
+Strong background in Plotly, Team Collaboration, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, PHP
+Technologies: Angular
+Databases: SQL Server, Amazon RDS
+Cloud Platforms: 
+Tools: Slack, Microsoft Teams, Kanban, Microservices
+
+WORK EXPERIENCE
+Project Manager - Intel (2017 - Present)
+• Developed applications using Plotly and Team Collaboration
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Engineering in Data Science
+Columbia University
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP, Scrum Master

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 6 years of experience in software development and technology.
+Strong background in Chef, Scrum Master, MySQL.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Swift, Groovy, MATLAB
+Technologies: Svelte
+Databases: MySQL, InfluxDB
+Cloud Platforms: Chef
+Tools: JIRA, Zoom, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+UI/UX Designer - NVIDIA (2018 - Present)
+• Developed applications using Chef and Scrum Master
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Michigan
+Graduated: 2014
+
+CERTIFICATIONS
+Scrum Master, Google Cloud Certified

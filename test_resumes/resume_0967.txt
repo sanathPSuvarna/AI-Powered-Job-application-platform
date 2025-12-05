@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 2 years of experience in software development and technology.
+Strong background in Public Speaking, SASS, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, JavaScript
+Technologies: SASS, React, Flask
+Databases: SQL Server, Firebase
+Cloud Platforms: Google Cloud Platform
+Tools: SOAP, Sketch
+
+WORK EXPERIENCE
+Data Scientist - Adobe (2022 - Present)
+• Developed applications using Public Speaking and SASS
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2018
+
+CERTIFICATIONS
+Azure Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 7 years of experience in software development and technology.
+Strong background in Project Management, Google Cloud Certified, Figma.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Haskell
+Technologies: Babel, Spring Boot, Angular
+Databases: Neo4j
+Cloud Platforms: GitHub Actions, Vagrant
+Tools: Figma, GraphQL, Kanban
+
+WORK EXPERIENCE
+DevOps Engineer - eBay (2017 - Present)
+• Developed applications using Project Management and Google Cloud Certified
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Cisco Certified, Salesforce Certified

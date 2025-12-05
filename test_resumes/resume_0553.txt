@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 2 years of experience in software development and technology.
+Strong background in PowerShell, jQuery, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Java, Clojure, Kotlin
+Technologies: jQuery, Angular, Svelte
+Databases: DynamoDB, InfluxDB
+Cloud Platforms: 
+Tools: Postman, Agile
+
+WORK EXPERIENCE
+Data Scientist - Zoom (2022 - Present)
+• Developed applications using PowerShell and jQuery
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS
+Scrum Master, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 11 years of experience in software development and technology.
+Strong background in PostgreSQL, InVision, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Perl, Swift
+Technologies: HTML, LESS
+Databases: PostgreSQL, Firebase, SQLite
+Cloud Platforms: Docker, Puppet
+Tools: InVision, Git, Bitbucket
+
+WORK EXPERIENCE
+System Administrator - Facebook (2013 - Present)
+• Developed applications using PostgreSQL and InVision
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2009
+
+CERTIFICATIONS
+Azure Certified, Microsoft Certified, AWS Certified

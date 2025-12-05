@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 13 years of experience in software development and technology.
+Strong background in MariaDB, Cisco Certified, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart, Groovy
+Technologies: jQuery, Node.js, Bootstrap, Django
+Databases: MariaDB, CouchDB
+Cloud Platforms: Jenkins, Kubernetes
+Tools: Swagger, Microservices, Scrum, Agile, GitHub
+
+WORK EXPERIENCE
+System Administrator - Facebook (2011 - Present)
+• Developed applications using MariaDB and Cisco Certified
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2007
+
+CERTIFICATIONS
+Cisco Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 5 years of experience in software development and technology.
+Strong background in Cisco Certified, PowerShell, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Python, Haskell
+Technologies: Gatsby, Babel, Spring Boot
+Databases: DynamoDB, MongoDB
+Cloud Platforms: 
+Tools: Microsoft Teams, GitHub, DevOps
+
+WORK EXPERIENCE
+Engineering Manager - Facebook (2019 - Present)
+• Developed applications using Cisco Certified and PowerShell
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UT Austin
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

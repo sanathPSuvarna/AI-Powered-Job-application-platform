@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 4 years of experience in software development and technology.
+Strong background in Critical Thinking, Time Management, InfluxDB.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, TypeScript, Scala
+Technologies: Angular
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Confluence, Sketch
+
+WORK EXPERIENCE
+Tech Lead - Intel (2020 - Present)
+• Developed applications using Critical Thinking and Time Management
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2016
+
+CERTIFICATIONS
+AWS Certified, Salesforce Certified

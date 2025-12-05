@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 13 years of experience in software development and technology.
+Strong background in Shell Scripting, Cisco Certified, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, JavaScript, Kotlin, PHP
+Technologies: Laravel, Bootstrap, LESS
+Databases: Firebase, Cassandra
+Cloud Platforms: Terraform, GitHub Actions
+Tools: SOAP, REST API, Microsoft Teams
+
+WORK EXPERIENCE
+Project Manager - Facebook (2011 - Present)
+• Developed applications using Shell Scripting and Cisco Certified
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Machine Learning
+Purdue University
+Graduated: 2007
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified

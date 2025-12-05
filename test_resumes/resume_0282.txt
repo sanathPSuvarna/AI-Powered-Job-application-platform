@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 2 years of experience in software development and technology.
+Strong background in MariaDB, Clojure, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, PowerShell, Dart
+Technologies: SASS, Express.js
+Databases: MariaDB
+Cloud Platforms: Ansible, Docker
+Tools: Zoom, Slack
+
+WORK EXPERIENCE
+Senior Software Engineer - VMware (2022 - Present)
+• Developed applications using MariaDB and Clojure
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Business Administration
+Princeton University
+Graduated: 2018
+
+CERTIFICATIONS
+Microsoft Certified

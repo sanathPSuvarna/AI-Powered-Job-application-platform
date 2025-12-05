@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 0 years of experience in software development and technology.
+Strong background in Project Management, Time Management, F#.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Objective-C, Python
+Technologies: Gatsby, React
+Databases: Neo4j, Amazon RDS
+Cloud Platforms: 
+Tools: GitLab, Slack, Agile, Microservices
+
+WORK EXPERIENCE
+Frontend Developer - Zoom (2024 - Present)
+• Developed applications using Project Management and Time Management
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+NYU
+Graduated: 2020
+
+CERTIFICATIONS

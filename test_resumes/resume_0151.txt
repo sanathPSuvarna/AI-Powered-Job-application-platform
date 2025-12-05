@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Clojure, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Ruby, Haskell
+Technologies: Svelte, Spring Boot, Bootstrap
+Databases: PostgreSQL, Neo4j
+Cloud Platforms: Azure
+Tools: Sketch, DevOps
+
+WORK EXPERIENCE
+Database Administrator - Twitter (2021 - Present)
+• Developed applications using CompTIA Security+ and Clojure
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Information Technology
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, AWS Certified, Scrum Master

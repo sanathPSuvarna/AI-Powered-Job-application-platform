@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 4 years of experience in software development and technology.
+Strong background in Communication, SASS, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, VBA
+Technologies: SASS, Babel, Bootstrap
+Databases: MySQL
+Cloud Platforms: Jenkins
+Tools: GitLab, Bitbucket, REST API
+
+WORK EXPERIENCE
+Software Engineer - LinkedIn (2020 - Present)
+• Developed applications using Communication and SASS
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Information Technology
+Yale University
+Graduated: 2016
+
+CERTIFICATIONS
+Salesforce Certified

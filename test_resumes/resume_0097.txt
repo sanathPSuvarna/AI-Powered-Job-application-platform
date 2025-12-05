@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 7 years of experience in software development and technology.
+Strong background in SASS, SQL Server, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, R, Rust
+Technologies: SASS, Angular, Gatsby
+Databases: SQL Server
+Cloud Platforms: Kubernetes
+Tools: Bitbucket, REST API, Microsoft Teams
+
+WORK EXPERIENCE
+Project Manager - Dropbox (2017 - Present)
+• Developed applications using SASS and SQL Server
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master

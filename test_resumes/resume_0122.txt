@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 11 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Perl, Haskell, R, PHP
+Technologies: Next.js, jQuery, Angular
+Databases: SQL Server, Elasticsearch
+Cloud Platforms: Jenkins, OpenShift
+Tools: Scrum, Figma, DevOps
+
+WORK EXPERIENCE
+QA Engineer - LinkedIn (2013 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Computer Science
+Princeton University
+Graduated: 2009
+
+CERTIFICATIONS
+Oracle Certified, CISSP, AWS Certified

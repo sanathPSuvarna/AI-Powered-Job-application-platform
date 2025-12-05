@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 8 years of experience in software development and technology.
+Strong background in MariaDB, Adobe Creative Suite, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, Kotlin, Groovy, Rust
+Technologies: Laravel, Node.js, Django
+Databases: MariaDB, Amazon RDS, SQLite
+Cloud Platforms: Chef, Docker
+Tools: Adobe Creative Suite, Git, Swagger, DevOps
+
+WORK EXPERIENCE
+Database Administrator - Twitter (2016 - Present)
+• Developed applications using MariaDB and Adobe Creative Suite
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2012
+
+CERTIFICATIONS
+PMP, CISSP

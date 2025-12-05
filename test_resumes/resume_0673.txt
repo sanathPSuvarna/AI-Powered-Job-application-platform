@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, Project Management, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Swift
+Technologies: SASS, HTML, CSS
+Databases: MySQL
+Cloud Platforms: Ansible, Azure
+Tools: Bitbucket, SOAP, DevOps
+
+WORK EXPERIENCE
+Software Architect - Shopify (2024 - Present)
+• Developed applications using Oracle Certified and Project Management
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified, CISSP

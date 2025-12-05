@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Dart, Haskell, Swift
+Technologies: SASS, Laravel, Node.js
+Databases: Cassandra, SQLite
+Cloud Platforms: 
+Tools: Adobe Creative Suite, GraphQL, Scrum, Slack
+
+WORK EXPERIENCE
+System Administrator - Cisco (2018 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

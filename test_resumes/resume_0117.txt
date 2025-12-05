@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 9 years of experience in software development and technology.
+Strong background in SASS, Google Cloud SQL, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Perl, Clojure
+Technologies: SASS, Webpack, LESS, Express.js
+Databases: Google Cloud SQL, Oracle, Neo4j
+Cloud Platforms: AWS, Google Cloud Platform
+Tools: SOAP, Git, Zoom, Microservices, DevOps
+
+WORK EXPERIENCE
+Network Engineer - Airbnb (2015 - Present)
+• Developed applications using SASS and Google Cloud SQL
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+Graduated: 2011
+
+CERTIFICATIONS
+PMP

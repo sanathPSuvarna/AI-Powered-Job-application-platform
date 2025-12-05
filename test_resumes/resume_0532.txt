@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 15 years of experience in software development and technology.
+Strong background in CompTIA Security+, TypeScript, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Clojure, Kotlin, Groovy
+Technologies: Angular, Gatsby, Flask
+Databases: Oracle, Cassandra, SQLite
+Cloud Platforms: Ansible, DigitalOcean
+Tools: JIRA, Sketch, Slack
+
+WORK EXPERIENCE
+Business Analyst - Amazon (2009 - Present)
+• Developed applications using CompTIA Security+ and TypeScript
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Information Technology
+UCLA
+Graduated: 2005
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified, Microsoft Certified

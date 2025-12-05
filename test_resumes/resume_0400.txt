@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 10 years of experience in software development and technology.
+Strong background in Shell Scripting, TypeScript, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, Haskell, Clojure
+Technologies: jQuery, Gatsby, Babel
+Databases: Cassandra, MongoDB
+Cloud Platforms: Terraform
+Tools: Git, GraphQL, Agile, DevOps
+
+WORK EXPERIENCE
+System Administrator - Uber (2014 - Present)
+• Developed applications using Shell Scripting and TypeScript
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2010
+
+CERTIFICATIONS
+Salesforce Certified, AWS Certified

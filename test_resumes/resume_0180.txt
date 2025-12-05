@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 5 years of experience in software development and technology.
+Strong background in Public Speaking, Perl, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Objective-C, Go
+Technologies: Node.js, Bootstrap
+Databases: SQL Server, Oracle
+Cloud Platforms: 
+Tools: Adobe Creative Suite, REST API
+
+WORK EXPERIENCE
+Backend Developer - Amazon (2019 - Present)
+• Developed applications using Public Speaking and Perl
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Business Administration
+Georgia Tech
+Graduated: 2015
+
+CERTIFICATIONS
+AWS Certified, PMP

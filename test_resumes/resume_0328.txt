@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Communication, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Kotlin, Objective-C, Java
+Technologies: Nuxt.js, Vue.js, Flask
+Databases: Google Cloud SQL, Elasticsearch
+Cloud Platforms: OpenShift, Chef
+Tools: Microservices, REST API
+
+WORK EXPERIENCE
+Tech Lead - Adobe (2023 - Present)
+• Developed applications using Nuxt.js and Communication
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Purdue University
+Graduated: 2019
+
+CERTIFICATIONS

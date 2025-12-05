@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 0 years of experience in software development and technology.
+Strong background in Critical Thinking, Communication, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Swift
+Technologies: React
+Databases: SQLite, MySQL
+Cloud Platforms: 
+Tools: Bitbucket, GitHub, SOAP
+
+WORK EXPERIENCE
+Software Engineer - Facebook (2024 - Present)
+• Developed applications using Critical Thinking and Communication
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+Georgia Tech
+Graduated: 2020
+
+CERTIFICATIONS

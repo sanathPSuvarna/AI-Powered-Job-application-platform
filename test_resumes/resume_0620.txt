@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 2 years of experience in software development and technology.
+Strong background in Team Collaboration, Creativity, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, Groovy, Scala
+Technologies: Laravel, Node.js, Babel
+Databases: CouchDB
+Cloud Platforms: 
+Tools: Swagger, Postman, Figma, Sketch
+
+WORK EXPERIENCE
+UI/UX Designer - Slack (2022 - Present)
+• Developed applications using Team Collaboration and Creativity
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Information Technology
+CMU
+Graduated: 2018
+
+CERTIFICATIONS
+CISSP

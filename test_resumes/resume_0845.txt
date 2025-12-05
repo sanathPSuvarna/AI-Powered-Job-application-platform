@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 3 years of experience in software development and technology.
+Strong background in Nuxt.js, GitLab CI/CD, Project Management.
+
+TECHNICAL SKILLS
+Programming Languages: Python, PowerShell, C++, Haskell
+Technologies: Nuxt.js, Node.js
+Databases: Oracle, Neo4j
+Cloud Platforms: GitLab CI/CD, DigitalOcean
+Tools: Zoom, Swagger, Microsoft Teams, InVision
+
+WORK EXPERIENCE
+Network Engineer - VMware (2021 - Present)
+• Developed applications using Nuxt.js and GitLab CI/CD
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+UT Austin
+Graduated: 2017
+
+CERTIFICATIONS
+Google Cloud Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 1 years of experience in software development and technology.
+Strong background in Public Speaking, Creativity, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Python, MATLAB
+Technologies: Next.js
+Databases: MongoDB, SQLite
+Cloud Platforms: 
+Tools: Swagger, Slack
+
+WORK EXPERIENCE
+Software Architect - Airbnb (2023 - Present)
+• Developed applications using Public Speaking and Creativity
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Computer Science
+USC
+Graduated: 2019
+
+CERTIFICATIONS
+CISSP, Google Cloud Certified

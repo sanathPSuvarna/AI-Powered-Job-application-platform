@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 15 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Swift, Groovy, Rust
+Technologies: HTML, Svelte, React, Django
+Databases: MariaDB, MongoDB
+Cloud Platforms: AWS, CircleCI, Heroku
+Tools: Postman, Microservices, Bitbucket, REST API, Microsoft Teams
+
+WORK EXPERIENCE
+Senior Software Engineer - Airbnb (2009 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2005
+
+CERTIFICATIONS
+CompTIA Security+, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 1 years of experience in software development and technology.
+Strong background in CompTIA Security+, Figma, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: PHP, Dart
+Technologies: Angular, React
+Databases: Oracle
+Cloud Platforms: Docker
+Tools: Figma, Agile, Microservices
+
+WORK EXPERIENCE
+Database Administrator - eBay (2023 - Present)
+• Developed applications using CompTIA Security+ and Figma
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2019
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

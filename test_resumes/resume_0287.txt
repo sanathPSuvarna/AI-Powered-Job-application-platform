@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 7 years of experience in software development and technology.
+Strong background in Customer Service, Kanban, Salesforce Certified.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, C#, Haskell, Java
+Technologies: Laravel, jQuery
+Databases: Cassandra, SQLite
+Cloud Platforms: CircleCI, Vagrant
+Tools: Kanban, Swagger
+
+WORK EXPERIENCE
+Data Analyst - Zoom (2017 - Present)
+• Developed applications using Customer Service and Kanban
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Columbia University
+Graduated: 2013
+
+CERTIFICATIONS
+Salesforce Certified

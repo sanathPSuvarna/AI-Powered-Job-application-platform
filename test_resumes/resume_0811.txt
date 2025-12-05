@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 7 years of experience in software development and technology.
+Strong background in Time Management, Figma, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, TypeScript
+Technologies: Svelte
+Databases: Cassandra
+Cloud Platforms: 
+Tools: Figma, DevOps, Git, Microservices
+
+WORK EXPERIENCE
+Engineering Manager - Apple (2017 - Present)
+• Developed applications using Time Management and Figma
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2013
+
+CERTIFICATIONS
+AWS Certified

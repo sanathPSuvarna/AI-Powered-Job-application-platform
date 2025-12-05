@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 11 years of experience in software development and technology.
+Strong background in Shell Scripting, Pandas, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Dart, C++, Groovy, Ruby
+Technologies: Angular, CSS, Webpack
+Databases: DynamoDB, Amazon RDS, SQLite
+Cloud Platforms: Terraform
+Tools: InVision, Git, Agile, GitHub
+
+WORK EXPERIENCE
+Database Administrator - Slack (2013 - Present)
+• Developed applications using Shell Scripting and Pandas
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Stanford University
+Graduated: 2009
+
+CERTIFICATIONS
+Oracle Certified, CISSP

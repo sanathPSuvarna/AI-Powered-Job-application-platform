@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 2 years of experience in software development and technology.
+Strong background in Leadership, Slack, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Ruby
+Technologies: Babel
+Databases: Firebase
+Cloud Platforms: 
+Tools: Slack, SOAP, Figma
+
+WORK EXPERIENCE
+Full Stack Developer - Netflix (2022 - Present)
+• Developed applications using Leadership and Slack
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Information Technology
+Purdue University
+Graduated: 2018
+
+CERTIFICATIONS
+Salesforce Certified

@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 2 years of experience in software development and technology.
+Strong background in Chef, R, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: R, Dart
+Technologies: SASS, Svelte
+Databases: DynamoDB, Firebase
+Cloud Platforms: Chef, Google Cloud Platform
+Tools: Adobe Creative Suite, Microsoft Teams, Bitbucket
+
+WORK EXPERIENCE
+Product Manager - VMware (2022 - Present)
+• Developed applications using Chef and R
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UT Austin
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 1 years of experience in software development and technology.
+Strong background in Heroku, GitLab CI/CD, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, VBA, PHP, Scala
+Technologies: CSS
+Databases: InfluxDB, Cassandra
+Cloud Platforms: Heroku, GitLab CI/CD
+Tools: Scrum, Slack, SOAP
+
+WORK EXPERIENCE
+QA Engineer - Yahoo (2023 - Present)
+• Developed applications using Heroku and GitLab CI/CD
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Business Administration
+Stanford University
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified

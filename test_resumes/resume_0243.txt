@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 7 years of experience in software development and technology.
+Strong background in Nuxt.js, Public Speaking, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Swift
+Technologies: Nuxt.js, SASS
+Databases: SQL Server
+Cloud Platforms: Vagrant, Kubernetes
+Tools: GraphQL, Microsoft Teams, Git, Figma
+
+WORK EXPERIENCE
+System Administrator - PayPal (2017 - Present)
+• Developed applications using Nuxt.js and Public Speaking
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified

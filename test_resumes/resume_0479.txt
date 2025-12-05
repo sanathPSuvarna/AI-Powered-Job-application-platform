@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 2 years of experience in software development and technology.
+Strong background in PyTorch, Perl, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, TypeScript, MATLAB
+Technologies: Svelte, Gatsby, Vue.js
+Databases: Google Cloud SQL, PostgreSQL
+Cloud Platforms: Google Cloud Platform
+Tools: Agile, Bitbucket, Sketch
+
+WORK EXPERIENCE
+Frontend Developer - Amazon (2022 - Present)
+• Developed applications using PyTorch and Perl
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Machine Learning
+Harvard University
+Graduated: 2018
+
+CERTIFICATIONS

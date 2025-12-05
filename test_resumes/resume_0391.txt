@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 2 years of experience in software development and technology.
+Strong background in Django, Heroku, PyTorch.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, PHP
+Technologies: Django, Svelte
+Databases: Google Cloud SQL
+Cloud Platforms: Heroku, CircleCI
+Tools: Zoom, JIRA, Confluence
+
+WORK EXPERIENCE
+Data Scientist - HP (2022 - Present)
+• Developed applications using Django and Heroku
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Business Administration
+University of Michigan
+Graduated: 2018
+
+CERTIFICATIONS

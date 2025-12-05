@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 7 years of experience in software development and technology.
+Strong background in Shell Scripting, Laravel, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C#, Scala, JavaScript
+Technologies: Laravel, Django, LESS
+Databases: InfluxDB
+Cloud Platforms: Vagrant
+Tools: SOAP, GitLab, GitHub
+
+WORK EXPERIENCE
+Database Administrator - PayPal (2017 - Present)
+• Developed applications using Shell Scripting and Laravel
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Engineering in Data Science
+Yale University
+Graduated: 2013
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified, AWS Certified

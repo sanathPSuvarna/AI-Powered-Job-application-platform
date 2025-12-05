@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 2 years of experience in software development and technology.
+Strong background in Communication, C++, F#.
+
+TECHNICAL SKILLS
+Programming Languages: C++, F#, C#
+Technologies: Laravel
+Databases: Cassandra, Redis
+Cloud Platforms: AWS
+Tools: Slack, InVision, Microservices, Confluence
+
+WORK EXPERIENCE
+Backend Developer - LinkedIn (2022 - Present)
+• Developed applications using Communication and C++
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Information Technology
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, R, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: R, F#
+Technologies: LESS, Vue.js
+Databases: DynamoDB
+Cloud Platforms: 
+Tools: Zoom, Confluence
+
+WORK EXPERIENCE
+Business Analyst - NVIDIA (2017 - Present)
+• Developed applications using Oracle Certified and R
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, SQL Server, VBA.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Java
+Technologies: HTML, Babel, LESS
+Databases: SQL Server, MySQL
+Cloud Platforms: Jenkins, DigitalOcean
+Tools: Git, GraphQL, GitLab
+
+WORK EXPERIENCE
+Business Analyst - Zoom (2019 - Present)
+• Developed applications using CompTIA Security+ and SQL Server
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Computer Science
+University of Michigan
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified, AWS Certified

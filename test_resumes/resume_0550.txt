@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Django, Critical Thinking.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, MATLAB
+Technologies: Nuxt.js, Django, CSS
+Databases: Amazon RDS, Firebase
+Cloud Platforms: 
+Tools: GraphQL, DevOps, Figma, JIRA
+
+WORK EXPERIENCE
+Data Analyst - Square (2023 - Present)
+• Developed applications using Nuxt.js and Django
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with CSS
+
+EDUCATION
+Master of Science in Machine Learning
+Columbia University
+Graduated: 2019
+
+CERTIFICATIONS

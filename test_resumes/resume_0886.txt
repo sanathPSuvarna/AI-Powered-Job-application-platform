@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Clojure, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, PowerShell, C#
+Technologies: Webpack, Node.js, React
+Databases: Cassandra
+Cloud Platforms: 
+Tools: GitLab, Postman
+
+WORK EXPERIENCE
+Senior Software Engineer - Salesforce (2021 - Present)
+• Developed applications using CompTIA Security+ and Clojure
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 13 years of experience in software development and technology.
+Strong background in SQL Server, PowerShell, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, C++, MATLAB
+Technologies: Gatsby, Webpack, Django, LESS
+Databases: SQL Server, DynamoDB, SQLite
+Cloud Platforms: GitLab CI/CD, Vagrant, OpenShift
+Tools: InVision, Bitbucket, Sketch
+
+WORK EXPERIENCE
+Senior Software Engineer - Square (2011 - Present)
+• Developed applications using SQL Server and PowerShell
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2007
+
+CERTIFICATIONS
+Scrum Master, PMP

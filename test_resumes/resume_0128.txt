@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, Team Collaboration, HTML.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Rust, Haskell
+Technologies: HTML
+Databases: MySQL
+Cloud Platforms: GitHub Actions
+Tools: Microsoft Teams, Bitbucket, Figma
+
+WORK EXPERIENCE
+Product Manager - LinkedIn (2024 - Present)
+• Developed applications using Oracle Certified and Team Collaboration
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified

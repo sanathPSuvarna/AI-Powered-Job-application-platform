@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 12 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Postman, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, Kotlin, Rust
+Technologies: Spring Boot, React, Webpack
+Databases: Google Cloud SQL, MongoDB
+Cloud Platforms: Google Cloud Platform
+Tools: Postman, Swagger, Bitbucket, GitLab, Kanban
+
+WORK EXPERIENCE
+Machine Learning Engineer - Shopify (2012 - Present)
+• Developed applications using Google Cloud SQL and Postman
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2008
+
+CERTIFICATIONS
+Oracle Certified

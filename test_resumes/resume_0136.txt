@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 1 years of experience in software development and technology.
+Strong background in Chef, Terraform, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, VBA, MATLAB
+Technologies: LESS, Svelte, Babel
+Databases: Firebase
+Cloud Platforms: Chef, Terraform
+Tools: Adobe Creative Suite, Slack, GitLab, GraphQL
+
+WORK EXPERIENCE
+QA Engineer - Oracle (2023 - Present)
+• Developed applications using Chef and Terraform
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2019
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 3 years of experience in software development and technology.
+Strong background in Oracle Certified, Google Cloud Certified, DigitalOcean.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Python
+Technologies: Svelte, Laravel, CSS
+Databases: Cassandra
+Cloud Platforms: DigitalOcean, Google Cloud Platform
+Tools: InVision, SOAP, Figma, REST API
+
+WORK EXPERIENCE
+Business Analyst - eBay (2021 - Present)
+• Developed applications using Oracle Certified and Google Cloud Certified
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Science in Machine Learning
+NYU
+Graduated: 2017
+
+CERTIFICATIONS
+Oracle Certified, Google Cloud Certified, Salesforce Certified

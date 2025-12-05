@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 0 years of experience in software development and technology.
+Strong background in Django, GitLab CI/CD, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Scala
+Technologies: Django, Spring Boot
+Databases: InfluxDB
+Cloud Platforms: GitLab CI/CD, DigitalOcean
+Tools: GitLab, SOAP, GitHub, JIRA
+
+WORK EXPERIENCE
+Machine Learning Engineer - PayPal (2024 - Present)
+• Developed applications using Django and GitLab CI/CD
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2020
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified

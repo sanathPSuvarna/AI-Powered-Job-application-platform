@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 15 years of experience in software development and technology.
+Strong background in Time Management, InVision, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Java, Groovy, Ruby
+Technologies: Babel, Spring Boot, Flask
+Databases: DynamoDB, Elasticsearch, SQLite
+Cloud Platforms: Ansible, GitLab CI/CD
+Tools: InVision, JIRA, Confluence, Agile
+
+WORK EXPERIENCE
+Project Manager - Intel (2009 - Present)
+• Developed applications using Time Management and InVision
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2005
+
+CERTIFICATIONS
+PMP, Azure Certified, Microsoft Certified

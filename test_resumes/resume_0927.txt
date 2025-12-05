@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 13 years of experience in software development and technology.
+Strong background in MariaDB, Shell Scripting, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, VBA, Groovy
+Technologies: Angular, Webpack
+Databases: MariaDB, Oracle, Amazon RDS
+Cloud Platforms: AWS
+Tools: Bitbucket, Scrum, GitLab, Microsoft Teams
+
+WORK EXPERIENCE
+Frontend Developer - Netflix (2011 - Present)
+• Developed applications using MariaDB and Shell Scripting
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Information Technology
+NYU
+Graduated: 2007
+
+CERTIFICATIONS
+Cisco Certified, Salesforce Certified, Oracle Certified

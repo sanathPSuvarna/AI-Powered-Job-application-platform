@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Cybersecurity Analyst with 14 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, TypeScript, Haskell, Groovy, Ruby
+Technologies: Webpack, Express.js
+Databases: Oracle, Amazon RDS
+Cloud Platforms: Jenkins
+Tools: Adobe Creative Suite, SOAP, GraphQL, Slack
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Apple (2010 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2006
+
+CERTIFICATIONS
+Cisco Certified, Oracle Certified

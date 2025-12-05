@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior System Administrator with 10 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, Oracle, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, JavaScript, R, Kotlin
+Technologies: Vue.js, Nuxt.js
+Databases: Oracle, Elasticsearch
+Cloud Platforms: GitHub Actions
+Tools: Adobe Creative Suite, InVision, GitLab, Agile
+
+WORK EXPERIENCE
+System Administrator - Microsoft (2014 - Present)
+• Developed applications using Adobe Creative Suite and Oracle
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Michigan
+Graduated: 2010
+
+CERTIFICATIONS
+Google Cloud Certified, Oracle Certified, AWS Certified

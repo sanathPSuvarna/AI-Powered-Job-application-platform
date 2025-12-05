@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in MariaDB, Time Management, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Perl, JavaScript, Ruby
+Technologies: jQuery
+Databases: MariaDB
+Cloud Platforms: Chef
+Tools: InVision, SOAP, Scrum, GitHub
+
+WORK EXPERIENCE
+Project Manager - Microsoft (2019 - Present)
+• Developed applications using MariaDB and Time Management
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+Salesforce Certified, CISSP, Microsoft Certified

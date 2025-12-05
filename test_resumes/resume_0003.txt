@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Project Manager with 1 years of experience in software development and technology.
+Strong background in Power BI, Google Cloud Certified, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, JavaScript
+Technologies: Webpack
+Databases: MySQL
+Cloud Platforms: AWS
+Tools: GraphQL, SOAP, DevOps
+
+WORK EXPERIENCE
+Project Manager - Spotify (2023 - Present)
+• Developed applications using Power BI and Google Cloud Certified
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Engineering in Data Science
+Columbia University
+Graduated: 2019
+
+CERTIFICATIONS
+Google Cloud Certified

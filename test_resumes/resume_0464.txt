@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 3 years of experience in software development and technology.
+Strong background in Nuxt.js, Azure, CompTIA Security+.
+
+TECHNICAL SKILLS
+Programming Languages: PHP, Dart
+Technologies: Nuxt.js, LESS
+Databases: Google Cloud SQL, CouchDB
+Cloud Platforms: Azure, GitHub Actions
+Tools: Slack, SOAP, GitHub
+
+WORK EXPERIENCE
+Software Engineer - eBay (2021 - Present)
+• Developed applications using Nuxt.js and Azure
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Georgia Tech
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, PMP, Salesforce Certified

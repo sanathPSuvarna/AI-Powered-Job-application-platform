@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 3 years of experience in software development and technology.
+Strong background in PyTorch, Time Management, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Rust, PHP, C#
+Technologies: Angular
+Databases: DynamoDB
+Cloud Platforms: Vagrant
+Tools: Scrum, Figma, Zoom
+
+WORK EXPERIENCE
+Software Engineer - Salesforce (2021 - Present)
+• Developed applications using PyTorch and Time Management
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Information Technology
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+PMP, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 6 years of experience in software development and technology.
+Strong background in Critical Thinking, R, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: R, Perl, Ruby, JavaScript
+Technologies: Spring Boot, Flask
+Databases: Elasticsearch
+Cloud Platforms: 
+Tools: Figma, Microsoft Teams, Postman, Sketch
+
+WORK EXPERIENCE
+Machine Learning Engineer - Google (2018 - Present)
+• Developed applications using Critical Thinking and R
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Engineering in Data Science
+NYU
+Graduated: 2014
+
+CERTIFICATIONS
+Microsoft Certified, Azure Certified

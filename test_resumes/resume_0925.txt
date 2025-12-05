@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 15 years of experience in software development and technology.
+Strong background in Shell Scripting, PostgreSQL, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PHP, F#, Groovy, Scala
+Technologies: Bootstrap, CSS, Flask, Next.js
+Databases: PostgreSQL, Amazon RDS, SQLite
+Cloud Platforms: AWS, Jenkins, Vagrant
+Tools: Git, Swagger, Microservices, GitLab
+
+WORK EXPERIENCE
+Data Analyst - PayPal (2009 - Present)
+• Developed applications using Shell Scripting and PostgreSQL
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+Harvard University
+Graduated: 2005
+
+CERTIFICATIONS
+Scrum Master, CISSP, Microsoft Certified

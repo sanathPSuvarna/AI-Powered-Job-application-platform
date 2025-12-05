@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 2 years of experience in software development and technology.
+Strong background in Critical Thinking, Team Collaboration, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Scala
+Technologies: Svelte, Laravel, Node.js
+Databases: Google Cloud SQL
+Cloud Platforms: Ansible
+Tools: GitLab, REST API, Agile, Microservices
+
+WORK EXPERIENCE
+Solutions Architect - Oracle (2022 - Present)
+• Developed applications using Critical Thinking and Team Collaboration
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2018
+
+CERTIFICATIONS
+Salesforce Certified

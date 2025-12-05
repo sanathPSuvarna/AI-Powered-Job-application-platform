@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 14 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Cisco Certified, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: Dart, Scala, Go, Groovy
+Technologies: Vue.js, Bootstrap, Flask
+Databases: Google Cloud SQL, Neo4j
+Cloud Platforms: Jenkins
+Tools: Confluence, Agile, GitHub
+
+WORK EXPERIENCE
+Data Scientist - PayPal (2010 - Present)
+• Developed applications using Google Cloud SQL and Cisco Certified
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Computer Science
+NYU
+Graduated: 2006
+
+CERTIFICATIONS
+Cisco Certified, CISSP

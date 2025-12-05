@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Shell Scripting, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, JavaScript
+Technologies: Svelte, Babel, Django
+Databases: Oracle
+Cloud Platforms: Jenkins, Vagrant
+Tools: Microservices, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Technical Writer - Zoom (2018 - Present)
+• Developed applications using CompTIA Security+ and Shell Scripting
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Salesforce Certified

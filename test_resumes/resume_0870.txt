@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 3 years of experience in software development and technology.
+Strong background in R, SASS, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: R, Shell Scripting, VBA, PHP
+Technologies: SASS, jQuery, Express.js
+Databases: Oracle, SQLite
+Cloud Platforms: AWS, Puppet
+Tools: Scrum, Agile
+
+WORK EXPERIENCE
+Technical Writer - Salesforce (2021 - Present)
+• Developed applications using R and SASS
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Machine Learning
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Scrum Master

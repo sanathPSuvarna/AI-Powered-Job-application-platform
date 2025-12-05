@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Team Collaboration, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Groovy, JavaScript
+Technologies: Express.js
+Databases: Google Cloud SQL, PostgreSQL
+Cloud Platforms: Ansible, Terraform
+Tools: Figma, GitLab
+
+WORK EXPERIENCE
+Business Analyst - Airbnb (2021 - Present)
+• Developed applications using CompTIA Security+ and Team Collaboration
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Computer Science
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

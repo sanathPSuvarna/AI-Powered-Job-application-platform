@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 2 years of experience in software development and technology.
+Strong background in Power BI, PyTorch, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Ruby
+Technologies: Webpack
+Databases: PostgreSQL, Amazon RDS
+Cloud Platforms: 
+Tools: InVision, GitHub, DevOps
+
+WORK EXPERIENCE
+Software Architect - Square (2022 - Present)
+• Developed applications using Power BI and PyTorch
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Webpack
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS
+Azure Certified

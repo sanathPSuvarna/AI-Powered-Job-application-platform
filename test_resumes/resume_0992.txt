@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 13 years of experience in software development and technology.
+Strong background in PostgreSQL, Neo4j, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Python, Haskell, Ruby, MATLAB
+Technologies: Svelte, Babel, Flask, Express.js
+Databases: PostgreSQL, Neo4j, Cassandra
+Cloud Platforms: Ansible, CircleCI, GitLab CI/CD
+Tools: Microservices, Bitbucket, Sketch, Agile, GitHub
+
+WORK EXPERIENCE
+Project Manager - Intel (2011 - Present)
+• Developed applications using PostgreSQL and Neo4j
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2007
+
+CERTIFICATIONS
+PMP, Oracle Certified, Azure Certified

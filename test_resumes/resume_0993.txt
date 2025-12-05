@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 12 years of experience in software development and technology.
+Strong background in Adobe Creative Suite, SQL Server, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Perl, Haskell, F#, Scala
+Technologies: Vue.js, React
+Databases: SQL Server, Elasticsearch
+Cloud Platforms: Chef, Terraform
+Tools: Adobe Creative Suite, InVision, GraphQL, Slack
+
+WORK EXPERIENCE
+Data Analyst - Google (2012 - Present)
+• Developed applications using Adobe Creative Suite and SQL Server
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Science in Computer Science
+University of Washington
+Graduated: 2008
+
+CERTIFICATIONS
+Salesforce Certified, Microsoft Certified

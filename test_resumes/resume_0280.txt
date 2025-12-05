@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with 12 years of experience in software development and technology.
+Strong background in MariaDB, PostgreSQL, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Go, JavaScript, C++, Ruby
+Technologies: Angular, HTML, React
+Databases: MariaDB, PostgreSQL, CouchDB
+Cloud Platforms: AWS, GitHub Actions
+Tools: GraphQL, Microservices, Agile, GitHub, DevOps
+
+WORK EXPERIENCE
+Full Stack Developer - NVIDIA (2012 - Present)
+• Developed applications using MariaDB and PostgreSQL
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Information Technology
+UC Berkeley
+Graduated: 2008
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master, Microsoft Certified

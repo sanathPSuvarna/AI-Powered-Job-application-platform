@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, C++, Dart
+Technologies: Next.js, React
+Databases: MongoDB, CouchDB
+Cloud Platforms: Ansible
+Tools: Sketch, JIRA
+
+WORK EXPERIENCE
+Data Scientist - eBay (2019 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Computer Science
+UT Austin
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Google Cloud Certified

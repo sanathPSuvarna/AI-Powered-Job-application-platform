@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 2 years of experience in software development and technology.
+Strong background in Project Management, Power BI, GraphQL.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Groovy, VBA
+Technologies: Angular
+Databases: Neo4j, Elasticsearch
+Cloud Platforms: 
+Tools: GraphQL, Bitbucket
+
+WORK EXPERIENCE
+QA Engineer - Airbnb (2022 - Present)
+• Developed applications using Project Management and Power BI
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2018
+
+CERTIFICATIONS
+Azure Certified

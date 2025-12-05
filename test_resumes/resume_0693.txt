@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 4 years of experience in software development and technology.
+Strong background in Django, GitLab CI/CD, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Objective-C, Dart, Java
+Technologies: Django
+Databases: Oracle, Redis
+Cloud Platforms: GitLab CI/CD
+Tools: Microservices, DevOps
+
+WORK EXPERIENCE
+Technical Writer - VMware (2020 - Present)
+• Developed applications using Django and GitLab CI/CD
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Django
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2016
+
+CERTIFICATIONS
+CISSP

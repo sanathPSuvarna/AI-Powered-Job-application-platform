@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Technical Writer with 1 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Oracle Certified.
+
+TECHNICAL SKILLS
+Programming Languages: F#, PHP, C#, Haskell
+Technologies: Django, Angular
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: Swagger, Microsoft Teams, GitHub
+
+WORK EXPERIENCE
+Technical Writer - Intel (2023 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Computer Science
+Harvard University
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified, Azure Certified

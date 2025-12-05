@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 3 years of experience in software development and technology.
+Strong background in MariaDB, Critical Thinking, Figma.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, PowerShell, Go
+Technologies: Angular
+Databases: MariaDB, MySQL
+Cloud Platforms: 
+Tools: Figma, Bitbucket, DevOps
+
+WORK EXPERIENCE
+Senior Software Engineer - Spotify (2021 - Present)
+• Developed applications using MariaDB and Critical Thinking
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2017
+
+CERTIFICATIONS
+PMP, Scrum Master

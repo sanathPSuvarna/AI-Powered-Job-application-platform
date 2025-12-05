@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 5 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Objective-C, C#
+Technologies: Django, Babel, React
+Databases: Oracle
+Cloud Platforms: Azure
+Tools: Bitbucket, Kanban
+
+WORK EXPERIENCE
+Frontend Developer - VMware (2019 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with React
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2015
+
+CERTIFICATIONS
+Microsoft Certified, Azure Certified

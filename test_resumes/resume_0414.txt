@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Cybersecurity Analyst with 15 years of experience in software development and technology.
+Strong background in SASS, Pandas, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, JavaScript, Clojure
+Technologies: SASS, Flask
+Databases: Amazon RDS, Firebase
+Cloud Platforms: Docker, GitLab CI/CD, Terraform
+Tools: Postman, Swagger, GitLab, Microsoft Teams, GitHub
+
+WORK EXPERIENCE
+Cybersecurity Analyst - NVIDIA (2009 - Present)
+• Developed applications using SASS and Pandas
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2005
+
+CERTIFICATIONS
+Oracle Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 7 years of experience in software development and technology.
+Strong background in R, Team Collaboration, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: R, Java, Dart
+Technologies: Express.js, Vue.js
+Databases: Google Cloud SQL
+Cloud Platforms: GitHub Actions
+Tools: Git, GitHub
+
+WORK EXPERIENCE
+Solutions Architect - Salesforce (2017 - Present)
+• Developed applications using R and Team Collaboration
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Michigan
+Graduated: 2013
+
+CERTIFICATIONS
+Azure Certified, PMP

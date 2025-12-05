@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 5 years of experience in software development and technology.
+Strong background in SASS, Cisco Certified, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Perl, Groovy, Scala
+Technologies: SASS, Django
+Databases: Cassandra
+Cloud Platforms: Terraform
+Tools: SOAP, Scrum, GitHub, DevOps
+
+WORK EXPERIENCE
+UI/UX Designer - Square (2019 - Present)
+• Developed applications using SASS and Cisco Certified
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified, CISSP

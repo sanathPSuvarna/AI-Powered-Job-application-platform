@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 2 years of experience in software development and technology.
+Strong background in CompTIA Security+, Critical Thinking, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Dart
+Technologies: Next.js
+Databases: Neo4j, Redis
+Cloud Platforms: DigitalOcean
+Tools: Slack, Microsoft Teams, Sketch
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Spotify (2022 - Present)
+• Developed applications using CompTIA Security+ and Critical Thinking
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Engineering in Data Science
+Harvard University
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

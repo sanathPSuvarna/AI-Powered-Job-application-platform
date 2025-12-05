@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 7 years of experience in software development and technology.
+Strong background in Public Speaking, Creativity, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Ruby, Dart, Haskell
+Technologies: jQuery
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: InVision, GitHub
+
+WORK EXPERIENCE
+Project Manager - Netflix (2017 - Present)
+• Developed applications using Public Speaking and Creativity
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified

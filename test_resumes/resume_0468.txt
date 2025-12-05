@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 2 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Communication, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, TypeScript, C++
+Technologies: Angular, Flask
+Databases: Cassandra
+Cloud Platforms: GitLab CI/CD
+Tools: GraphQL, Bitbucket, SOAP
+
+WORK EXPERIENCE
+UI/UX Designer - eBay (2022 - Present)
+• Developed applications using GitLab CI/CD and Communication
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2018
+
+CERTIFICATIONS
+PMP

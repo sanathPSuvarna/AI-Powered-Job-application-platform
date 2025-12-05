@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 1 years of experience in software development and technology.
+Strong background in MariaDB, Project Management, AWS.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Rust, C++, Java
+Technologies: Express.js, React
+Databases: MariaDB
+Cloud Platforms: AWS, Jenkins
+Tools: SOAP, Git
+
+WORK EXPERIENCE
+Product Manager - PayPal (2023 - Present)
+• Developed applications using MariaDB and Project Management
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+MIT
+Graduated: 2019
+
+CERTIFICATIONS

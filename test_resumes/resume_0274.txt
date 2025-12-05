@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 0 years of experience in software development and technology.
+Strong background in Team Collaboration, HTML, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Scala, Dart, Java
+Technologies: HTML, jQuery
+Databases: PostgreSQL
+Cloud Platforms: Puppet
+Tools: Sketch, DevOps, JIRA
+
+WORK EXPERIENCE
+Software Architect - Yahoo (2024 - Present)
+• Developed applications using Team Collaboration and HTML
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Machine Learning
+MIT
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified

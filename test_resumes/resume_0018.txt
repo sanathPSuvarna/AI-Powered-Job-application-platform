@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Power BI, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Ruby
+Technologies: Nuxt.js, Angular, React
+Databases: SQL Server, SQLite
+Cloud Platforms: 
+Tools: Figma, Bitbucket
+
+WORK EXPERIENCE
+Product Manager - Oracle (2023 - Present)
+• Developed applications using Nuxt.js and Power BI
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Computer Science
+Columbia University
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified, AWS Certified

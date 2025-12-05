@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 5 years of experience in software development and technology.
+Strong background in Clojure, Shell Scripting, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Shell Scripting, Swift, Java
+Technologies: Express.js
+Databases: Oracle
+Cloud Platforms: Ansible
+Tools: Scrum, Confluence
+
+WORK EXPERIENCE
+Product Manager - Slack (2019 - Present)
+• Developed applications using Clojure and Shell Scripting
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UCLA
+Graduated: 2015
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 3 years of experience in software development and technology.
+Strong background in Firebase, Git, Negotiation.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, MATLAB
+Technologies: Spring Boot, Flask, Nuxt.js
+Databases: Firebase, MySQL
+Cloud Platforms: CircleCI, DigitalOcean
+Tools: Git, JIRA, Zoom, Agile
+
+WORK EXPERIENCE
+Machine Learning Engineer - Cisco (2021 - Present)
+• Developed applications using Firebase and Git
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Machine Learning
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+Oracle Certified

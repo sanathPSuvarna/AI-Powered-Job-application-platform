@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 6 years of experience in software development and technology.
+Strong background in R, SASS, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: R, Kotlin, PowerShell, Ruby
+Technologies: SASS
+Databases: SQLite
+Cloud Platforms: 
+Tools: GraphQL, Sketch
+
+WORK EXPERIENCE
+System Administrator - Airbnb (2018 - Present)
+• Developed applications using R and SASS
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Engineering in Data Science
+CMU
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, Cisco Certified

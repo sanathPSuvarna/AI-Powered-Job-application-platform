@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 2 years of experience in software development and technology.
+Strong background in CompTIA Security+, Adobe Creative Suite, Postman.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, MATLAB
+Technologies: Bootstrap, React, LESS
+Databases: CouchDB, Redis
+Cloud Platforms: OpenShift
+Tools: Adobe Creative Suite, Postman, Microservices, Slack
+
+WORK EXPERIENCE
+DevOps Engineer - Uber (2022 - Present)
+• Developed applications using CompTIA Security+ and Adobe Creative Suite
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with React
+
+EDUCATION
+Master of Engineering in Data Science
+University of Illinois
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+

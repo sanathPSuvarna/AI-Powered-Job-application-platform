@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 0 years of experience in software development and technology.
+Strong background in Critical Thinking, Big Data, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Rust, C#, MATLAB
+Technologies: Babel
+Databases: SQL Server, Amazon RDS
+Cloud Platforms: 
+Tools: Slack, Kanban
+
+WORK EXPERIENCE
+Tech Lead - Facebook (2024 - Present)
+• Developed applications using Critical Thinking and Big Data
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2020
+
+CERTIFICATIONS

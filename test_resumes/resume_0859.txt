@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, Chef.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Python
+Technologies: Next.js
+Databases: PostgreSQL
+Cloud Platforms: Chef, AWS
+Tools: Microsoft Teams, Agile, Git, Microservices
+
+WORK EXPERIENCE
+Technical Writer - Zoom (2019 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, PMP, Salesforce Certified

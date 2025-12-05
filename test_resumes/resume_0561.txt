@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Project Manager with 1 years of experience in software development and technology.
+Strong background in MariaDB, Plotly, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, MATLAB
+Technologies: jQuery
+Databases: MariaDB, Google Cloud SQL
+Cloud Platforms: 
+Tools: GitLab, Swagger
+
+WORK EXPERIENCE
+Project Manager - NVIDIA (2023 - Present)
+• Developed applications using MariaDB and Plotly
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2019
+
+CERTIFICATIONS

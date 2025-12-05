@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 9 years of experience in software development and technology.
+Strong background in Time Management, SASS, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Python, Clojure, Rust
+Technologies: SASS, Vue.js, Spring Boot, Bootstrap
+Databases: Amazon RDS, InfluxDB
+Cloud Platforms: Jenkins, Azure
+Tools: Postman, Scrum, Microsoft Teams, Figma, DevOps
+
+WORK EXPERIENCE
+Network Engineer - eBay (2015 - Present)
+• Developed applications using Time Management and SASS
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2011
+
+CERTIFICATIONS
+Azure Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 13 years of experience in software development and technology.
+Strong background in MariaDB, PowerShell, InVision.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, VBA, Dart, Java, JavaScript
+Technologies: Angular, Svelte, Spring Boot
+Databases: MariaDB, MongoDB
+Cloud Platforms: Chef, AWS, Vagrant
+Tools: InVision, Scrum, Agile
+
+WORK EXPERIENCE
+UI/UX Designer - Intel (2011 - Present)
+• Developed applications using MariaDB and PowerShell
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2007
+
+CERTIFICATIONS
+Google Cloud Certified, PMP, Oracle Certified

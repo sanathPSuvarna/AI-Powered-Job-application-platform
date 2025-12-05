@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 2 years of experience in software development and technology.
+Strong background in Oracle Certified, Shell Scripting, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C++
+Technologies: LESS, React, CSS
+Databases: Cassandra
+Cloud Platforms: 
+Tools: Zoom, Kanban, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Senior Software Engineer - NVIDIA (2022 - Present)
+• Developed applications using Oracle Certified and Shell Scripting
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2018
+
+CERTIFICATIONS
+Oracle Certified, PMP

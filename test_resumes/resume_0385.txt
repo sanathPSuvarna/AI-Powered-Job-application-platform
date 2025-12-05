@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 2 years of experience in software development and technology.
+Strong background in Django, Plotly, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Go, Scala
+Technologies: Django, HTML
+Databases: SQL Server
+Cloud Platforms: 
+Tools: Slack, GitHub, Postman, DevOps
+
+WORK EXPERIENCE
+Senior Software Engineer - Salesforce (2022 - Present)
+• Developed applications using Django and Plotly
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Washington
+Graduated: 2018
+
+CERTIFICATIONS

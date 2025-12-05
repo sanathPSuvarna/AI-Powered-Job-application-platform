@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Product Manager with 9 years of experience in software development and technology.
+Strong background in Shell Scripting, Google Cloud SQL, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, JavaScript, Scala
+Technologies: HTML, Svelte, Bootstrap, Express.js
+Databases: Google Cloud SQL, Amazon RDS
+Cloud Platforms: GitHub Actions
+Tools: GraphQL, Sketch, Slack, Figma, DevOps
+
+WORK EXPERIENCE
+Product Manager - Uber (2015 - Present)
+• Developed applications using Shell Scripting and Google Cloud SQL
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+Princeton University
+Graduated: 2011
+
+CERTIFICATIONS
+Azure Certified, Microsoft Certified

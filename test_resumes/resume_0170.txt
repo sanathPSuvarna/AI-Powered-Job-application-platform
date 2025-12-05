@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid QA Engineer with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, Shell Scripting, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin, Go
+Technologies: Angular
+Databases: MongoDB
+Cloud Platforms: 
+Tools: Git, DevOps, REST API
+
+WORK EXPERIENCE
+QA Engineer - Dell (2019 - Present)
+• Developed applications using Oracle Certified and Shell Scripting
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Business Administration
+USC
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified, Cisco Certified, Azure Certified

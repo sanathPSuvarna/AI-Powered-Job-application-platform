@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Critical Thinking, CompTIA Security+.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Haskell
+Technologies: Nuxt.js, CSS
+Databases: Google Cloud SQL, Neo4j
+Cloud Platforms: Google Cloud Platform
+Tools: Scrum, Postman, GraphQL, Sketch
+
+WORK EXPERIENCE
+Project Manager - Twitter (2019 - Present)
+• Developed applications using Nuxt.js and Critical Thinking
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master

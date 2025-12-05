@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 5 years of experience in software development and technology.
+Strong background in Terraform, DigitalOcean, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Ruby, PHP
+Technologies: Laravel, Gatsby, CSS
+Databases: Redis, Elasticsearch
+Cloud Platforms: Terraform, DigitalOcean
+Tools: GitLab, Microsoft Teams, Confluence, Sketch
+
+WORK EXPERIENCE
+Machine Learning Engineer - Facebook (2019 - Present)
+• Developed applications using Terraform and DigitalOcean
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2015
+
+CERTIFICATIONS
+PMP

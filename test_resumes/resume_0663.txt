@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with 15 years of experience in software development and technology.
+Strong background in Time Management, Adobe Creative Suite, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, C#, Go, Haskell
+Technologies: Vue.js, HTML, Node.js, LESS
+Databases: MySQL, Cassandra, InfluxDB
+Cloud Platforms: Chef, Terraform, Heroku
+Tools: Adobe Creative Suite, Kanban, Git, Swagger, GitLab
+
+WORK EXPERIENCE
+Full Stack Developer - Uber (2009 - Present)
+• Developed applications using Time Management and Adobe Creative Suite
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+University of Washington
+Graduated: 2005
+
+CERTIFICATIONS
+PMP

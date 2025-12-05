@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 1 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, LESS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Ruby, Java
+Technologies: LESS, Laravel, Vue.js
+Databases: SQLite, DynamoDB
+Cloud Platforms: GitHub Actions
+Tools: Confluence, Git
+
+WORK EXPERIENCE
+Database Administrator - Netflix (2023 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Columbia University
+Graduated: 2019
+
+CERTIFICATIONS

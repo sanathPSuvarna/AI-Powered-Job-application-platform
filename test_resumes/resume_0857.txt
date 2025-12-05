@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 2 years of experience in software development and technology.
+Strong background in R, Scrum, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: R, F#, TypeScript
+Technologies: Svelte
+Databases: MySQL
+Cloud Platforms: GitHub Actions
+Tools: Scrum, Figma, Adobe Creative Suite, Microservices
+
+WORK EXPERIENCE
+Network Engineer - Microsoft (2022 - Present)
+• Developed applications using R and Scrum
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Michigan
+Graduated: 2018
+
+CERTIFICATIONS
+AWS Certified

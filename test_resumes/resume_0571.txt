@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Clojure, R.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, R, PHP, Haskell
+Technologies: Nuxt.js
+Databases: SQL Server, MySQL
+Cloud Platforms: GitHub Actions
+Tools: Kanban, REST API
+
+WORK EXPERIENCE
+Data Scientist - Dropbox (2023 - Present)
+• Developed applications using Nuxt.js and Clojure
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Engineering in Data Science
+Purdue University
+Graduated: 2019
+
+CERTIFICATIONS

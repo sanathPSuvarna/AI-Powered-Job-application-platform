@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 5 years of experience in software development and technology.
+Strong background in Nuxt.js, Shell Scripting, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python, Haskell
+Technologies: Nuxt.js
+Databases: Redis
+Cloud Platforms: 
+Tools: Microsoft Teams, JIRA
+
+WORK EXPERIENCE
+Data Analyst - Yahoo (2019 - Present)
+• Developed applications using Nuxt.js and Shell Scripting
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+USC
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified, CISSP

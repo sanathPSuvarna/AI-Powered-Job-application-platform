@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Backend Developer with 2 years of experience in software development and technology.
+Strong background in Public Speaking, PostgreSQL, F#.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Java
+Technologies: Node.js, Spring Boot, Angular
+Databases: PostgreSQL
+Cloud Platforms: GitHub Actions, Jenkins
+Tools: Adobe Creative Suite, GitLab, Confluence
+
+WORK EXPERIENCE
+Backend Developer - Amazon (2022 - Present)
+• Developed applications using Public Speaking and PostgreSQL
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Georgia Tech
+Graduated: 2018
+
+CERTIFICATIONS
+Scrum Master

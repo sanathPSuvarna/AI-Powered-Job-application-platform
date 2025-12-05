@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 7 years of experience in software development and technology.
+Strong background in Project Management, Zoom, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Ruby, Haskell
+Technologies: Node.js, Angular
+Databases: Neo4j
+Cloud Platforms: Azure
+Tools: Zoom, InVision, Microservices
+
+WORK EXPERIENCE
+Software Engineer - VMware (2017 - Present)
+• Developed applications using Project Management and Zoom
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+Princeton University
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP, Cisco Certified, Salesforce Certified

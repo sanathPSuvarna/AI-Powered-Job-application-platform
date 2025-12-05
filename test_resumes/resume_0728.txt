@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 0 years of experience in software development and technology.
+Strong background in Plotly, Shell Scripting, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin, C++, Dart
+Technologies: Svelte, jQuery, Next.js
+Databases: Firebase
+Cloud Platforms: GitHub Actions, CircleCI
+Tools: Kanban, Sketch, Git
+
+WORK EXPERIENCE
+Business Analyst - PayPal (2024 - Present)
+• Developed applications using Plotly and Shell Scripting
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Washington
+Graduated: 2020
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 4 years of experience in software development and technology.
+Strong background in TypeScript, Conflict Resolution, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Go, Haskell, Groovy
+Technologies: Node.js, React
+Databases: Elasticsearch, InfluxDB
+Cloud Platforms: 
+Tools: Zoom, Scrum, Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Cybersecurity Analyst - HP (2020 - Present)
+• Developed applications using TypeScript and Conflict Resolution
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+Columbia University
+Graduated: 2016
+
+CERTIFICATIONS
+Azure Certified

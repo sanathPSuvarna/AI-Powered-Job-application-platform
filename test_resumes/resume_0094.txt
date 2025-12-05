@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Engineering Manager with 2 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, MATLAB
+Technologies: Django, HTML
+Databases: Oracle, Elasticsearch
+Cloud Platforms: 
+Tools: Zoom, GitLab, Postman, GraphQL
+
+WORK EXPERIENCE
+Engineering Manager - Twitter (2022 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Washington
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified

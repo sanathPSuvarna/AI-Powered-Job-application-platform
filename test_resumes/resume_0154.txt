@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 5 years of experience in software development and technology.
+Strong background in R, PyTorch, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: R, Swift, Groovy, C++
+Technologies: Bootstrap
+Databases: PostgreSQL
+Cloud Platforms: 
+Tools: Zoom, Adobe Creative Suite, Kanban, Bitbucket
+
+WORK EXPERIENCE
+DevOps Engineer - Salesforce (2019 - Present)
+• Developed applications using R and PyTorch
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Business Administration
+Georgia Tech
+Graduated: 2015
+
+CERTIFICATIONS
+CISSP

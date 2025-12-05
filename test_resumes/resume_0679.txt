@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 3 years of experience in software development and technology.
+Strong background in Django, CompTIA Security+, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Ruby, Java
+Technologies: Django, React
+Databases: Amazon RDS, Firebase
+Cloud Platforms: 
+Tools: Zoom, Microservices
+
+WORK EXPERIENCE
+Business Analyst - Oracle (2021 - Present)
+• Developed applications using Django and CompTIA Security+
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master, PMP

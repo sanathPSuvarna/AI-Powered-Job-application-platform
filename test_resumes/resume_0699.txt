@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 13 years of experience in software development and technology.
+Strong background in SASS, TypeScript, Chef.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Go, PHP, Scala
+Technologies: SASS, HTML, Spring Boot, Next.js
+Databases: MySQL, Elasticsearch
+Cloud Platforms: Chef, AWS, Vagrant
+Tools: Git, GraphQL, Bitbucket, GitLab, DevOps
+
+WORK EXPERIENCE
+Tech Lead - PayPal (2011 - Present)
+• Developed applications using SASS and TypeScript
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Engineering in Data Science
+Purdue University
+Graduated: 2007
+
+CERTIFICATIONS
+Google Cloud Certified, Oracle Certified

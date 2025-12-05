@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 5 years of experience in software development and technology.
+Strong background in Critical Thinking, Creativity, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Ruby
+Technologies: LESS, React
+Databases: PostgreSQL
+Cloud Platforms: Docker
+Tools: Kanban, GitHub, SOAP, GraphQL
+
+WORK EXPERIENCE
+Full Stack Developer - Dell (2019 - Present)
+• Developed applications using Critical Thinking and Creativity
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Computer Science
+CMU
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified

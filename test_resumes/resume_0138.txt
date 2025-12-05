@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 2 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, Scikit-learn.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Go, Swift, MATLAB
+Technologies: Svelte, LESS
+Databases: PostgreSQL, MongoDB
+Cloud Platforms: Puppet, Kubernetes
+Tools: Swagger, REST API, Kanban
+
+WORK EXPERIENCE
+Software Architect - Adobe (2022 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+Yale University
+Graduated: 2018
+
+CERTIFICATIONS
+Azure Certified

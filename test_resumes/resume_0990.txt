@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Analyst with 5 years of experience in software development and technology.
+Strong background in SASS, Next.js, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Ruby
+Technologies: SASS, Next.js, Express.js
+Databases: Amazon RDS, InfluxDB
+Cloud Platforms: DigitalOcean, OpenShift
+Tools: Bitbucket, Slack, Agile
+
+WORK EXPERIENCE
+Data Analyst - IBM (2019 - Present)
+• Developed applications using SASS and Next.js
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Engineering in Data Science
+NYU
+Graduated: 2015
+
+CERTIFICATIONS
+Google Cloud Certified, Azure Certified, Microsoft Certified

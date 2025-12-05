@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 0 years of experience in software development and technology.
+Strong background in Shell Scripting, Cisco Certified, Amazon RDS.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C#, Kotlin, Ruby
+Technologies: Django
+Databases: Amazon RDS
+Cloud Platforms: Chef
+Tools: SOAP, Confluence, Scrum, Figma
+
+WORK EXPERIENCE
+System Administrator - Amazon (2024 - Present)
+• Developed applications using Shell Scripting and Cisco Certified
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified, AWS Certified

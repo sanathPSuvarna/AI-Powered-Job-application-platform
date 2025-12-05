@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 12 years of experience in software development and technology.
+Strong background in Shell Scripting, Google Cloud SQL, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Dart, Perl, Groovy
+Technologies: Gatsby, Django, Nuxt.js
+Databases: Google Cloud SQL, DynamoDB
+Cloud Platforms: Chef, AWS, Kubernetes
+Tools: Scrum, Agile, Figma
+
+WORK EXPERIENCE
+Frontend Developer - LinkedIn (2012 - Present)
+• Developed applications using Shell Scripting and Google Cloud SQL
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Princeton University
+Graduated: 2008
+
+CERTIFICATIONS
+Microsoft Certified

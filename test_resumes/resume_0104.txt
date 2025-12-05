@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 4 years of experience in software development and technology.
+Strong background in Perl, AWS, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, PowerShell, Ruby, C++
+Technologies: Babel, Bootstrap, Vue.js
+Databases: CouchDB
+Cloud Platforms: AWS, Azure
+Tools: Postman, SOAP, Git
+
+WORK EXPERIENCE
+Software Architect - Salesforce (2020 - Present)
+• Developed applications using Perl and AWS
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2016
+
+CERTIFICATIONS
+PMP

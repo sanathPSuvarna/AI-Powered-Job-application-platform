@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 7 years of experience in software development and technology.
+Strong background in R, Google Cloud Certified, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: R, MATLAB
+Technologies: Webpack, CSS
+Databases: MongoDB, Redis
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Swagger, Figma
+
+WORK EXPERIENCE
+Software Engineer - Tesla (2017 - Present)
+• Developed applications using R and Google Cloud Certified
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Computer Science
+NYU
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified

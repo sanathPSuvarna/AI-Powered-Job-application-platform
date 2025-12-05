@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in Cisco Certified, Scikit-learn, VBA.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Python, Java
+Technologies: Node.js, Spring Boot, Nuxt.js
+Databases: CouchDB
+Cloud Platforms: AWS, DigitalOcean
+Tools: JIRA, Swagger, GitHub, Figma
+
+WORK EXPERIENCE
+Backend Developer - Spotify (2021 - Present)
+• Developed applications using Cisco Certified and Scikit-learn
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+CMU
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, Scrum Master

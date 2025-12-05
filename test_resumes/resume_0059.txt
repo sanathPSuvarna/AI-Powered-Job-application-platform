@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 5 years of experience in software development and technology.
+Strong background in CompTIA Security+, Laravel, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, VBA, Go, Clojure
+Technologies: Laravel, Flask
+Databases: Neo4j
+Cloud Platforms: Terraform
+Tools: Swagger, REST API, Scrum
+
+WORK EXPERIENCE
+DevOps Engineer - Square (2019 - Present)
+• Developed applications using CompTIA Security+ and Laravel
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2015
+
+CERTIFICATIONS
+CompTIA Security+, PMP, Azure Certified

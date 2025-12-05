@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 1 years of experience in software development and technology.
+Strong background in Scrum, Adobe Creative Suite, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PHP
+Technologies: Babel
+Databases: Neo4j, Firebase
+Cloud Platforms: Google Cloud Platform, Kubernetes
+Tools: Scrum, Adobe Creative Suite, Postman, Microservices
+
+WORK EXPERIENCE
+Data Scientist - Oracle (2023 - Present)
+• Developed applications using Scrum and Adobe Creative Suite
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2019
+
+CERTIFICATIONS

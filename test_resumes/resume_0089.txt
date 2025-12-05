@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 1 years of experience in software development and technology.
+Strong background in Nuxt.js, Public Speaking, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Python, TypeScript, Rust
+Technologies: Nuxt.js, Svelte, Laravel
+Databases: MongoDB, Oracle
+Cloud Platforms: 
+Tools: Confluence, REST API
+
+WORK EXPERIENCE
+Solutions Architect - Microsoft (2023 - Present)
+• Developed applications using Nuxt.js and Public Speaking
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified

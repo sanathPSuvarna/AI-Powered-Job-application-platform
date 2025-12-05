@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 3 years of experience in software development and technology.
+Strong background in Django, Oracle Certified, Big Data.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Groovy
+Technologies: Django, Flask
+Databases: Oracle, CouchDB
+Cloud Platforms: 
+Tools: JIRA, InVision, Postman, SOAP
+
+WORK EXPERIENCE
+Full Stack Developer - Apple (2021 - Present)
+• Developed applications using Django and Oracle Certified
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Engineering in Data Science
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+Oracle Certified, CISSP, PMP

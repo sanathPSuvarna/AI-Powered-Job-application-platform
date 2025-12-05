@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 6 years of experience in software development and technology.
+Strong background in Project Management, Communication, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Scala, Haskell, MATLAB
+Technologies: Bootstrap
+Databases: SQL Server
+Cloud Platforms: 
+Tools: REST API, Bitbucket
+
+WORK EXPERIENCE
+System Administrator - IBM (2018 - Present)
+• Developed applications using Project Management and Communication
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified, Scrum Master

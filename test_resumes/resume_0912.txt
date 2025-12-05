@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 3 years of experience in software development and technology.
+Strong background in Plotly, Communication, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Go, C++
+Technologies: Svelte, Babel
+Databases: SQL Server, DynamoDB
+Cloud Platforms: 
+Tools: Slack, Bitbucket, REST API
+
+WORK EXPERIENCE
+Senior Software Engineer - Spotify (2021 - Present)
+• Developed applications using Plotly and Communication
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+UC Berkeley
+Graduated: 2017
+
+CERTIFICATIONS
+PMP

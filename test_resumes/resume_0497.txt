@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Network Engineer with 8 years of experience in software development and technology.
+Strong background in Time Management, Objective-C, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, VBA, Python
+Technologies: Angular, React, Nuxt.js, Express.js
+Databases: Neo4j, Redis
+Cloud Platforms: Chef, Google Cloud Platform
+Tools: Microservices, GitLab, GitHub, Figma
+
+WORK EXPERIENCE
+Network Engineer - Apple (2016 - Present)
+• Developed applications using Time Management and Objective-C
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Computer Science
+Harvard University
+Graduated: 2012
+
+CERTIFICATIONS
+Scrum Master, PMP

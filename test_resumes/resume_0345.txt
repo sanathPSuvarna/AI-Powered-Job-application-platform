@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 14 years of experience in software development and technology.
+Strong background in MariaDB, CompTIA Security+, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, PowerShell, C++, Ruby
+Technologies: Vue.js, Node.js
+Databases: MariaDB, PostgreSQL, DynamoDB
+Cloud Platforms: Kubernetes, DigitalOcean
+Tools: Swagger, Bitbucket, Microsoft Teams, GitHub, Figma
+
+WORK EXPERIENCE
+Backend Developer - LinkedIn (2010 - Present)
+• Developed applications using MariaDB and CompTIA Security+
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Yale University
+Graduated: 2006
+
+CERTIFICATIONS
+CompTIA Security+

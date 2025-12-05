@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 15 years of experience in software development and technology.
+Strong background in MariaDB, Pandas, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, R, Groovy
+Technologies: Babel, Spring Boot
+Databases: MariaDB, Cassandra
+Cloud Platforms: Jenkins, Docker, Google Cloud Platform
+Tools: Confluence, REST API, GitLab, Figma
+
+WORK EXPERIENCE
+Software Architect - eBay (2009 - Present)
+• Developed applications using MariaDB and Pandas
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Engineering in Data Science
+NYU
+Graduated: 2005
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

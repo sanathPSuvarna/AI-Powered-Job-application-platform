@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Product Manager with 1 years of experience in software development and technology.
+Strong background in Communication, Creativity, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Groovy, Haskell, Java
+Technologies: Angular
+Databases: Cassandra, Elasticsearch
+Cloud Platforms: Docker
+Tools: GitLab, Bitbucket, Agile, Microservices
+
+WORK EXPERIENCE
+Product Manager - Square (2023 - Present)
+• Developed applications using Communication and Creativity
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Computer Science
+Harvard University
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified

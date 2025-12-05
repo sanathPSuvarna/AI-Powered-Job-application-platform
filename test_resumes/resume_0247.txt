@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 7 years of experience in software development and technology.
+Strong background in Google Cloud Certified, Kotlin, F#.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, F#, PHP, Haskell
+Technologies: Next.js, Gatsby
+Databases: DynamoDB
+Cloud Platforms: 
+Tools: Microservices, Git
+
+WORK EXPERIENCE
+Backend Developer - PayPal (2017 - Present)
+• Developed applications using Google Cloud Certified and Kotlin
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Cisco Certified, PMP

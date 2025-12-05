@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Technical Writer with 2 years of experience in software development and technology.
+Strong background in SASS, Kanban, Neural Networks.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart
+Technologies: SASS, Spring Boot, Next.js
+Databases: Firebase, DynamoDB
+Cloud Platforms: 
+Tools: Kanban, SOAP, Confluence, JIRA
+
+WORK EXPERIENCE
+Technical Writer - Spotify (2022 - Present)
+• Developed applications using SASS and Kanban
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2018
+
+CERTIFICATIONS

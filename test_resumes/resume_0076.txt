@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 2 years of experience in software development and technology.
+Strong background in Oracle Certified, CompTIA Security+, Power BI.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart
+Technologies: Vue.js, Spring Boot, Flask
+Databases: MongoDB
+Cloud Platforms: 
+Tools: Kanban, REST API
+
+WORK EXPERIENCE
+Software Architect - Square (2022 - Present)
+• Developed applications using Oracle Certified and CompTIA Security+
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Engineering in Data Science
+Georgia Tech
+Graduated: 2018
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+

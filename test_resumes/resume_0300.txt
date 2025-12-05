@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 3 years of experience in software development and technology.
+Strong background in Plotly, Communication, Kotlin.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, VBA, Haskell
+Technologies: Svelte, jQuery, Bootstrap
+Databases: SQL Server, Neo4j
+Cloud Platforms: 
+Tools: Slack, Kanban, Figma
+
+WORK EXPERIENCE
+System Administrator - Microsoft (2021 - Present)
+• Developed applications using Plotly and Communication
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2017
+
+CERTIFICATIONS
+AWS Certified, Salesforce Certified

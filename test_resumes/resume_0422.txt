@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid UI/UX Designer with 5 years of experience in software development and technology.
+Strong background in MariaDB, SASS, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift, Scala
+Technologies: SASS, React, Webpack
+Databases: MariaDB, DynamoDB
+Cloud Platforms: 
+Tools: InVision, GraphQL, Agile
+
+WORK EXPERIENCE
+UI/UX Designer - Apple (2019 - Present)
+• Developed applications using MariaDB and SASS
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2015
+
+CERTIFICATIONS
+Google Cloud Certified, PMP, Azure Certified

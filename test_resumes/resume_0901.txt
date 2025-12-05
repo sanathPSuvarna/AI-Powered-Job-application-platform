@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 0 years of experience in software development and technology.
+Strong background in Time Management, Cisco Certified, Swagger.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, PHP, MATLAB
+Technologies: jQuery, Babel, Spring Boot
+Databases: Oracle, MySQL
+Cloud Platforms: 
+Tools: Swagger, Slack, GraphQL, REST API
+
+WORK EXPERIENCE
+UI/UX Designer - Slack (2024 - Present)
+• Developed applications using Time Management and Cisco Certified
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+Georgia Tech
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Product Manager with 8 years of experience in software development and technology.
+Strong background in CompTIA Security+, Postman, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Haskell, Java, JavaScript, C++
+Technologies: Angular, Bootstrap, React
+Databases: MongoDB, Elasticsearch
+Cloud Platforms: Docker, DigitalOcean, Google Cloud Platform
+Tools: Postman, Zoom, Confluence, GitHub
+
+WORK EXPERIENCE
+Product Manager - Spotify (2016 - Present)
+• Developed applications using CompTIA Security+ and Postman
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Yale University
+Graduated: 2012
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified, AWS Certified

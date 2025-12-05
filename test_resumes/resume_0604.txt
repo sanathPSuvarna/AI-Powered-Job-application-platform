@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 8 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Java, R, Ruby, MATLAB
+Technologies: Angular, Gatsby, Node.js, Next.js
+Databases: PostgreSQL, Neo4j, Cassandra
+Cloud Platforms: CircleCI, Terraform, Puppet
+Tools: Zoom, Bitbucket, GitHub
+
+WORK EXPERIENCE
+Data Analyst - Cisco (2016 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Machine Learning
+NYU
+Graduated: 2012
+
+CERTIFICATIONS
+PMP

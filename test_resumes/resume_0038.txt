@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Database Administrator with 0 years of experience in software development and technology.
+Strong background in MariaDB, PowerShell, Chef.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Dart, Swift, Scala
+Technologies: Angular, Node.js, CSS
+Databases: MariaDB, MongoDB
+Cloud Platforms: Chef, Vagrant
+Tools: JIRA, Microservices, REST API
+
+WORK EXPERIENCE
+Database Administrator - LinkedIn (2024 - Present)
+• Developed applications using MariaDB and PowerShell
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Science in Computer Science
+Harvard University
+Graduated: 2020
+
+CERTIFICATIONS

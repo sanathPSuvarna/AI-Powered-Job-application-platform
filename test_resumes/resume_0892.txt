@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 2 years of experience in software development and technology.
+Strong background in Django, Heroku, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, F#, Go, Swift
+Technologies: Django, Node.js, Flask
+Databases: CouchDB, Firebase
+Cloud Platforms: Heroku, CircleCI
+Tools: Scrum, GitLab, Kanban
+
+WORK EXPERIENCE
+Full Stack Developer - Intel (2022 - Present)
+• Developed applications using Django and Heroku
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Michigan
+Graduated: 2018
+
+CERTIFICATIONS

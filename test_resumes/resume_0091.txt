@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 5 years of experience in software development and technology.
+Strong background in Oracle Certified, Power BI, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Swift
+Technologies: HTML, Svelte, Next.js
+Databases: SQLite, CouchDB
+Cloud Platforms: Ansible, Puppet
+Tools: Figma, JIRA
+
+WORK EXPERIENCE
+Business Analyst - Uber (2019 - Present)
+• Developed applications using Oracle Certified and Power BI
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+Georgia Tech
+Graduated: 2015
+
+CERTIFICATIONS
+Oracle Certified

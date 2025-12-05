@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 5 years of experience in software development and technology.
+Strong background in Cisco Certified, Laravel, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, TypeScript, Haskell, Clojure
+Technologies: Laravel, CSS, React
+Databases: InfluxDB, Redis
+Cloud Platforms: 
+Tools: JIRA, Kanban
+
+WORK EXPERIENCE
+Software Engineer - Yahoo (2019 - Present)
+• Developed applications using Cisco Certified and Laravel
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, CISSP

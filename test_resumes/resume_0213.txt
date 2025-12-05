@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 10 years of experience in software development and technology.
+Strong background in Shell Scripting, Pandas, SQL Server.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Haskell, Groovy
+Technologies: jQuery, Vue.js, Django
+Databases: SQL Server, Oracle, DynamoDB
+Cloud Platforms: DigitalOcean
+Tools: Postman, Swagger, Agile
+
+WORK EXPERIENCE
+Backend Developer - Intel (2014 - Present)
+• Developed applications using Shell Scripting and Pandas
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2010
+
+CERTIFICATIONS
+PMP, Salesforce Certified, Oracle Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in Power BI, Webpack, HTML.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Go, Ruby
+Technologies: Webpack, HTML
+Databases: Elasticsearch
+Cloud Platforms: Puppet
+Tools: GraphQL, InVision, Postman, Microservices
+
+WORK EXPERIENCE
+Frontend Developer - Dell (2017 - Present)
+• Developed applications using Power BI and Webpack
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Computer Science
+University of Washington
+Graduated: 2013
+
+CERTIFICATIONS
+CISSP, Azure Certified, Scrum Master

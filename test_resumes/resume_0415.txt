@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 0 years of experience in software development and technology.
+Strong background in PostgreSQL, PowerShell, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Java, JavaScript, C++
+Technologies: React, LESS, Express.js
+Databases: PostgreSQL, Redis
+Cloud Platforms: Docker
+Tools: Zoom, Swagger, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Frontend Developer - Salesforce (2024 - Present)
+• Developed applications using PostgreSQL and PowerShell
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+USC
+Graduated: 2020
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified

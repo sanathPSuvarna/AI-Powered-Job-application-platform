@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid System Administrator with 4 years of experience in software development and technology.
+Strong background in VBA, Chef, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, F#, Rust, MATLAB
+Technologies: HTML, React
+Databases: Firebase, CouchDB
+Cloud Platforms: Chef, Terraform
+Tools: Microsoft Teams, Kanban, Figma
+
+WORK EXPERIENCE
+System Administrator - Zoom (2020 - Present)
+• Developed applications using VBA and Chef
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Machine Learning
+Yale University
+Graduated: 2016
+
+CERTIFICATIONS
+Scrum Master

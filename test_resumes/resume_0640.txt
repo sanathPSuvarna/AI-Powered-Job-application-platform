@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in InfluxDB, LESS, Python.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java
+Technologies: LESS
+Databases: InfluxDB
+Cloud Platforms: 
+Tools: Git, JIRA, Confluence
+
+WORK EXPERIENCE
+Senior Software Engineer - eBay (2023 - Present)
+• Developed applications using InfluxDB and LESS
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Information Technology
+MIT
+Graduated: 2019
+
+CERTIFICATIONS
+CISSP

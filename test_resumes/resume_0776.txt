@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 0 years of experience in software development and technology.
+Strong background in R, TensorFlow, Customer Service.
+
+TECHNICAL SKILLS
+Programming Languages: R, Python, Java
+Technologies: jQuery
+Databases: SQLite
+Cloud Platforms: Jenkins
+Tools: Slack, Postman
+
+WORK EXPERIENCE
+Software Architect - Dell (2024 - Present)
+• Developed applications using R and TensorFlow
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Engineering in Data Science
+Columbia University
+Graduated: 2020
+
+CERTIFICATIONS

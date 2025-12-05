@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 7 years of experience in software development and technology.
+Strong background in Clojure, Team Collaboration, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Python
+Technologies: LESS, Spring Boot, React
+Databases: Google Cloud SQL, MySQL
+Cloud Platforms: 
+Tools: GitHub, SOAP, Confluence
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Netflix (2017 - Present)
+• Developed applications using Clojure and Team Collaboration
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+Azure Certified, PMP, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 14 years of experience in software development and technology.
+Strong background in SASS, Neo4j, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Haskell, Java, PHP
+Technologies: SASS, HTML, CSS
+Databases: Neo4j, DynamoDB, MySQL
+Cloud Platforms: AWS, Puppet, Google Cloud Platform
+Tools: Swagger, Confluence, Bitbucket
+
+WORK EXPERIENCE
+Tech Lead - Square (2010 - Present)
+• Developed applications using SASS and Neo4j
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Washington
+Graduated: 2006
+
+CERTIFICATIONS
+PMP

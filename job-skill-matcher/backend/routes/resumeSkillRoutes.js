@@ -44,4 +44,10 @@ router.post('/extract', upload.single('resume'), resumeSkillController.extractSk
 // Add extracted skills to user profile
 router.post('/add-extracted', resumeSkillController.addExtractedSkills);
 
+// Add new skills to the database from unmatched skills
+router.post('/add-to-database', resumeSkillController.addSkillsToDatabase);
+
+// Submit feedback for ensemble system improvement
+router.post('/submit-feedback', resumeSkillController.submitEnsembleFeedback);
+
 module.exports = router;

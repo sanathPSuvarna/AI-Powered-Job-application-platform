@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Data Scientist with 6 years of experience in software development and technology.
+Strong background in Nuxt.js, Oracle Certified, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, C++, C#
+Technologies: Nuxt.js, Next.js
+Databases: PostgreSQL
+Cloud Platforms: Jenkins
+Tools: Git, GraphQL, Sketch
+
+WORK EXPERIENCE
+Data Scientist - Dell (2018 - Present)
+• Developed applications using Nuxt.js and Oracle Certified
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA
+Graduated: 2014
+
+CERTIFICATIONS
+Oracle Certified, CompTIA Security+

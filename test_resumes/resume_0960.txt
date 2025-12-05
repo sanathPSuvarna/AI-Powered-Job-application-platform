@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 6 years of experience in software development and technology.
+Strong background in Django, Communication, Zoom.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Kotlin, Python, PowerShell
+Technologies: Django, Babel, Spring Boot
+Databases: Google Cloud SQL
+Cloud Platforms: 
+Tools: Zoom, Bitbucket, Microservices, Figma
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Dell (2018 - Present)
+• Developed applications using Django and Communication
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2014
+
+CERTIFICATIONS
+CISSP, Azure Certified, PMP

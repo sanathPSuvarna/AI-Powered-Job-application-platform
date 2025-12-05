@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Database Administrator with 12 years of experience in software development and technology.
+Strong background in Objective-C, Next.js, Laravel.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, PowerShell, VBA, F#, Rust
+Technologies: Next.js, Laravel, Webpack, LESS
+Databases: Oracle, DynamoDB, MySQL
+Cloud Platforms: Azure
+Tools: JIRA, Microservices, Sketch, Kanban, DevOps
+
+WORK EXPERIENCE
+Database Administrator - Tesla (2012 - Present)
+• Developed applications using Objective-C and Next.js
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+MIT
+Graduated: 2008
+
+CERTIFICATIONS
+PMP

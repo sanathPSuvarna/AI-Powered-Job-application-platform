@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 2 years of experience in software development and technology.
+Strong background in CompTIA Security+, Time Management, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: F#, PowerShell
+Technologies: HTML, React
+Databases: CouchDB
+Cloud Platforms: OpenShift, Chef
+Tools: GitLab, InVision, REST API
+
+WORK EXPERIENCE
+Data Scientist - Microsoft (2022 - Present)
+• Developed applications using CompTIA Security+ and Time Management
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with React
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+, Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Machine Learning Engineer with 1 years of experience in software development and technology.
+Strong background in Plotly, Time Management, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Scala, Java
+Technologies: jQuery, Spring Boot, Gatsby
+Databases: Oracle, Elasticsearch
+Cloud Platforms: AWS
+Tools: Figma, SOAP, Confluence
+
+WORK EXPERIENCE
+Machine Learning Engineer - Dropbox (2023 - Present)
+• Developed applications using Plotly and Time Management
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2019
+
+CERTIFICATIONS
+Azure Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 0 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Public Speaking, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Go, C#
+Technologies: LESS, Flask
+Databases: SQL Server, Oracle
+Cloud Platforms: GitLab CI/CD
+Tools: Adobe Creative Suite, Microservices, REST API
+
+WORK EXPERIENCE
+Network Engineer - Airbnb (2024 - Present)
+• Developed applications using GitLab CI/CD and Public Speaking
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with LESS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Princeton University
+Graduated: 2020
+
+CERTIFICATIONS
+Google Cloud Certified

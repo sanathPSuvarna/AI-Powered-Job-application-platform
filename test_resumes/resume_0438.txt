@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Solutions Architect with 10 years of experience in software development and technology.
+Strong background in SASS, Google Cloud SQL, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, TypeScript, Haskell, Swift, MATLAB
+Technologies: SASS, Express.js
+Databases: Google Cloud SQL, SQL Server, MongoDB
+Cloud Platforms: Kubernetes
+Tools: JIRA, Swagger, Microservices, Microsoft Teams
+
+WORK EXPERIENCE
+Solutions Architect - Uber (2014 - Present)
+• Developed applications using SASS and Google Cloud SQL
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Science in Machine Learning
+University of Illinois
+Graduated: 2010
+
+CERTIFICATIONS
+Salesforce Certified, CISSP, Microsoft Certified

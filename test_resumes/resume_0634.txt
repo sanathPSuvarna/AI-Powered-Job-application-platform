@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 11 years of experience in software development and technology.
+Strong background in SQL Server, Laravel, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Swift, Kotlin, Rust
+Technologies: Laravel, jQuery
+Databases: SQL Server, Oracle, Elasticsearch
+Cloud Platforms: Puppet
+Tools: Postman, Git, Confluence
+
+WORK EXPERIENCE
+Data Analyst - Oracle (2013 - Present)
+• Developed applications using SQL Server and Laravel
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Information Technology
+Columbia University
+Graduated: 2009
+
+CERTIFICATIONS
+CISSP

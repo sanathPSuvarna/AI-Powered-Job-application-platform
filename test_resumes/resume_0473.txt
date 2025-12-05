@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 4 years of experience in software development and technology.
+Strong background in Oracle Certified, Shell Scripting, R.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, R, JavaScript
+Technologies: LESS, jQuery
+Databases: Cassandra
+Cloud Platforms: Azure
+Tools: Confluence, GitHub, DevOps
+
+WORK EXPERIENCE
+Senior Software Engineer - Spotify (2020 - Present)
+• Developed applications using Oracle Certified and Shell Scripting
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+Oracle Certified, Cisco Certified

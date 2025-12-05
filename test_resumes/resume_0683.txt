@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 1 years of experience in software development and technology.
+Strong background in Critical Thinking, Power BI, Scrum.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, Rust, Haskell
+Technologies: Next.js
+Databases: Oracle
+Cloud Platforms: 
+Tools: Scrum, Adobe Creative Suite, GraphQL, Confluence
+
+WORK EXPERIENCE
+UI/UX Designer - Microsoft (2023 - Present)
+• Developed applications using Critical Thinking and Power BI
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Next.js
+
+EDUCATION
+Master of Engineering in Data Science
+Yale University
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified, Azure Certified

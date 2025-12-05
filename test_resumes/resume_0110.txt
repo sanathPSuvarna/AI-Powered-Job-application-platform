@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 8 years of experience in software development and technology.
+Strong background in Shell Scripting, SASS, Time Management.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Haskell, Scala
+Technologies: SASS, jQuery, Angular, Webpack
+Databases: Google Cloud SQL, Oracle
+Cloud Platforms: Terraform, Vagrant
+Tools: Git, GraphQL, Bitbucket, Scrum, Agile
+
+WORK EXPERIENCE
+Tech Lead - Dell (2016 - Present)
+• Developed applications using Shell Scripting and SASS
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+NYU
+Graduated: 2012
+
+CERTIFICATIONS
+Cisco Certified, AWS Certified

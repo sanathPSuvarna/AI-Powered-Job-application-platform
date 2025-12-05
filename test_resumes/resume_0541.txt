@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 7 years of experience in software development and technology.
+Strong background in GitLab CI/CD, Team Collaboration, DigitalOcean.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, JavaScript, Dart
+Technologies: Flask
+Databases: InfluxDB
+Cloud Platforms: GitLab CI/CD, DigitalOcean
+Tools: Swagger, Confluence, Microservices
+
+WORK EXPERIENCE
+Software Engineer - Yahoo (2017 - Present)
+• Developed applications using GitLab CI/CD and Team Collaboration
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley
+Graduated: 2013
+
+CERTIFICATIONS
+Microsoft Certified

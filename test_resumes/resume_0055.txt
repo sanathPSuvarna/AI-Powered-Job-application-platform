@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 3 years of experience in software development and technology.
+Strong background in Zoom, Creativity, Webpack.
+
+TECHNICAL SKILLS
+Programming Languages: Python, PowerShell, Swift
+Technologies: Webpack
+Databases: Amazon RDS
+Cloud Platforms: Kubernetes
+Tools: Zoom, Adobe Creative Suite
+
+WORK EXPERIENCE
+Solutions Architect - Uber (2021 - Present)
+• Developed applications using Zoom and Creativity
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Science in Computer Science
+UCLA
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP, Salesforce Certified

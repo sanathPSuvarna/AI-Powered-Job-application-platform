@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Tech Lead with 1 years of experience in software development and technology.
+Strong background in MariaDB, Time Management, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Go, Ruby
+Technologies: Svelte, Flask
+Databases: MariaDB
+Cloud Platforms: Ansible, Docker
+Tools: Bitbucket, Figma
+
+WORK EXPERIENCE
+Tech Lead - Netflix (2023 - Present)
+• Developed applications using MariaDB and Time Management
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2019
+
+CERTIFICATIONS
+PMP

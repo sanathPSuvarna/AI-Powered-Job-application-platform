@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Solutions Architect with 0 years of experience in software development and technology.
+Strong background in CompTIA Security+, VBA, SOAP.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Dart, Haskell, JavaScript
+Technologies: HTML, Webpack
+Databases: SQLite
+Cloud Platforms: 
+Tools: SOAP, Git, Scrum, Agile
+
+WORK EXPERIENCE
+Solutions Architect - Microsoft (2024 - Present)
+• Developed applications using CompTIA Security+ and VBA
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Engineering in Data Science
+Columbia University
+Graduated: 2020
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior System Administrator with 1 years of experience in software development and technology.
+Strong background in Django, Critical Thinking, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, TypeScript, Haskell
+Technologies: Django, Babel
+Databases: Google Cloud SQL, DynamoDB
+Cloud Platforms: 
+Tools: Slack, InVision, Postman, REST API
+
+WORK EXPERIENCE
+System Administrator - Netflix (2023 - Present)
+• Developed applications using Django and Critical Thinking
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Computer Science
+Georgia Tech
+Graduated: 2019
+
+CERTIFICATIONS
+Oracle Certified

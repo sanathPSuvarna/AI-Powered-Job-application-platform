@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Machine Learning Engineer with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, Creativity, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C++, Ruby, C#
+Technologies: Node.js, Babel, Next.js
+Databases: Amazon RDS
+Cloud Platforms: 
+Tools: Scrum, Microsoft Teams, Agile, Confluence
+
+WORK EXPERIENCE
+Machine Learning Engineer - Microsoft (2020 - Present)
+• Developed applications using Shell Scripting and Creativity
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+CMU
+Graduated: 2016
+
+CERTIFICATIONS
+Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Backend Developer with 14 years of experience in software development and technology.
+Strong background in Google Cloud SQL, DynamoDB, Scrum Master.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, JavaScript, MATLAB
+Technologies: Spring Boot, React, Express.js
+Databases: Google Cloud SQL, DynamoDB, CouchDB
+Cloud Platforms: GitHub Actions
+Tools: Zoom, Microservices, Kanban
+
+WORK EXPERIENCE
+Backend Developer - IBM (2010 - Present)
+• Developed applications using Google Cloud SQL and DynamoDB
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with React
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2006
+
+CERTIFICATIONS
+Scrum Master, PMP, Microsoft Certified

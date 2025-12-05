@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Communication, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, VBA
+Technologies: SASS, HTML, Node.js
+Databases: Google Cloud SQL, Oracle
+Cloud Platforms: Google Cloud Platform
+Tools: Bitbucket, GitHub
+
+WORK EXPERIENCE
+Network Engineer - Zoom (2021 - Present)
+• Developed applications using CompTIA Security+ and Communication
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Node.js
+
+EDUCATION
+Master of Business Administration
+MIT
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

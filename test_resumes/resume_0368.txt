@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Frontend Developer with 0 years of experience in software development and technology.
+Strong background in Nuxt.js, Plotly, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: C++, Rust, PHP, C#
+Technologies: Nuxt.js
+Databases: Amazon RDS, Elasticsearch
+Cloud Platforms: Vagrant
+Tools: InVision, REST API
+
+WORK EXPERIENCE
+Frontend Developer - Airbnb (2024 - Present)
+• Developed applications using Nuxt.js and Plotly
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2020
+
+CERTIFICATIONS

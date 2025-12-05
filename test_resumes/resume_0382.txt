@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 3 years of experience in software development and technology.
+Strong background in Time Management, Kotlin, Apache Spark.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Groovy, Scala
+Technologies: Next.js
+Databases: SQLite, Elasticsearch
+Cloud Platforms: 
+Tools: Microservices, GraphQL
+
+WORK EXPERIENCE
+Backend Developer - Tesla (2021 - Present)
+• Developed applications using Time Management and Kotlin
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Illinois
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP, Azure Certified, Scrum Master

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, GitLab CI/CD, Power BI.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Go, Rust
+Technologies: Laravel
+Databases: Oracle, MySQL
+Cloud Platforms: GitLab CI/CD, AWS
+Tools: Microservices, JIRA
+
+WORK EXPERIENCE
+Database Administrator - Twitter (2018 - Present)
+• Developed applications using CompTIA Security+ and GitLab CI/CD
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Laravel
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Harvard University
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified

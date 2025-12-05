@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 14 years of experience in software development and technology.
+Strong background in Shell Scripting, Objective-C, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C, TypeScript, Dart, Rust
+Technologies: Gatsby, HTML, Node.js, CSS
+Databases: InfluxDB, SQLite
+Cloud Platforms: Jenkins, Google Cloud Platform
+Tools: Postman, SOAP, Swagger
+
+WORK EXPERIENCE
+Frontend Developer - PayPal (2010 - Present)
+• Developed applications using Shell Scripting and Objective-C
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+CMU
+Graduated: 2006
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified, CISSP

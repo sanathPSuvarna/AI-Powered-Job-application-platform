@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 9 years of experience in software development and technology.
+Strong background in Shell Scripting, Pandas, PowerShell.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, Perl, Rust
+Technologies: Gatsby, Babel, Bootstrap
+Databases: MongoDB, Redis
+Cloud Platforms: CircleCI
+Tools: Swagger, GitLab, DevOps
+
+WORK EXPERIENCE
+Machine Learning Engineer - Spotify (2015 - Present)
+• Developed applications using Shell Scripting and Pandas
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley
+Graduated: 2011
+
+CERTIFICATIONS
+Microsoft Certified

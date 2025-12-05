@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Cybersecurity Analyst with 0 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, F#, Python
+Technologies: HTML, CSS
+Databases: SQL Server, Amazon RDS
+Cloud Platforms: Google Cloud Platform
+Tools: Slack, Agile
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Square (2024 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin
+Graduated: 2020
+
+CERTIFICATIONS
+Scrum Master, Salesforce Certified

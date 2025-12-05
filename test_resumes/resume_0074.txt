@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Tech Lead with 12 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Cisco Certified, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Python, Ruby
+Technologies: Angular, Node.js, Nuxt.js, LESS
+Databases: Google Cloud SQL, SQLite
+Cloud Platforms: Terraform
+Tools: GraphQL, GitHub, DevOps
+
+WORK EXPERIENCE
+Tech Lead - NVIDIA (2012 - Present)
+• Developed applications using Google Cloud SQL and Cisco Certified
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+University of Illinois
+Graduated: 2008
+
+CERTIFICATIONS
+Cisco Certified, Salesforce Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Project Manager with 3 years of experience in software development and technology.
+Strong background in CompTIA Security+, Objective-C, Angular.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python
+Technologies: Angular, HTML, Spring Boot
+Databases: Cassandra, MongoDB
+Cloud Platforms: 
+Tools: JIRA, Confluence, Sketch
+
+WORK EXPERIENCE
+Project Manager - Amazon (2021 - Present)
+• Developed applications using CompTIA Security+ and Objective-C
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Purdue University
+Graduated: 2017
+
+CERTIFICATIONS
+CompTIA Security+, Oracle Certified, AWS Certified

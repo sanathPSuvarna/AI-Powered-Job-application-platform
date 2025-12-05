@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Data Scientist with 0 years of experience in software development and technology.
+Strong background in Oracle Certified, Project Management, Shell Scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, PowerShell, PHP, Haskell
+Technologies: Babel
+Databases: DynamoDB, Redis
+Cloud Platforms: 
+Tools: GitHub, REST API
+
+WORK EXPERIENCE
+Data Scientist - Yahoo (2024 - Present)
+• Developed applications using Oracle Certified and Project Management
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Babel
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Georgia Tech
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified

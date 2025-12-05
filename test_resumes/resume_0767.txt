@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Critical Thinking, Public Speaking, Ansible.
+
+TECHNICAL SKILLS
+Programming Languages: F#, Groovy, MATLAB
+Technologies: Flask
+Databases: Firebase
+Cloud Platforms: Ansible, DigitalOcean
+Tools: Bitbucket, SOAP, GraphQL, Sketch
+
+WORK EXPERIENCE
+Full Stack Developer - PayPal (2024 - Present)
+• Developed applications using Critical Thinking and Public Speaking
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Harvard University
+Graduated: 2020
+
+CERTIFICATIONS
+Cisco Certified

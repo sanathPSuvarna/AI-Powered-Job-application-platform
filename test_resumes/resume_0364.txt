@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 0 years of experience in software development and technology.
+Strong background in PyTorch, Creativity, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift, Scala
+Technologies: React
+Databases: PostgreSQL
+Cloud Platforms: OpenShift, Jenkins
+Tools: InVision, Bitbucket, SOAP, Confluence
+
+WORK EXPERIENCE
+DevOps Engineer - Oracle (2024 - Present)
+• Developed applications using PyTorch and Creativity
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+Purdue University
+Graduated: 2020
+
+CERTIFICATIONS
+Salesforce Certified

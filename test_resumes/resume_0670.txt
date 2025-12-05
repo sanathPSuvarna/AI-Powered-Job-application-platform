@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 0 years of experience in software development and technology.
+Strong background in MariaDB, Oracle Certified, R.
+
+TECHNICAL SKILLS
+Programming Languages: R, Perl, Kotlin
+Technologies: Laravel, Gatsby, CSS
+Databases: MariaDB, DynamoDB
+Cloud Platforms: 
+Tools: Kanban, Agile
+
+WORK EXPERIENCE
+UI/UX Designer - Netflix (2024 - Present)
+• Developed applications using MariaDB and Oracle Certified
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified, Microsoft Certified

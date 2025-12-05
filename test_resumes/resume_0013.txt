@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid DevOps Engineer with 5 years of experience in software development and technology.
+Strong background in Shell Scripting, PostgreSQL, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C#, Dart, Clojure
+Technologies: Django
+Databases: PostgreSQL, CouchDB
+Cloud Platforms: Terraform
+Tools: JIRA, Confluence, GraphQL, Kanban
+
+WORK EXPERIENCE
+DevOps Engineer - Cisco (2019 - Present)
+• Developed applications using Shell Scripting and PostgreSQL
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Django
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+Purdue University
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified, Microsoft Certified

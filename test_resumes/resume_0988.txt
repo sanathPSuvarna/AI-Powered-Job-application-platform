@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Engineering Manager with 0 years of experience in software development and technology.
+Strong background in Negotiation, JIRA, Vue.js.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, C++, MATLAB
+Technologies: Vue.js, Babel, React
+Databases: Redis
+Cloud Platforms: Docker, GitHub Actions
+Tools: JIRA, Confluence, Scrum, GitHub
+
+WORK EXPERIENCE
+Engineering Manager - Intel (2024 - Present)
+• Developed applications using Negotiation and JIRA
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+CMU
+Graduated: 2020
+
+CERTIFICATIONS
+Oracle Certified

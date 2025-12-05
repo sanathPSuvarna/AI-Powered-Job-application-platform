@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 1 years of experience in software development and technology.
+Strong background in Time Management, DigitalOcean, MongoDB.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Ruby, Rust
+Technologies: Angular
+Databases: MongoDB
+Cloud Platforms: DigitalOcean
+Tools: Slack, JIRA
+
+WORK EXPERIENCE
+QA Engineer - Zoom (2023 - Present)
+• Developed applications using Time Management and DigitalOcean
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Information Technology
+Princeton University
+Graduated: 2019
+
+CERTIFICATIONS
+Microsoft Certified, PMP

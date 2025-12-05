@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, SASS, DynamoDB.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, Go, Groovy, Scala
+Technologies: SASS, Svelte, LESS
+Databases: DynamoDB, InfluxDB
+Cloud Platforms: Terraform, DigitalOcean
+Tools: Microsoft Teams, Kanban
+
+WORK EXPERIENCE
+Senior Software Engineer - Microsoft (2017 - Present)
+• Developed applications using CompTIA Security+ and SASS
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+UT Austin
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified, CISSP

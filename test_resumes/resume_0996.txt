@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior DevOps Engineer with 2 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, R.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, R, PHP
+Technologies: HTML
+Databases: PostgreSQL
+Cloud Platforms: AWS
+Tools: Microsoft Teams, JIRA
+
+WORK EXPERIENCE
+DevOps Engineer - Square (2022 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2018
+
+CERTIFICATIONS
+Oracle Certified, Microsoft Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 6 years of experience in software development and technology.
+Strong background in CompTIA Security+, Team Collaboration, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, Haskell
+Technologies: HTML, jQuery
+Databases: Cassandra, Amazon RDS
+Cloud Platforms: 
+Tools: GitLab, Microservices
+
+WORK EXPERIENCE
+Senior Software Engineer - HP (2018 - Present)
+• Developed applications using CompTIA Security+ and Team Collaboration
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with HTML
+
+EDUCATION
+Master of Science in Machine Learning
+University of Michigan
+Graduated: 2014
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master

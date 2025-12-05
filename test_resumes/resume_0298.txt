@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Engineering Manager with 13 years of experience in software development and technology.
+Strong background in Objective-C, Oracle, Scikit-learn.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift, C++, Rust, PHP
+Technologies: Angular, Spring Boot
+Databases: Oracle, InfluxDB
+Cloud Platforms: AWS, GitHub Actions
+Tools: GraphQL, Microsoft Teams, Agile
+
+WORK EXPERIENCE
+Engineering Manager - Google (2011 - Present)
+• Developed applications using Objective-C and Oracle
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Washington
+Graduated: 2007
+
+CERTIFICATIONS
+Azure Certified, AWS Certified

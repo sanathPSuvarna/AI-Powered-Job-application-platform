@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Tech Lead with 3 years of experience in software development and technology.
+Strong background in Pandas, PowerShell, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Perl, JavaScript, R
+Technologies: Svelte, Webpack
+Databases: Firebase
+Cloud Platforms: AWS, Azure
+Tools: Zoom, Confluence, Bitbucket, Microsoft Teams
+
+WORK EXPERIENCE
+Tech Lead - Apple (2021 - Present)
+• Developed applications using Pandas and PowerShell
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Webpack
+
+EDUCATION
+Master of Business Administration
+Princeton University
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP, Microsoft Certified, AWS Certified

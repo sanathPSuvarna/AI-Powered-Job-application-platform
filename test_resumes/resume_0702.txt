@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 1 years of experience in software development and technology.
+Strong background in Clojure, R, Decision Making.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, R, Python, Ruby
+Technologies: React
+Databases: Cassandra
+Cloud Platforms: Google Cloud Platform, Kubernetes
+Tools: Agile, Kanban, JIRA
+
+WORK EXPERIENCE
+Senior Software Engineer - Tesla (2023 - Present)
+• Developed applications using Clojure and R
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified

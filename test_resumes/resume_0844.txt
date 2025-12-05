@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 5 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, Groovy
+Technologies: Svelte, Django
+Databases: PostgreSQL, CouchDB
+Cloud Platforms: Jenkins, Vagrant
+Tools: Zoom, GraphQL, Microservices, DevOps
+
+WORK EXPERIENCE
+Senior Software Engineer - IBM (2019 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Svelte
+
+EDUCATION
+Master of Business Administration
+NYU
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified, CISSP, AWS Certified

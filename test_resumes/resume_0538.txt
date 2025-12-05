@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior UI/UX Designer with 10 years of experience in software development and technology.
+Strong background in PostgreSQL, Objective-C, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Haskell, F#, Clojure, Rust
+Technologies: Node.js, React, Flask, Express.js
+Databases: PostgreSQL, CouchDB, InfluxDB
+Cloud Platforms: Puppet, Google Cloud Platform
+Tools: Adobe Creative Suite, Postman, Swagger, REST API, Scrum
+
+WORK EXPERIENCE
+UI/UX Designer - Apple (2014 - Present)
+• Developed applications using PostgreSQL and Objective-C
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Science in Machine Learning
+USC
+Graduated: 2010
+
+CERTIFICATIONS
+Oracle Certified

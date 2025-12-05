@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 9 years of experience in software development and technology.
+Strong background in SASS, Google Cloud SQL, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Groovy, PHP
+Technologies: SASS, Angular, HTML, React
+Databases: Google Cloud SQL, Oracle, InfluxDB
+Cloud Platforms: Kubernetes, DigitalOcean
+Tools: Adobe Creative Suite, InVision, JIRA, Bitbucket, DevOps
+
+WORK EXPERIENCE
+QA Engineer - NVIDIA (2015 - Present)
+• Developed applications using SASS and Google Cloud SQL
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+NYU
+Graduated: 2011
+
+CERTIFICATIONS
+Scrum Master

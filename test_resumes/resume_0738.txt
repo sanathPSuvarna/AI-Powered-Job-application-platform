@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Senior Software Engineer with 12 years of experience in software development and technology.
+Strong background in CompTIA Security+, SQL Server, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: C#, Haskell, C++, Scala
+Technologies: Vue.js, Svelte, CSS, LESS
+Databases: SQL Server, Oracle, Redis
+Cloud Platforms: Chef, Docker
+Tools: JIRA, REST API, Kanban
+
+WORK EXPERIENCE
+Senior Software Engineer - Cisco (2012 - Present)
+• Developed applications using CompTIA Security+ and SQL Server
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Science in Machine Learning
+UT Austin
+Graduated: 2008
+
+CERTIFICATIONS
+CompTIA Security+, Cisco Certified, Scrum Master

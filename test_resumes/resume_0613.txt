@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 13 years of experience in software development and technology.
+Strong background in PostgreSQL, Adobe Creative Suite, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Clojure
+Technologies: jQuery, Spring Boot, Nuxt.js
+Databases: PostgreSQL, Oracle, Amazon RDS
+Cloud Platforms: Chef, Kubernetes, OpenShift
+Tools: Adobe Creative Suite, Git, Zoom, Sketch, Figma
+
+WORK EXPERIENCE
+Project Manager - Salesforce (2011 - Present)
+• Developed applications using PostgreSQL and Adobe Creative Suite
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2007
+
+CERTIFICATIONS
+Salesforce Certified, CISSP, AWS Certified

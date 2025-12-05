@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 14 years of experience in software development and technology.
+Strong background in Time Management, PostgreSQL, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Go, Swift, C++, MATLAB
+Technologies: jQuery, Vue.js
+Databases: PostgreSQL, Firebase, MySQL
+Cloud Platforms: Chef, Ansible, AWS
+Tools: Postman, Swagger, GitLab
+
+WORK EXPERIENCE
+Frontend Developer - Google (2010 - Present)
+• Developed applications using Time Management and PostgreSQL
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Business Administration
+UC Berkeley
+Graduated: 2006
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, CISSP

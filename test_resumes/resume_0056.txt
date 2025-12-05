@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 3 years of experience in software development and technology.
+Strong background in Team Collaboration, Communication, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript, Haskell
+Technologies: HTML, Babel, Vue.js
+Databases: Firebase
+Cloud Platforms: 
+Tools: Scrum, Kanban, InVision, DevOps
+
+WORK EXPERIENCE
+Full Stack Developer - Intel (2021 - Present)
+• Developed applications using Team Collaboration and Communication
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Babel
+
+EDUCATION
+Master of Science in Machine Learning
+Harvard University
+Graduated: 2017
+
+CERTIFICATIONS
+CISSP

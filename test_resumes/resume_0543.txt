@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 1 years of experience in software development and technology.
+Strong background in Shell Scripting, Time Management, Oracle.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Groovy
+Technologies: jQuery, CSS, Express.js
+Databases: Oracle, DynamoDB
+Cloud Platforms: Puppet
+Tools: JIRA, Zoom, Scrum, GitHub
+
+WORK EXPERIENCE
+Full Stack Developer - Amazon (2023 - Present)
+• Developed applications using Shell Scripting and Time Management
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Express.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+USC
+Graduated: 2019
+
+CERTIFICATIONS
+Salesforce Certified, Microsoft Certified

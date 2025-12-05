@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 5 years of experience in software development and technology.
+Strong background in Django, R, Conflict Resolution.
+
+TECHNICAL SKILLS
+Programming Languages: R, Go, Swift, C#
+Technologies: Django
+Databases: PostgreSQL
+Cloud Platforms: 
+Tools: Agile, InVision
+
+WORK EXPERIENCE
+Solutions Architect - Shopify (2019 - Present)
+• Developed applications using Django and R
+• Collaborated with cross-functional teams using Creativity
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Computer Science
+Purdue University
+Graduated: 2015
+
+CERTIFICATIONS
+Azure Certified

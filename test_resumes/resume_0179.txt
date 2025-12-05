@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Cybersecurity Analyst with 5 years of experience in software development and technology.
+Strong background in Google Cloud SQL, Angular, AWS.
+
+TECHNICAL SKILLS
+Programming Languages: Python, PHP, JavaScript, Scala
+Technologies: Angular, Babel
+Databases: Google Cloud SQL, Neo4j
+Cloud Platforms: AWS
+Tools: Postman, Sketch
+
+WORK EXPERIENCE
+Cybersecurity Analyst - Google (2019 - Present)
+• Developed applications using Google Cloud SQL and Angular
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Information Technology
+USC
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified, Scrum Master

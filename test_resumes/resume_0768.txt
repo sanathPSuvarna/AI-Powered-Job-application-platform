@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Solutions Architect with 3 years of experience in software development and technology.
+Strong background in Cisco Certified, Neo4j, jQuery.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, PHP, Scala
+Technologies: jQuery, Node.js, Bootstrap
+Databases: Neo4j, CouchDB
+Cloud Platforms: Puppet
+Tools: SOAP, JIRA, Microsoft Teams
+
+WORK EXPERIENCE
+Solutions Architect - Facebook (2021 - Present)
+• Developed applications using Cisco Certified and Neo4j
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with jQuery
+
+EDUCATION
+Bachelor of Science in Computer Science
+USC
+Graduated: 2017
+
+CERTIFICATIONS
+Cisco Certified, Google Cloud Certified, Microsoft Certified

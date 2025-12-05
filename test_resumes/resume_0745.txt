@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in Cisco Certified, Laravel, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Dart, PHP
+Technologies: Laravel, Angular, Gatsby
+Databases: CouchDB, InfluxDB
+Cloud Platforms: OpenShift
+Tools: Zoom, GraphQL, Bitbucket
+
+WORK EXPERIENCE
+Frontend Developer - Facebook (2017 - Present)
+• Developed applications using Cisco Certified and Laravel
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2013
+
+CERTIFICATIONS
+Cisco Certified

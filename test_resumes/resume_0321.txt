@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Product Manager with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Webpack, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Java
+Technologies: Webpack, Next.js
+Databases: Google Cloud SQL, InfluxDB
+Cloud Platforms: CircleCI
+Tools: Microsoft Teams, REST API
+
+WORK EXPERIENCE
+Product Manager - Tesla (2017 - Present)
+• Developed applications using CompTIA Security+ and Webpack
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with Next.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, AWS Certified, Scrum Master

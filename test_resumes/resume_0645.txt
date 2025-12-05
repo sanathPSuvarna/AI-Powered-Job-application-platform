@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 5 years of experience in software development and technology.
+Strong background in Critical Thinking, Public Speaking, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Python, Go, PHP
+Technologies: SASS, LESS
+Databases: MongoDB, SQL Server
+Cloud Platforms: 
+Tools: Kanban, Git
+
+WORK EXPERIENCE
+Engineering Manager - NVIDIA (2019 - Present)
+• Developed applications using Critical Thinking and Public Speaking
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Science in Machine Learning
+UT Austin
+Graduated: 2015
+
+CERTIFICATIONS
+Scrum Master

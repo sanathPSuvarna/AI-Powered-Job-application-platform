@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Full Stack Developer with 7 years of experience in software development and technology.
+Strong background in Creativity, Pandas, LESS.
+
+TECHNICAL SKILLS
+Programming Languages: F#, VBA, PHP
+Technologies: LESS, Babel, Angular
+Databases: MongoDB
+Cloud Platforms: 
+Tools: Git, GitHub
+
+WORK EXPERIENCE
+Full Stack Developer - Facebook (2017 - Present)
+• Developed applications using Creativity and Pandas
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with LESS
+
+EDUCATION
+Master of Business Administration
+Columbia University
+Graduated: 2013
+
+CERTIFICATIONS
+Salesforce Certified, PMP

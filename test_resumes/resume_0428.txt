@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 14 years of experience in software development and technology.
+Strong background in Time Management, SASS, Google Cloud SQL.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, VBA, Dart, C++, Rust
+Technologies: SASS, Webpack
+Databases: Google Cloud SQL, Firebase, SQLite
+Cloud Platforms: AWS, Docker, Puppet
+Tools: InVision, SOAP, Git, GitHub
+
+WORK EXPERIENCE
+QA Engineer - Cisco (2010 - Present)
+• Developed applications using Time Management and SASS
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with SASS
+
+EDUCATION
+Master of Business Administration
+Purdue University
+Graduated: 2006
+
+CERTIFICATIONS
+PMP, AWS Certified

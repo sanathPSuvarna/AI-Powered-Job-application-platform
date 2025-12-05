@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, Shell Scripting, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, C++
+Technologies: Spring Boot, Angular, Bootstrap
+Databases: DynamoDB
+Cloud Platforms: Azure
+Tools: Git, InVision, JIRA
+
+WORK EXPERIENCE
+Database Administrator - Adobe (2017 - Present)
+• Developed applications using Oracle Certified and Shell Scripting
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Spring Boot
+
+EDUCATION
+Bachelor of Science in Computer Science
+NYU
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified, Salesforce Certified

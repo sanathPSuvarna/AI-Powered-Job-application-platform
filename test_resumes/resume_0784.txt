@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Engineering Manager with 7 years of experience in software development and technology.
+Strong background in CompTIA Security+, Communication, Creativity.
+
+TECHNICAL SKILLS
+Programming Languages: Python, MATLAB, Dart
+Technologies: Flask
+Databases: Google Cloud SQL, Amazon RDS
+Cloud Platforms: Chef, Puppet
+Tools: Agile, JIRA
+
+WORK EXPERIENCE
+Engineering Manager - Spotify (2017 - Present)
+• Developed applications using CompTIA Security+ and Communication
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Flask
+
+EDUCATION
+Master of Engineering in Data Science
+Harvard University
+Graduated: 2013
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master, PMP

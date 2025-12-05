@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 2 years of experience in software development and technology.
+Strong background in MariaDB, Project Management, Power BI.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, C++, Haskell
+Technologies: Angular
+Databases: MariaDB, CouchDB
+Cloud Platforms: 
+Tools: Scrum, Agile, Postman
+
+WORK EXPERIENCE
+Business Analyst - Spotify (2022 - Present)
+• Developed applications using MariaDB and Project Management
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Angular
+
+EDUCATION
+Bachelor of Science in Information Technology
+UCLA
+Graduated: 2018
+
+CERTIFICATIONS
+Cisco Certified, PMP

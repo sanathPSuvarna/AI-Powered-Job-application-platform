@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Senior Software Engineer with 2 years of experience in software development and technology.
+Strong background in Time Management, Creativity, DigitalOcean.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, F#, Scala
+Technologies: Angular
+Databases: Oracle
+Cloud Platforms: DigitalOcean, Kubernetes
+Tools: Scrum, DevOps, Microservices
+
+WORK EXPERIENCE
+Senior Software Engineer - Uber (2022 - Present)
+• Developed applications using Time Management and Creativity
+• Collaborated with cross-functional teams using Decision Making
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Computer Science
+University of Michigan
+Graduated: 2018
+
+CERTIFICATIONS

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 7 years of experience in software development and technology.
+Strong background in Critical Thinking, Team Collaboration, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Python, TypeScript, Rust
+Technologies: Bootstrap
+Databases: Firebase
+Cloud Platforms: Terraform, CircleCI
+Tools: InVision, Confluence, DevOps
+
+WORK EXPERIENCE
+Software Architect - Square (2017 - Present)
+• Developed applications using Critical Thinking and Team Collaboration
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Computer Science
+Georgia Tech
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Azure Certified, CISSP

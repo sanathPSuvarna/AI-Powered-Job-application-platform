@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 5 years of experience in software development and technology.
+Strong background in SASS, Objective-C, Cisco Certified.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Haskell, Scala
+Technologies: SASS, Laravel, Spring Boot
+Databases: Cassandra, SQLite
+Cloud Platforms: Heroku
+Tools: JIRA, Confluence, Microsoft Teams
+
+WORK EXPERIENCE
+Senior Software Engineer - IBM (2019 - Present)
+• Developed applications using SASS and Objective-C
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Engineering in Data Science
+University of Michigan
+Graduated: 2015
+
+CERTIFICATIONS
+Cisco Certified, PMP, CISSP

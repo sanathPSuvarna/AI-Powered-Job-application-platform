@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 2 years of experience in software development and technology.
+Strong background in Team Collaboration, Creativity, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Swift
+Technologies: Vue.js
+Databases: PostgreSQL, Elasticsearch
+Cloud Platforms: Google Cloud Platform
+Tools: REST API, JIRA
+
+WORK EXPERIENCE
+Data Analyst - NVIDIA (2022 - Present)
+• Developed applications using Team Collaboration and Creativity
+• Collaborated with cross-functional teams using Time Management
+• Implemented solutions with Vue.js
+
+EDUCATION
+Master of Engineering in Data Science
+UT Austin
+Graduated: 2018
+
+CERTIFICATIONS

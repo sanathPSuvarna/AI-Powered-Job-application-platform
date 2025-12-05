@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 0 years of experience in software development and technology.
+Strong background in Zoom, Swagger, Haskell.
+
+TECHNICAL SKILLS
+Programming Languages: Haskell, TypeScript, Rust
+Technologies: CSS, Flask
+Databases: Oracle, Firebase
+Cloud Platforms: 
+Tools: Zoom, Swagger, Git
+
+WORK EXPERIENCE
+Data Analyst - Yahoo (2024 - Present)
+• Developed applications using Zoom and Swagger
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+Georgia Tech
+Graduated: 2020
+
+CERTIFICATIONS

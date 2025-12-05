@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 1 years of experience in software development and technology.
+Strong background in Heroku, Time Management, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, VBA
+Technologies: SASS, Node.js
+Databases: SQL Server, CouchDB
+Cloud Platforms: Heroku, Google Cloud Platform
+Tools: InVision, Kanban
+
+WORK EXPERIENCE
+QA Engineer - Amazon (2023 - Present)
+• Developed applications using Heroku and Time Management
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+Yale University
+Graduated: 2019
+
+CERTIFICATIONS
+Cisco Certified, Azure Certified

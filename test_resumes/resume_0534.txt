@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Frontend Developer with 7 years of experience in software development and technology.
+Strong background in Shell Scripting, Zoom, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Objective-C
+Technologies: HTML
+Databases: DynamoDB
+Cloud Platforms: Terraform, Docker
+Tools: Zoom, Adobe Creative Suite, SOAP, GraphQL
+
+WORK EXPERIENCE
+Frontend Developer - PayPal (2017 - Present)
+• Developed applications using Shell Scripting and Zoom
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+Google Cloud Certified, Microsoft Certified, AWS Certified

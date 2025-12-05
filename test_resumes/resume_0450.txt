@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 7 years of experience in software development and technology.
+Strong background in R, SASS, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: R, Perl, F#, Rust
+Technologies: SASS, Angular
+Databases: MySQL
+Cloud Platforms: Kubernetes, Azure
+Tools: Figma, Postman
+
+WORK EXPERIENCE
+Technical Writer - Intel (2017 - Present)
+• Developed applications using R and SASS
+• Collaborated with cross-functional teams using Innovation
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+MIT
+Graduated: 2013
+
+CERTIFICATIONS
+Scrum Master, PMP

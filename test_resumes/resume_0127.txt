@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Project Manager with 13 years of experience in software development and technology.
+Strong background in Shell Scripting, SASS, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, VBA, JavaScript
+Technologies: SASS, Vue.js, Bootstrap, React
+Databases: Neo4j, Redis
+Cloud Platforms: Puppet
+Tools: Adobe Creative Suite, InVision, Git, JIRA, Microservices
+
+WORK EXPERIENCE
+Project Manager - Microsoft (2011 - Present)
+• Developed applications using Shell Scripting and SASS
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with SASS
+
+EDUCATION
+Bachelor of Science in Information Technology
+UCLA
+Graduated: 2007
+
+CERTIFICATIONS
+Azure Certified, AWS Certified

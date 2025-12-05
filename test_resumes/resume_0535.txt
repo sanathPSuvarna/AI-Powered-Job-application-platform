@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 2 years of experience in software development and technology.
+Strong background in Nuxt.js, Team Collaboration, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, F#, Python
+Technologies: Nuxt.js, React
+Databases: SQL Server
+Cloud Platforms: Docker, Google Cloud Platform
+Tools: GitLab, Confluence, GitHub, Figma
+
+WORK EXPERIENCE
+Network Engineer - Shopify (2022 - Present)
+• Developed applications using Nuxt.js and Team Collaboration
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Business Administration
+UT Austin
+Graduated: 2018
+
+CERTIFICATIONS
+Salesforce Certified

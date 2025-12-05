@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Architect with 7 years of experience in software development and technology.
+Strong background in Kotlin, F#, Pandas.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, F#
+Technologies: Node.js, Spring Boot, Express.js
+Databases: Redis
+Cloud Platforms: 
+Tools: GitHub, InVision
+
+WORK EXPERIENCE
+Software Architect - Zoom (2017 - Present)
+• Developed applications using Kotlin and F#
+• Collaborated with cross-functional teams using Communication
+• Implemented solutions with Express.js
+
+EDUCATION
+Master of Engineering in Data Science
+Stanford University
+Graduated: 2013
+
+CERTIFICATIONS
+Salesforce Certified, AWS Certified, Azure Certified

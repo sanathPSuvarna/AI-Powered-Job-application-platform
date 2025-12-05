@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior QA Engineer with 0 years of experience in software development and technology.
+Strong background in Shell Scripting, SASS, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Python
+Technologies: SASS, Flask
+Databases: InfluxDB, MySQL
+Cloud Platforms: Terraform
+Tools: GitHub, SOAP, GraphQL
+
+WORK EXPERIENCE
+QA Engineer - eBay (2024 - Present)
+• Developed applications using Shell Scripting and SASS
+• Collaborated with cross-functional teams using Leadership
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+MIT
+Graduated: 2020
+
+CERTIFICATIONS
+Microsoft Certified, CISSP

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Project Manager with 2 years of experience in software development and technology.
+Strong background in CompTIA Security+, Google Cloud SQL, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, Clojure, R
+Technologies: Angular, Spring Boot, Bootstrap
+Databases: Google Cloud SQL
+Cloud Platforms: Jenkins, Azure
+Tools: Microservices, REST API, Figma, DevOps
+
+WORK EXPERIENCE
+Project Manager - Netflix (2022 - Present)
+• Developed applications using CompTIA Security+ and Google Cloud SQL
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2018
+
+CERTIFICATIONS
+CompTIA Security+, Scrum Master

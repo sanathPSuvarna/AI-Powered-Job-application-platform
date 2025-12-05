@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Frontend Developer with 10 years of experience in software development and technology.
+Strong background in MariaDB, Google Cloud SQL, Firebase.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Java, Clojure, Ruby
+Technologies: Node.js, Bootstrap
+Databases: MariaDB, Google Cloud SQL, Firebase
+Cloud Platforms: Ansible, GitLab CI/CD, Kubernetes
+Tools: Slack, Microsoft Teams, Figma
+
+WORK EXPERIENCE
+Frontend Developer - Zoom (2014 - Present)
+• Developed applications using MariaDB and Google Cloud SQL
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Node.js
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Illinois
+Graduated: 2010
+
+CERTIFICATIONS
+CISSP

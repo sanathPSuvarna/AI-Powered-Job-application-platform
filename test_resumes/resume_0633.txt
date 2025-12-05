@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Senior Software Engineer with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, Kotlin, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Kotlin, Dart, Haskell
+Technologies: React, Angular
+Databases: Oracle, Elasticsearch
+Cloud Platforms: Puppet
+Tools: Adobe Creative Suite, Sketch, Bitbucket, REST API
+
+WORK EXPERIENCE
+Senior Software Engineer - Google (2020 - Present)
+• Developed applications using Shell Scripting and Kotlin
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with React
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Washington
+Graduated: 2016
+
+CERTIFICATIONS
+Microsoft Certified, Scrum Master

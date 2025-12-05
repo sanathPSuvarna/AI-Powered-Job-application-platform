@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Senior Software Architect with 14 years of experience in software development and technology.
+Strong background in Time Management, InVision, MySQL.
+
+TECHNICAL SKILLS
+Programming Languages: Python, F#, Clojure
+Technologies: Django, Nuxt.js, Next.js
+Databases: MySQL, MongoDB, SQLite
+Cloud Platforms: Jenkins, Terraform
+Tools: InVision, Zoom, GraphQL
+
+WORK EXPERIENCE
+Software Architect - IBM (2010 - Present)
+• Developed applications using Time Management and InVision
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Machine Learning
+UCLA
+Graduated: 2006
+
+CERTIFICATIONS
+Oracle Certified, AWS Certified

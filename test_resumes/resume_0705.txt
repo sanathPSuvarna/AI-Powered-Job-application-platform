@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Network Engineer with 0 years of experience in software development and technology.
+Strong background in Chef, Perl, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, F#, PowerShell, Scala
+Technologies: Next.js, Gatsby
+Databases: Amazon RDS
+Cloud Platforms: Chef
+Tools: Adobe Creative Suite, Postman, Microservices
+
+WORK EXPERIENCE
+Network Engineer - HP (2024 - Present)
+• Developed applications using Chef and Perl
+• Collaborated with cross-functional teams using Strategic Planning
+• Implemented solutions with Gatsby
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: 2020
+
+CERTIFICATIONS
+AWS Certified, CISSP

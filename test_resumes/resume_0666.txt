@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Technical Writer with 7 years of experience in software development and technology.
+Strong background in Oracle Certified, Clojure, Communication.
+
+TECHNICAL SKILLS
+Programming Languages: Clojure, Haskell, Java
+Technologies: HTML, jQuery, Next.js
+Databases: CouchDB, Amazon RDS
+Cloud Platforms: CircleCI
+Tools: GitHub, Confluence, REST API
+
+WORK EXPERIENCE
+Technical Writer - Netflix (2017 - Present)
+• Developed applications using Oracle Certified and Clojure
+• Collaborated with cross-functional teams using Critical Thinking
+• Implemented solutions with HTML
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois
+Graduated: 2013
+
+CERTIFICATIONS
+Oracle Certified

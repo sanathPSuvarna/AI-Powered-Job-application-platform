@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Business Analyst with 6 years of experience in software development and technology.
+Strong background in Time Management, Adobe Creative Suite, TypeScript.
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, Perl, C++
+Technologies: Vue.js
+Databases: Neo4j
+Cloud Platforms: Chef
+Tools: Adobe Creative Suite, REST API, DevOps
+
+WORK EXPERIENCE
+Business Analyst - Twitter (2018 - Present)
+• Developed applications using Time Management and Adobe Creative Suite
+• Collaborated with cross-functional teams using Team Collaboration
+• Implemented solutions with Vue.js
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified, CISSP, AWS Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Engineering Manager with 2 years of experience in software development and technology.
+Strong background in Oracle Certified, Communication, Team Collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: VBA, PHP, Scala, Java
+Technologies: Gatsby
+Databases: PostgreSQL, Elasticsearch
+Cloud Platforms: CircleCI, OpenShift
+Tools: SOAP, Sketch, JIRA
+
+WORK EXPERIENCE
+Engineering Manager - PayPal (2022 - Present)
+• Developed applications using Oracle Certified and Communication
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Gatsby
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+UT Austin
+Graduated: 2018
+
+CERTIFICATIONS
+Oracle Certified, Cisco Certified

@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 6 years of experience in software development and technology.
+Strong background in Critical Thinking, Scrum, PostgreSQL.
+
+TECHNICAL SKILLS
+Programming Languages: Groovy, MATLAB
+Technologies: Svelte, Vue.js
+Databases: PostgreSQL, Firebase
+Cloud Platforms: 
+Tools: Scrum, Kanban, Microsoft Teams, InVision
+
+WORK EXPERIENCE
+Software Engineer - Twitter (2018 - Present)
+• Developed applications using Critical Thinking and Scrum
+• Collaborated with cross-functional teams using Project Management
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Michigan
+Graduated: 2014
+
+CERTIFICATIONS
+Azure Certified, Google Cloud Certified, PMP

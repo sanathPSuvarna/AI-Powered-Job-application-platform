@@ -1,0 +1,23 @@
+PROFESSIONAL SUMMARY
+Junior Software Architect with 1 years of experience in software development and technology.
+Strong background in Critical Thinking, Ansible, Terraform.
+
+TECHNICAL SKILLS
+Programming Languages: Go, Swift
+Technologies: Angular, Flask
+Databases: MySQL
+Cloud Platforms: Ansible, Terraform
+Tools: Agile, Microservices, Sketch
+
+WORK EXPERIENCE
+Software Architect - LinkedIn (2023 - Present)
+• Developed applications using Critical Thinking and Ansible
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Angular
+
+EDUCATION
+Master of Science in Machine Learning
+University of Michigan
+Graduated: 2019
+
+CERTIFICATIONS

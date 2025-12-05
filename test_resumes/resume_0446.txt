@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Django, CompTIA Security+, Public Speaking.
+
+TECHNICAL SKILLS
+Programming Languages: C++, F#, C#
+Technologies: Django, jQuery
+Databases: Redis, MySQL
+Cloud Platforms: Docker, Google Cloud Platform
+Tools: Scrum, Adobe Creative Suite, InVision
+
+WORK EXPERIENCE
+Full Stack Developer - PayPal (2024 - Present)
+• Developed applications using Django and CompTIA Security+
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with Django
+
+EDUCATION
+Master of Science in Machine Learning
+Stanford University
+Graduated: 2020
+
+CERTIFICATIONS
+CompTIA Security+, Salesforce Certified

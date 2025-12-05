@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Software Engineer with 4 years of experience in software development and technology.
+Strong background in Heroku, Critical Thinking, Objective-C.
+
+TECHNICAL SKILLS
+Programming Languages: Objective-C, Python, Go
+Technologies: Bootstrap
+Databases: Amazon RDS
+Cloud Platforms: Heroku, Vagrant
+Tools: Bitbucket, Postman
+
+WORK EXPERIENCE
+Software Engineer - Netflix (2020 - Present)
+• Developed applications using Heroku and Critical Thinking
+• Collaborated with cross-functional teams using Adaptability
+• Implemented solutions with Bootstrap
+
+EDUCATION
+Master of Science in Computer Science
+NYU
+Graduated: 2016
+
+CERTIFICATIONS
+CISSP, Salesforce Certified

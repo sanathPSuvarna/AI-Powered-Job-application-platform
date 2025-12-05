@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Network Engineer with 4 years of experience in software development and technology.
+Strong background in CompTIA Security+, Team Collaboration, SASS.
+
+TECHNICAL SKILLS
+Programming Languages: Swift, VBA, JavaScript
+Technologies: SASS, Svelte
+Databases: MySQL
+Cloud Platforms: Puppet
+Tools: Git, Agile, Bitbucket, DevOps
+
+WORK EXPERIENCE
+Network Engineer - HP (2020 - Present)
+• Developed applications using CompTIA Security+ and Team Collaboration
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Svelte
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan
+Graduated: 2016
+
+CERTIFICATIONS
+CompTIA Security+, Azure Certified, Salesforce Certified

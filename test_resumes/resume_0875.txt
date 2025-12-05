@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 4 years of experience in software development and technology.
+Strong background in Nuxt.js, Communication, Google Cloud Certified.
+
+TECHNICAL SKILLS
+Programming Languages: F#, TypeScript
+Technologies: Nuxt.js, jQuery, Express.js
+Databases: MySQL
+Cloud Platforms: Terraform, Vagrant
+Tools: Microservices, Confluence, REST API
+
+WORK EXPERIENCE
+Database Administrator - Zoom (2020 - Present)
+• Developed applications using Nuxt.js and Communication
+• Collaborated with cross-functional teams using Customer Service
+• Implemented solutions with jQuery
+
+EDUCATION
+Master of Business Administration
+Yale University
+Graduated: 2016
+
+CERTIFICATIONS
+Google Cloud Certified, Salesforce Certified

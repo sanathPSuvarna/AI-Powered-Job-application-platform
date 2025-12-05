@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Business Analyst with 1 years of experience in software development and technology.
+Strong background in Team Collaboration, Kotlin, Adobe Creative Suite.
+
+TECHNICAL SKILLS
+Programming Languages: Kotlin, Dart
+Technologies: Flask
+Databases: MySQL
+Cloud Platforms: 
+Tools: Adobe Creative Suite, Swagger, Agile, GraphQL
+
+WORK EXPERIENCE
+Business Analyst - eBay (2023 - Present)
+• Developed applications using Team Collaboration and Kotlin
+• Collaborated with cross-functional teams using Public Speaking
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Science in Information Technology
+Harvard University
+Graduated: 2019
+
+CERTIFICATIONS
+CISSP

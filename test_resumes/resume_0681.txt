@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Backend Developer with 6 years of experience in software development and technology.
+Strong background in Laravel, PowerShell, Strategic Planning.
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Dart, Perl, Groovy
+Technologies: Laravel, Vue.js, Node.js
+Databases: MySQL, Cassandra
+Cloud Platforms: Puppet
+Tools: Swagger, Agile, Figma, DevOps
+
+WORK EXPERIENCE
+Backend Developer - eBay (2018 - Present)
+• Developed applications using Laravel and PowerShell
+• Collaborated with cross-functional teams using Negotiation
+• Implemented solutions with Laravel
+
+EDUCATION
+Master of Engineering in Data Science
+MIT
+Graduated: 2014
+
+CERTIFICATIONS
+Google Cloud Certified, Scrum Master, CISSP

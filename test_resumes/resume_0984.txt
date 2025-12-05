@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Junior Full Stack Developer with 0 years of experience in software development and technology.
+Strong background in Communication, Time Management, Perl.
+
+TECHNICAL SKILLS
+Programming Languages: Perl, Kotlin
+Technologies: Angular, Flask
+Databases: PostgreSQL
+Cloud Platforms: Google Cloud Platform
+Tools: GraphQL, Confluence
+
+WORK EXPERIENCE
+Full Stack Developer - Apple (2024 - Present)
+• Developed applications using Communication and Time Management
+• Collaborated with cross-functional teams using Problem Solving
+• Implemented solutions with Flask
+
+EDUCATION
+Bachelor of Engineering in Software Engineering
+University of Washington
+Graduated: 2020
+
+CERTIFICATIONS
+PMP, Salesforce Certified

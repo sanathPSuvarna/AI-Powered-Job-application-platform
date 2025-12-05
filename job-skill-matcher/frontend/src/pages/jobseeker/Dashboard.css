@@ -1,5 +1,5 @@
 /* Add this CSS in a new file: src/pages/jobseeker/Dashboard.css */
-
+ 
 .dashboard-container {
     padding: 20px;
     max-width: 1200px;
@@ -49,6 +49,45 @@
     border: 1px solid #000000; /* Green border */
 }
 
+/* Career Path Simulator Preview Styles */
+.career-simulator-preview {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 12px;
+    padding: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+}
+
+.career-simulator-preview p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+.simulator-features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+.feature {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.8rem;
+    border-radius: 8px;
+    backdrop-filter: blur(10px);
+}
+
+.feature-icon {
+    font-size: 1.2rem;
+}
+
+.feature span:last-child {
+    font-weight: 500;
+}
+
 button {
     background: #1976d2; /* Darker blue for buttons */
     color: white;
@@ -75,4 +114,240 @@ button:hover {
     border-radius: 6px;
     padding: 12px;
     border: 1px solid #ff9c07; /* Orange border */
+}
+
+/* Mock Interview Section Styles */
+.mock-interview-section {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.mock-interview-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.05);
+    pointer-events: none;
+}
+
+.mock-interview-section .section-header {
+    position: relative;
+    z-index: 1;
+}
+
+.mock-interview-section .section-header h3 {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.interview-actions {
+    display: flex;
+    gap: 12px;
+}
+
+.primary-btn {
+    background: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
+}
+
+.primary-btn:hover {
+    background: #ff5252;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.4);
+}
+
+.secondary-btn {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+}
+
+.secondary-btn:hover {
+    background: white;
+    color: #667eea;
+    transform: translateY(-2px);
+}
+
+.mock-interview-preview {
+    position: relative;
+    z-index: 1;
+}
+
+.interview-intro {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.interview-intro h4 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+}
+
+.interview-intro p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    opacity: 0.9;
+}
+
+.interview-features {
+    margin: 2rem 0;
+}
+
+.feature-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.feature {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 1.2rem;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.feature:hover {
+    transform: translateY(-3px);
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.feature-icon {
+    font-size: 2rem;
+    flex-shrink: 0;
+}
+
+.feature-content h5 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: white;
+}
+
+.feature-content p {
+    margin: 0;
+    font-size: 0.9rem;
+    opacity: 0.9;
+    line-height: 1.4;
+}
+
+.popular-roles {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.popular-roles h5 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.roles-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    justify-content: center;
+}
+
+.role-chip {
+    background: rgba(255, 255, 255, 0.9);
+    color: #667eea;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    font-size: 0.9rem;
+}
+
+.role-chip:hover {
+    background: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    border-color: #ff6b6b;
+}
+
+.fresher-tips {
+    margin-top: 2rem;
+}
+
+.tip-box {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+.tip-box h5 {
+    margin: 0 0 1rem 0;
+    font-size: 1.2rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.tip-box ul {
+    margin: 0;
+    padding-left: 1.2rem;
+}
+
+.tip-box li {
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+    opacity: 0.9;
+}
+
+.tip-box li:last-child {
+    margin-bottom: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .interview-actions {
+        flex-direction: column;
+    }
+    
+    .feature-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .roles-chips {
+        justify-content: flex-start;
+    }
+    
+    .mock-interview-section .section-header {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: flex-start;
+    }
 }

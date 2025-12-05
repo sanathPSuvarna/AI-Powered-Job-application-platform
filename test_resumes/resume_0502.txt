@@ -1,0 +1,24 @@
+PROFESSIONAL SUMMARY
+Mid Database Administrator with 4 years of experience in software development and technology.
+Strong background in Shell Scripting, Cisco Certified, Neo4j.
+
+TECHNICAL SKILLS
+Programming Languages: Shell Scripting, Dart, Python, Swift
+Technologies: Gatsby, Nuxt.js
+Databases: Neo4j, Amazon RDS
+Cloud Platforms: 
+Tools: Postman, GraphQL, Sketch
+
+WORK EXPERIENCE
+Database Administrator - Apple (2020 - Present)
+• Developed applications using Shell Scripting and Cisco Certified
+• Collaborated with cross-functional teams using Conflict Resolution
+• Implemented solutions with Nuxt.js
+
+EDUCATION
+Master of Science in Machine Learning
+University of Michigan
+Graduated: 2016
+
+CERTIFICATIONS
+Cisco Certified, PMP, Salesforce Certified
